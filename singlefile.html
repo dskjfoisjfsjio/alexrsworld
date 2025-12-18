@@ -2208,34 +2208,39 @@ function launchGame(game) {
 
         
         loadCloak();
+let lastWheelTime = 0;
+const wheelCooldownMs = 120;
 
-        let lastWheelTime = 0;
-        const wheelCooldownMs = 120;
-        window.addEventListener('wheel', (e) => {
-            try {
-                if (isLibraryOpen || isOtherOpen) return;
-                if (document.querySelector('.game-modal')) return;
+window.addEventListener('wheel', (e) => {
+    try {
+        if (isLibraryOpen || isOtherOpen) return;
+        if (document.querySelector('.game-modal')) return;
 
-                const now = Date.now();
-                if (now - lastWheelTime < wheelCooldownMs) return;
+        const now = Date.now();
+        if (now - lastWheelTime < wheelCooldownMs) return;
 
-                const delta = e.deltaY || e.wheelDelta || 0;
-                if (Math.abs(delta) < 5) return;
+        const delta = e.deltaY || e.wheelDelta || 0;
+        if (Math.abs(delta) < 5) return;
 
-                if (e.preventDefault) e.preventDefault();
+        if (e.preventDefault) e.preventDefault();
 
-                if (delta > 0) {
-                    updateSelection(Math.min(displayList.length - 1, selectedIndex + 1));
-                } else {a
-                    updateSelection(Math.max(0, selectedIndex - 1));
-                }
+        let nextIndex;
+        if (delta > 0) {
+            nextIndex = (selectedIndex >= displayList.length - 1) ? 0 : selectedIndex + 1;
+        } else {
+            nextIndex = (selectedIndex <= 0) ? displayList.length - 1 : selectedIndex - 1;
+        }
 
-                playSound('hover');
-                lastWheelTime = now;
-            } catch (err) {
-                console.warn('Wheel navigation error:', err);
-            }
-        }, { passive: false });
+        updateSelection(nextIndex);
+
+        playSound('hover'); 
+        
+        lastWheelTime = now;
+    } catch (err) {
+        console.warn('Wheel navigation error:', err);
+    }
+}, { passive: false });
+
 
         (function(){
             let touchStartX = 0;
