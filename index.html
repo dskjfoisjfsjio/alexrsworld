@@ -4,6 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Alexr's World</title>
+<base href="https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/">
+<link rel="icon" href="new logo.png">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <style>
     
@@ -817,6 +819,15 @@ body.theme-red .game-modal > div:first-child { background: #3a0000 !important; c
         .tab-btn { display: inline-block; font-size: 0.95rem; }
         .library-overlay .lib-header, .otherOverlay .lib-header { padding-left: 10px; padding-right: 10px; }
     }
+
+.lib-card.dragging {
+    opacity: 0.4;
+    transform: scale(0.95);
+}
+.lib-card.drag-over {
+    outline: 3px solid var(--ps-light-blue);
+}
+
 </style>
 </head>
 <body>
@@ -824,7 +835,7 @@ body.theme-red .game-modal > div:first-child { background: #3a0000 !important; c
 
     <div class="top-bar">
         <div class="site-title-group">
-            <div class="site-title"><img src="/new logo.png" alt="Alexr's World Logo"> Alexr's World</div>
+            <div class="site-title"><img src="new logo.png" alt="Alexr's World Logo"> Alexr's World</div>
         </div>
         
         <div class="nav-hint" id="navHint">Navigate with &larr;&rarr; Arrow Keys or Mouse</div>
@@ -894,7 +905,10 @@ body.theme-red .game-modal > div:first-child { background: #3a0000 !important; c
         </div>
 
         <div id="other_changelog">
-          <p>12-14-25: Beta release</p>
+          <p>12-14-25 Beta V1: Beta release</p>
+          <p>12-15-25 Beta V2: Bug Fixes and implemented pokemon games and more!</p>
+          <p>12-17-25: Beta V3: More bug fixes and implement FNAF 4 Halloween and Ultimate Custom Night</p>
+          <p>12-18-25: V1.0: RELEASE! You can now drag and drop cards on menu. Added Donkey Kong Country 1-3.</p>
         </div>
 
         <div id="other_proxy" style="display:none;">
@@ -975,6 +989,9 @@ body.theme-red .game-modal > div:first-child { background: #3a0000 !important; c
     </div>
 
     <script>
+
+let draggedLibTitle = null;
+
         const carousel = document.getElementById('carousel');
         const infoArea = document.getElementById('infoArea');
         const libOverlay = document.getElementById('libraryOverlay');
@@ -1237,71 +1254,74 @@ body.theme-red .game-modal > div:first-child { background: #3a0000 !important; c
         }
         
         
-        async function loadGames() {
-            loadFavorites(); 
+       async function loadGames() {
+    loadFavorites(); 
 
-            
-            localStorage.removeItem('alexrGames_allGamesData');
-            
-            
-            try {
-                const response = await fetch('https://raw.githubusercontent.com/dskjfoisjfsjio/alexrsworld/main/games.json');
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
-                const data = await response.json();
-                
-                
-                allGamesData = Array.isArray(data) ? data : data.allGamesData || [];
+    localStorage.removeItem('alexrGames_allGamesData');
+    
+    try {
+        const response = await fetch('https://raw.githubusercontent.com/dskjfoisjfsjio/alexrsworld/main/games.json');
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
+        
+        allGamesData = Array.isArray(data) ? data : data.allGamesData || [];
 
-                if (allGamesData.length === 0) {
-                    console.warn('games.json was empty or incorrectly formatted.');
-                }
+        allGamesData.sort((a, b) => {
+            return a.title.localeCompare(b.title, undefined, {
+                numeric: true,
+                sensitivity: 'base'
+            });
+        });
 
-                try {
-                    const savedCustom = JSON.parse(localStorage.getItem('alexrGames_customOrder') || '[]');
-                    if (Array.isArray(savedCustom) && savedCustom.length) {
-                        const map = new Map(allGamesData.map(g => [g.title, g]));
-                        const reordered = [];
-                        savedCustom.forEach(title => {
-                            if (map.has(title)) {
-                                reordered.push(map.get(title));
-                                map.delete(title);
-                            }
-                        });
-                        for (const g of allGamesData) {
-                            if (map.has(g.title)) reordered.push(g);
-                        }
-                        allGamesData = reordered;
-                    } else {
-                        const savedRecent = JSON.parse(localStorage.getItem('alexrGames_recent') || '[]');
-                        if (Array.isArray(savedRecent) && savedRecent.length) {
-                            const map = new Map(allGamesData.map(g => [g.title, g]));
-                            const reordered = [];
-                            savedRecent.forEach(title => {
-                                if (map.has(title)) {
-                                    reordered.push(map.get(title));
-                                    map.delete(title);
-                                }
-                            });
-                            for (const g of allGamesData) {
-                                if (map.has(g.title)) reordered.push(g);
-                            }
-                            allGamesData = reordered;
-                        }
-                    }
-                } catch (e) {
-                    console.warn('Failed to apply saved ordering:', e);
-                }
-
-            } catch(e) {
-                console.error("Failed to fetch games.json. Please ensure the file exists and is valid JSON.", e);
-                allGamesData = []; 
-            }
-
-            buildLists();
+        if (allGamesData.length === 0) {
+            console.warn('games.json was empty or incorrectly formatted.');
         }
 
+        try {
+            const savedCustom = JSON.parse(localStorage.getItem('alexrGames_customOrder') || '[]');
+            if (Array.isArray(savedCustom) && savedCustom.length) {
+                const map = new Map(allGamesData.map(g => [g.title, g]));
+                const reordered = [];
+                savedCustom.forEach(title => {
+                    if (map.has(title)) {
+                        reordered.push(map.get(title));
+                        map.delete(title);
+                    }
+                });
+                for (const g of allGamesData) {
+                    if (map.has(g.title)) reordered.push(g);
+                }
+                allGamesData = reordered;
+            } else {
+                const savedRecent = JSON.parse(localStorage.getItem('alexrGames_recent') || '[]');
+                if (Array.isArray(savedRecent) && savedRecent.length) {
+                    const map = new Map(allGamesData.map(g => [g.title, g]));
+                    const reordered = [];
+                    savedRecent.forEach(title => {
+                        if (map.has(title)) {
+                            reordered.push(map.get(title));
+                            map.delete(title);
+                        }
+                    });
+                    for (const g of allGamesData) {
+                        if (map.has(g.title)) reordered.push(g);
+                    }
+                    allGamesData = reordered;
+                }
+            }
+        } catch (e) {
+            console.warn('Failed to apply saved ordering:', e);
+        }
+
+    } catch(e) {
+        console.error("Failed to fetch games.json. Please ensure the file exists and is valid JSON.", e);
+        allGamesData = []; 
+    }
+
+    buildLists();
+}
         function buildLists() {
             const firstSix = allGamesData.slice(0, 6);
             
@@ -1517,78 +1537,119 @@ body.theme-red .game-modal > div:first-child { background: #3a0000 !important; c
             renderOverlayGrid();
         }
 
-        function renderOverlayGrid() {
-            libGrid.innerHTML = '';
-            let gamesToShow = [];
+     function renderOverlayGrid() {
+    libGrid.innerHTML = '';
+    let gamesToShow = [];
 
-            if (currentOverlayMode === 'library') {
-                libraryTitle.textContent = 'All Games';
-                gamesToShow = allGamesData;
-                
-                
-                const searchTerm = libSearchInput.value.toLowerCase().trim();
-                
-                gamesToShow = gamesToShow.filter(game => {
-                    const matchesSearch = !searchTerm || game.title.toLowerCase().includes(searchTerm);
-                    const matchesCategory = currentCategoryFilter === 'All' || game.category === currentCategoryFilter;
-                    return matchesSearch && matchesCategory;
-                });
+    if (currentOverlayMode === 'library') {
+        libraryTitle.textContent = 'All Games';
+        gamesToShow = allGamesData;
+        
+        const searchTerm = libSearchInput.value.toLowerCase().trim();
+        
+        gamesToShow = gamesToShow.filter(game => {
+            const matchesSearch = !searchTerm || game.title.toLowerCase().includes(searchTerm);
+            const matchesCategory = currentCategoryFilter === 'All' || game.category === currentCategoryFilter;
+            return matchesSearch && matchesCategory;
+        });
 
-            } else {
-                libraryTitle.textContent = 'Your Favorites';
-                gamesToShow = allGamesData.filter(g => favoritesSet.has(g.title));
+    } else {
+        libraryTitle.textContent = 'Your Favorites';
+        gamesToShow = allGamesData.filter(g => favoritesSet.has(g.title));
 
-                const searchTerm = libSearchInput.value.toLowerCase().trim();
-                gamesToShow = gamesToShow.filter(game => {
-                    const matchesSearch = !searchTerm || game.title.toLowerCase().includes(searchTerm);
-                    const matchesCategory = currentCategoryFilter === 'All' || game.category === currentCategoryFilter;
-                    return matchesSearch && matchesCategory;
-                });
-            }
+        const searchTerm = libSearchInput.value.toLowerCase().trim();
+        gamesToShow = gamesToShow.filter(game => {
+            const matchesSearch = !searchTerm || game.title.toLowerCase().includes(searchTerm);
+            const matchesCategory = currentCategoryFilter === 'All' || game.category === currentCategoryFilter;
+            return matchesSearch && matchesCategory;
+        });
+    }
 
-            gamesToShow.forEach((game) => {
-                const card = document.createElement('div');
-                card.className = 'lib-card';
-                card.innerHTML = `
-                    <img src="${game.img || ''}" onerror="this.style.display='none'">
-                    <button class="lib-fav-btn" aria-label="${favoritesSet.has(game.title) ? 'Unfavorite' : 'Favorite'}">
-                        <i class="${favoritesSet.has(game.title) ? 'fas' : 'far'} fa-heart"></i>
-                    </button>
-                    <div class="lib-card-title">${game.title}</div>
-                `;
+    gamesToShow.forEach((game) => {
+        const card = document.createElement('div');
+        card.draggable = true;
 
-                const favBtn = card.querySelector('.lib-fav-btn');
-                if (favBtn) {
-                    if (favoritesSet.has(game.title)) favBtn.classList.add('favorited');
-                    favBtn.addEventListener('click', (e) => {
-                        e.stopPropagation();
-                        if (favoritesSet.has(game.title)) {
-                            favoritesSet.delete(game.title);
-                            favBtn.classList.remove('favorited');
-                            const icon = favBtn.querySelector('i'); if (icon) icon.className = 'far fa-heart';
-                            favBtn.setAttribute('aria-label','Favorite');
-                        } else {
-                            favoritesSet.add(game.title);
-                            favBtn.classList.add('favorited');
-                            const icon = favBtn.querySelector('i'); if (icon) icon.className = 'fas fa-heart';
-                            favBtn.setAttribute('aria-label','Unfavorite');
-                        }
-                        saveFavorites();
-                        playSound('select');
+        card.addEventListener('dragstart', () => {
+            draggedLibTitle = game.title;
+            card.classList.add('dragging');
+            playSound('hover');
+        });
 
-                        if (currentOverlayMode === 'favorites') renderOverlayGrid();
-                        try { updateFavoriteTile(displayList[selectedIndex]); } catch(e) {}
-                    });
+        card.addEventListener('dragend', () => {
+            draggedLibTitle = null;
+            card.classList.remove('dragging');
+            document.querySelectorAll('.lib-card').forEach(c => c.classList.remove('drag-over'));
+        });
+
+        card.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            card.classList.add('drag-over');
+        });
+
+        card.addEventListener('dragleave', () => {
+            card.classList.remove('drag-over');
+        });
+
+        card.addEventListener('drop', (e) => {
+            e.preventDefault();
+            card.classList.remove('drag-over');
+
+            if (!draggedLibTitle || draggedLibTitle === game.title) return;
+
+            const fromIndex = allGamesData.findIndex(g => g.title === draggedLibTitle);
+            const toIndex = allGamesData.findIndex(g => g.title === game.title);
+
+            if (fromIndex === -1 || toIndex === -1) return;
+
+            const [moved] = allGamesData.splice(fromIndex, 1);
+            allGamesData.splice(toIndex, 0, moved);
+
+            playSound('select');
+            saveGameOrder();
+            renderOverlayGrid();
+        });
+
+        card.className = 'lib-card';
+        card.innerHTML = `
+            <img src="${game.img || ''}" onerror="this.style.display='none'">
+            <button class="lib-fav-btn" aria-label="${favoritesSet.has(game.title) ? 'Unfavorite' : 'Favorite'}">
+                <i class="${favoritesSet.has(game.title) ? 'fas' : 'far'} fa-heart"></i>
+            </button>
+            <div class="lib-card-title">${game.title}</div>
+        `;
+
+        const favBtn = card.querySelector('.lib-fav-btn');
+        if (favBtn) {
+            if (favoritesSet.has(game.title)) favBtn.classList.add('favorited');
+            favBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                if (favoritesSet.has(game.title)) {
+                    favoritesSet.delete(game.title);
+                    favBtn.classList.remove('favorited');
+                    const icon = favBtn.querySelector('i'); if (icon) icon.className = 'far fa-heart';
+                    favBtn.setAttribute('aria-label','Favorite');
+                } else {
+                    favoritesSet.add(game.title);
+                    favBtn.classList.add('favorited');
+                    const icon = favBtn.querySelector('i'); if (icon) icon.className = 'fas fa-heart';
+                    favBtn.setAttribute('aria-label','Unfavorite');
                 }
+                saveFavorites();
+                playSound('select');
 
-                card.onclick = () => {
-                    playSound('select');
-                    toggleOverlay(false);
-                    launchGame(game);
-                };
-                libGrid.appendChild(card);
+                if (currentOverlayMode === 'favorites') renderOverlayGrid();
+                try { updateFavoriteTile(displayList[selectedIndex]); } catch(e) {}
             });
         }
+
+        card.onclick = () => {
+            playSound('select');
+            toggleOverlay(false);
+            launchGame(game);
+        };
+        libGrid.appendChild(card);
+    });
+}
 
         function updateSelection(index) {
             if(isLibraryOpen || isOtherOpen || document.querySelector('.game-modal')) return;
@@ -2207,7 +2268,7 @@ body.theme-red .game-modal > div:first-child { background: #3a0000 !important; c
 
                 if (delta > 0) {
                     updateSelection(Math.min(displayList.length - 1, selectedIndex + 1));
-                } else {
+                } else {a
                     updateSelection(Math.max(0, selectedIndex - 1));
                 }
 
@@ -2296,6 +2357,15 @@ body.theme-red {
         linear-gradient(135deg, #3a0000, #7a0000) !important;
     --ps-light-blue: #ff4d4d !important;
 }
+
+.lib-card.dragging {
+    opacity: 0.4;
+    transform: scale(0.95);
+}
+.lib-card.drag-over {
+    outline: 3px solid var(--ps-light-blue);
+}
+
 </style>
 
 </body>
