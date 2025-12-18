@@ -67,7 +67,7 @@
     "title": "Bloons Super Monkey",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/bloons%20super%20monkey.jpg",
     "description": "Bloons Super Monkey is an arcade Bloons game and the first game in the Bloons Super Monkey series.",
-    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/bloonssupermonkey.html",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/bloonsupermonkey.html",
     "category": "Arcade",
     "iframe": true
   },
@@ -2224,6 +2224,97 @@
     "category": "Arcade",
     "iframe": false
   },
+
+  
+  {
+    "title": "Pokemon Ruby Version",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/ruby.jpg",
+    "description": "Play the classic Pokemon Ruby Version game now!",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/GBA/rubyversion.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Pokemon Sapphire Version",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/sapphire.webp",
+    "description": "Play the classic Pokemon Sapphire Version game now!",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/GBA/sapphireversion.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Pokemon Fire Red Version",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/firered.jpg",
+    "description": "Play the classic Pokemon Fire Red Version game now!",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/GBA/fireredversion.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Pokemon Leaf Green Version",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/leafgreen.jpg",
+    "description": "Play the classic Pokemon Leaf Green Version game now!",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/GBA/leafgreenversion.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Pokemon Emerald Version",
+    "img": "https://cdn.jsdelivr.gh/dskjfoisjfsjio/Standalone-games@main/assets/emerald.avif",
+    "description": "Play the classic Pokemon Emerald Version game now!",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/GBA/emeraldversion.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Mario Kart 64",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/kart64.jpg",
+    "description": "Race against the other racers and prove yourseld victorious in this classic game.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/N64/mariokart64.html",
+    "category": "Racing",
+    "iframe": true
+  },
+  {
+    "title": "Super Mario 64",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/super mario 64.webp",
+    "description": "Join Mario on his quest to save Princess Peach in this classic 3D platformer.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/N64/supermario64.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Earthbound",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/earthbound.webp",
+    "description": "Embark on a unique RPG adventure in the quirky world of Earthbound.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/SNES/earthbound.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Donkey Kong Country",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/donkeykongcountry.jpg",
+    "description": "Join Donkey Kong and Diddy Kong on a jungle adventure in this classic platformer.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/SNES/donkeykongcountry.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Donkey Kong Country 2",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/donkeykongcountry2.jpg",
+    "description": "Join Diddy Kong and Dixie Kong on a new adventure to rescue Donkey Kong in this classic platformer sequel.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/SNES/donkeykongcountry2.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Donkey Kong Country 3",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/donkeykongcountry3.webp",
+    "description": "Join Dixie Kong and Kiddy Kong on a new adventure to rescue Donkey Kong and Diddy Kong!",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/SNES/donkeykongcountry3.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+
   {
     "title": "Soundboard",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/soundboard.png",
