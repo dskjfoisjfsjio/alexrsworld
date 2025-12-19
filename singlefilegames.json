@@ -2377,7 +2377,7 @@
 
    {
     "title": "Chess",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/chess.jpg",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/chess.png",
     "description": "Play a game of chess against the computer or a friend.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/chess.html",
     "category": "Strategy",
