@@ -385,8 +385,17 @@
     "category": "Arcade",
     "iframe": true
   },
- 
-  {
+
+   {
+    "title": "Retro Bowl College",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/retro-bowl-college/unnamed.png",
+    "description": "College edition of Retro Bowl",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/retrobowlcollege.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
+  
     "title": "Worlds Hardest Game",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/worlds%20hardest%20game.jpg",
     "description": "Use the arrow keys to move the red square to the end zone. Collect the yellow coins while avoiding the blue balls.",
@@ -394,6 +403,7 @@
     "category": "Challenging",
     "iframe": true
   },
+  
   {
     "title": "Worlds Hardest Game 2",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/worlds%20hardest%20game%202.png",
