@@ -2560,6 +2560,7 @@
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/code.png",
     "description": "Use our very own code editor where you can create and downloadyour own projects!",
     "path": "Apps/codeeditor.html",
-    "iframe": true
+    "category": "Apps"
+    "iframe": true,
   }
 ]
