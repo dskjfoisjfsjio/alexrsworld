@@ -7,8 +7,6 @@
     "category": "Runner",
     "iframe": true
   },
-
-  
   {
     "title": "Slope 2 Player",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/slope%202%20player.jpg",
@@ -17,7 +15,6 @@
     "category": "Runner",
     "iframe": true
   },
-
   {
     "title": "Bloons Tower Defense",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/btd.jpg",
@@ -200,7 +197,7 @@
     "description": "Color Tunnel is a fast-paced 3D arcade game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/colortunnel.html",
     "category": "Runner",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Death Run 3D",
@@ -282,8 +279,7 @@
     "category": "Arcade",
     "iframe": true
   },
-
-   {
+  {
     "title": "Pacman World",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/pacmanworld.jpg",
     "description": "Pacman World is a fun and challenging Pacman game.",
@@ -291,14 +287,13 @@
     "category": "Adventure",
     "iframe": true
   },
-
   {
     "title": "Galaga",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/galaga.jpg",
     "description": "Play the classic Galaga game now!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/galaga.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Galaga Flash",
@@ -396,8 +391,7 @@
     "category": "Arcade",
     "iframe": true
   },
-
-   {
+  {
     "title": "Retro Bowl College",
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/retro-bowl-college/unnamed.png",
     "description": "College edition of Retro Bowl",
@@ -405,7 +399,6 @@
     "category": "Arcade",
     "iframe": true
   },
-
   {
     "title": "Worlds Hardest Game",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/worlds%20hardest%20game.jpg",
@@ -414,7 +407,6 @@
     "category": "Challenging",
     "iframe": true
   },
-  
   {
     "title": "Worlds Hardest Game 2",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/worlds%20hardest%20game%202.png",
@@ -639,7 +631,6 @@
     "category": "Adventure",
     "iframe": true
   },
-
   {
     "title": "Sonic Advance",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/sonicadvance.jpg",
@@ -648,8 +639,7 @@
     "category": "Adventure",
     "iframe": true
   },
-
-    {
+  {
     "title": "Sonic Advance 2",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/sonicadvance2.png",
     "description": "Sonic Advance 2 is the sequel to Sonic Advance, featuring new levels and characters.",
@@ -657,10 +647,7 @@
     "category": "Adventure",
     "iframe": true
   },
-
-
-
-   {
+  {
     "title": "Sonic Advance 3",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/sonicadvance3.jpg",
     "description": "Sonic Advance 3 is the final game in the Sonic Advance series.",
@@ -668,16 +655,14 @@
     "category": "Adventure",
     "iframe": true
   },
-
   {
     "title": "Sonic CD",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/sonic%20cd.webp",
     "description": "The original Sonic CD as you remember. With hard levels, bosses, and easter eggs.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/soniccd.html",
     "category": "Adventure",
-    "iframe": false
+    "iframe": true
   },
-
   {
     "title": "Cubefield",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/cube%20field.jpg",
@@ -724,7 +709,7 @@
     "description": "Baldi's Basics is a puzzle horror game which satirizes 1990s educational games.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/baldi.html",
     "category": "Challenging",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Diner Dash Hometown Hero",
@@ -830,7 +815,6 @@
     "category": "Arcade",
     "iframe": true
   },
-
   {
     "title": "Raft Wars 2",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/raft%20wars%202.webp",
@@ -839,7 +823,6 @@
     "category": "Arcade",
     "iframe": true
   },
-  
   {
     "title": "Shopping Cart Hero",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/shopping%20cart%20hero.jpg",
@@ -990,7 +973,7 @@
     "description": "Join the tiles and reach 2048!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/2048.html",
     "category": "Puzzle",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "2048 Cupcakes",
@@ -998,7 +981,7 @@
     "description": "Join the cupcakes and reach the cupcake that represents 2048!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/2048cupcakes.html",
     "category": "Puzzle",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Bad Piggies",
@@ -1054,7 +1037,7 @@
     "description": "Cookie Clicker is a game about making an absurd amount of cookies.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/cookieclicker.html",
     "category": "Idle",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Moto-X3M Spooky Land",
@@ -1110,7 +1093,7 @@
     "description": "Fight to survive in this epic multiplayer Battle Royale",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/1v1lol.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Buildnow GG",
@@ -1118,7 +1101,7 @@
     "description": "BuildNow GG is an exciting online multiplayer building and shooting game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/BuildNow.gg.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Jetpack Joyride",
@@ -1238,7 +1221,7 @@
     "description": "Big Tower Tiny Square is all about fantastic timing and big jumps.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/bigtower.html",
     "category": "Challenging",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Big Tower Tiny Square 2",
@@ -1246,7 +1229,7 @@
     "description": "The sequel to Big Tower Tiny Square!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/bigtower2.html",
     "category": "Challenging",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Crossy Road",
@@ -1320,8 +1303,7 @@
     "category": "Challenging",
     "iframe": true
   },
-
-    {
+  {
     "title": "Geometry Dash Remastered",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/geometry%20dash%20remastered.jpg",
     "description": "A remastered version of the classic mobile game Geometry Dash",
@@ -1329,7 +1311,6 @@
     "category": "Challenging",
     "iframe": true
   },
-  
   {
     "title": "Fruit Ninja",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/fruit%20ninja.jpg",
@@ -1432,7 +1413,7 @@
     "description": "Take on the ultimate skateboarding adventure with Snow Rider and conquer icy slopes.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/snowrider3d.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "10 Minutes Till Dawn",
@@ -1440,7 +1421,7 @@
     "description": "10 Minutes Till Dawn is an action bullet-hell roguelite game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/10minutestilldawn.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Five Nights At Freddy's",
@@ -1448,7 +1429,7 @@
     "description": "Play the classic horror game now!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fnaf.html",
     "category": "Challenging",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Five Nights At Freddy's 2",
@@ -1456,7 +1437,7 @@
     "description": "The sequel to Five Nights At Freddys!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fnaf2.html",
     "category": "Challenging",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Five Nights At Freddy's 3",
@@ -1472,7 +1453,7 @@
     "description": "The fourth installment in the Five Nights At Freddy's series!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fnaf4.html",
     "category": "Challenging",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Idle Breakout",
@@ -1488,7 +1469,7 @@
     "description": "Experience the thrill of playing piano like a pro with Magic Tiles 3",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/magictiles3.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Archery World Tour",
@@ -1496,7 +1477,7 @@
     "description": "Focus... relax... release. Aim your shot carefully and use the wind to hit the bullseye in Archery World Tour.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/worldtour.html",
     "category": "Challenging",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Bowmasters",
@@ -1504,7 +1485,7 @@
     "description": "Play Bowmasters, online for free in your browser.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/bowmasters.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Bitlife",
@@ -1512,7 +1493,7 @@
     "description": "Start a virtual life and make your own decisions!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/bitlife.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Dadish",
@@ -1600,7 +1581,7 @@
     "description": "Block Blast is a Tetris-like puzzle game, challenging to eliminate as many blocks as possible in a limited space to get a higher score.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/blockblast.html",
     "category": "Puzzle",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Monkey Mart",
@@ -1608,7 +1589,7 @@
     "description": "Monkey Mart is a casual, simulation game where players manage and grow their own virtual supermarket.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/monkeymart.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Super Liquid Soccer",
@@ -1776,7 +1757,7 @@
     "description": "A Dance of Fire and Ice is a challenging, one-button rhythm game where players guide two orbiting planets down a winding path by tapping the screen or pressing a key in sync with the music",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fireandice.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Stickman Hook",
@@ -1832,7 +1813,7 @@
     "description": "Granny is a horror game where you need to escape from a creepy house and on top of that, a crazy grandma.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/granny.html",
     "category": "Challenging",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Granny: Chapter 2",
@@ -1840,7 +1821,7 @@
     "description": "The sequel to Granny where its even more difficult than before. You must evade both granny and grandpa and escape the house.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Granny 2.html",
     "category": "Challenging",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "QWOP",
@@ -1864,7 +1845,7 @@
     "description": "Friday Night Funkin is a rhythm-based game where players must hit the right notes in time with the music to win battles against various characters.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fridaynightfunkin.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Time Shooter",
@@ -1960,7 +1941,7 @@
     "description": "Play the classic Hole IO game now/1",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/holeio.html",
     "category": "Racing",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "N-gon",
@@ -1968,7 +1949,7 @@
     "description": "N-gon is a challenging and addictive arcade game where you control a shape and navigate through a series of obstacles.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/ngon.html",
     "category": "Challenging",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Mahjong Tower",
@@ -2016,7 +1997,7 @@
     "description": "Adventure Capitalist is an idle clicker game where you invest in various businesses to earn money and grow your empire.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/adventure.html",
     "category": "Idle",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Color Switch",
@@ -2024,7 +2005,7 @@
     "description": "Color Switch is a fun and addictive arcade game where you must navigate a ball through various obstacles by matching colors.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/colorswitch.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Rocket Soccer Derby",
@@ -2032,7 +2013,7 @@
     "description": "Rocket Soccer Derby is an exciting car soccer game where you drive rocket-powered cars to score goals against your opponents.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/rocketsoccer.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Angry Birds",
@@ -2040,7 +2021,7 @@
     "description": "Play the classic Angry Birds game now!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Angry Birds.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Angry Birds Showdown",
@@ -2048,7 +2029,7 @@
     "description": "Play Angry Birds Showdown, an exciting twist on the classic Angry Birds game!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/angrybirdsshowdown.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Angry Birds Halloween",
@@ -2064,7 +2045,7 @@
     "description": "Stickman Golf is a fun and addictive golf game where you control a stickman and try to get the ball into the hole in as few strokes as possible.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/stickmangolf.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Kaboomz",
@@ -2088,7 +2069,7 @@
     "description": "Trivia Crack is a fun and addictive trivia game where you can challenge your friends and test your knowledge in various categories.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/triviacrack.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Drift Hunters",
@@ -2096,7 +2077,7 @@
     "description": "Drift Hunters is a thrilling car drifting game where you can customize your vehicles and perform impressive drifts on various tracks.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/drifthunters.html",
     "category": "Racing",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Drift Boss",
@@ -2112,7 +2093,7 @@
     "description": "Cluster Rush is an addictive arcade game where you navigate through various obstacles and challenges.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/clusterrush.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Flappy Dunk",
@@ -2120,7 +2101,7 @@
     "description": "Flappy Dunk is a fun and addictive arcade game where you control a basketball and try to score points by passing through hoops.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Flappy Dunk.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Block the Pig",
@@ -2136,7 +2117,7 @@
     "description": "Arrange cells. Build machines. Destroy enemies.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/cellmachine.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "CircleO",
@@ -2144,7 +2125,7 @@
     "description": "CircleO is an addictive arcade game where you control a circle and navigate through various obstacles and challenges.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/circleo.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Doge Miner",
@@ -2152,7 +2133,7 @@
     "description": "Doge Miner is an idle clicker game where you mine for Dogecoin and upgrade your mining equipment to earn more coins.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/dogeminer.html",
     "category": "Idle",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Earn to Die",
@@ -2176,7 +2157,7 @@
     "description": "A short old-school FPS with fast gameplay and punchy weapons.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/station141.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Slender the Eight Pages",
@@ -2184,7 +2165,7 @@
     "description": "Slender the Eight Pages is a horror game where you must collect eight pages while avoiding the terrifying Slender Man.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/slender.html",
     "category": "Challenging",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Achievement Unlocked",
@@ -2224,7 +2205,7 @@
     "description": "Dragon vs Blocks is an exciting arcade game where you control a dragon and break through blocks to score points and unlock new dragons.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/dragonvsbricks.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Bob the Robber",
@@ -2264,7 +2245,7 @@
     "description": "60 Second Burger Run is a fast-paced arcade game where you must prepare and serve burgers to customers within a time limit.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/burgerrun.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Gravitee",
@@ -2288,7 +2269,7 @@
     "description": "Cyber Cars Punk Racing is a futuristic racing game where you can customize your vehicles and compete in high-speed races through neon-lit cityscapes.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/cyberpunkracing.html",
     "category": "Racing",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Cars Simulator",
@@ -2296,7 +2277,7 @@
     "description": "Cars Simulator is an open-world driving game where you can explore and customize your vehicles",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/carssimulator.html",
     "category": "Racing",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Wordle",
@@ -2312,10 +2293,8 @@
     "description": "Tube Jumpers is an two player arcade game where you control a character jumping through tubes while avoiding obstacles and collecting points.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/tubejumpers.html",
     "category": "Arcade",
-    "iframe": false
+    "iframe": true
   },
-
-  
   {
     "title": "Pokemon Ruby Version",
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/ruby.jpg",
@@ -2404,17 +2383,14 @@
     "category": "Adventure",
     "iframe": true
   },
-
-
-   {
+  {
     "title": "Chess",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/chess.png",
     "description": "Play a game of chess against the computer or a friend.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/chess.html",
     "category": "Strategy",
-    "iframe": false
+    "iframe": true
   },
-
   {
     "title": "Max Dirt Bike",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/maxdirtbike.webp",
@@ -2423,17 +2399,14 @@
     "category": "Arcade",
     "iframe": true
   },
-
   {
     "title": "Among Us (Web Version)",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/among%20us.webp",
     "description": "Fanmade version of the popular mobile game Among Us.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/amongus.html",
     "category": "Strategy",
-    "iframe": false
+    "iframe": true
   },
-
-  
   {
     "title": "Ultrakill",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/ultrakill.avif",
@@ -2442,7 +2415,6 @@
     "category": "Arcade",
     "iframe": true
   },
-
   {
     "title": "Bendy & The Ink Machine",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/bendy%20and%20the%20ink%20machine.jpg",
@@ -2451,7 +2423,6 @@
     "category": "Challenging",
     "iframe": true
   },
-
   {
     "title": "Tanuki Sunset",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/tanuki%20sunset.png",
@@ -2460,7 +2431,6 @@
     "category": "Arcade",
     "iframe": true
   },
-
   {
     "title": "Highway Racer 3D",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/highway%20racer%203d.jpg",
@@ -2469,7 +2439,6 @@
     "category": "Racing",
     "iframe": true
   },
-
   {
     "title": "The Legend Of Zelda Majoras Mask",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/majorasmask.jpg",
@@ -2478,7 +2447,6 @@
     "category": "Adventure",
     "iframe": true
   },
-
   {
     "title": "The Legend Of Zelda Ocarina Of Time",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/ocarinaoftime.jpg",
@@ -2487,7 +2455,6 @@
     "category": "Adventure",
     "iframe": true
   },
-
   {
     "title": "The Legend Of Zelda Link To The Past",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/link%20to%20the%20past.avif",
@@ -2496,7 +2463,6 @@
     "category": "Adventure",
     "iframe": true
   },
-
   {
     "title": "Whack Your Boss",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/whack%20your%20boss.jpg",
@@ -2505,7 +2471,6 @@
     "category": "Arcade",
     "iframe": true
   },
-
   {
     "title": "Whack Your Ex",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/whack%20your%20ex.jpg",
@@ -2514,7 +2479,6 @@
     "category": "Arcade",
     "iframe": true
   },
-
   {
     "title": "Use Boxmen",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/useboxmen.jpg",
@@ -2523,8 +2487,6 @@
     "category": "Puzzle",
     "iframe": true
   },
-
-
   {
     "title": "Soundboard",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/soundboard.png",
@@ -2539,7 +2501,7 @@
     "description": "A simple website that looks like it was made for 30 dollars (a soundboard).",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Apps/30dollarwebsite.html",
     "category": "Apps",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Emulator JS",
@@ -2547,7 +2509,7 @@
     "description": "Emulator JS is a web-based emulator that allows you to play classic console games directly in your browser.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Apps/emulatorjs.html",
     "category": "Apps",
-    "iframe": false
+    "iframe": true
   },
   {
     "title": "Ruffle",
@@ -2555,10 +2517,9 @@
     "description": "Ruffle is an open-source Flash Player emulator that allows you to play Flash content directly in your web browser without the need for the original Flash Player plugin.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Apps/ruffle.html",
     "category": "Apps",
-    "iframe": false
+    "iframe": true
   },
-
-   {
+  {
     "title": "Alexr Code Editor",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/code.png",
     "description": "Use our very own code editor where you can create and downloadyour own projects!",
