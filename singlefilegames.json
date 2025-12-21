@@ -1545,7 +1545,7 @@
     "title": "Drive Mad",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/drive%20mad.png",
     "description": "Drive Mad is a car game where you drive on a track filled with obstacles.",
-    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/drive-mad-main/drive-mad-main/index.html",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/drivemad.html",
     "category": "Arcade",
     "iframe": true
   },
@@ -1569,7 +1569,7 @@
     "title": "Crazy Cattle 3D",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/crazycattle.jpg",
     "description": "Play Crazy Cattle 3D now!",
-    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/crazycattle3d/index.html",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/crazycattle3d.html",
     "category": "Arcade",
     "iframe": true
   },
