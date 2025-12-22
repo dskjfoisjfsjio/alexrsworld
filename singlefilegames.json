@@ -2492,7 +2492,7 @@
     "title": "B-Cubed",
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/b-cubed.webp",
     "description": "Rotate the block to pass through every tile and reach the finish square in this tricky puzzle game.",
-    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/Ruffle/bcubed.html",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/bcubed.html",
     "category": "Puzzle",
     "iframe": true
   },
