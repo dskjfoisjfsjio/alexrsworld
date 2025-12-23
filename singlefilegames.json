@@ -2539,7 +2539,7 @@
 
    {
   "title": "Super Tennis",
-  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/supertennis.jpg", 
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/super%20tennis.jpg", 
   "description": "The classic SNES sports title. Experience high-speed tennis action!",
   "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/SNES/supertennis.html",
   "category": "Arcade",
