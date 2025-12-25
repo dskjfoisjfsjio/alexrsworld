@@ -71,6 +71,24 @@
     "category": "Strategy",
     "iframe": true
   },
+
+  {
+    "title": "Bloons Player Pack 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/playerpack.jpg",
+    "description": "More challenging levels of bloon-popping action! Use your darts wisely to clear every stage.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/Games/ruffle/bloonsplayerpack2.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Bloons Player Pack 3",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/playerpack3.webp",
+    "description": "The third installment of the fan-made player packs with even more creative and difficult levels.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/Games/ruffle/bloonsplayerpack3.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+
   {
     "title": "Bloons Super Monkey",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/bloons%20super%20monkey.jpg",
@@ -215,6 +233,26 @@
     "category": "Runner",
     "iframe": true
   },
+
+  {
+    "title": "Subway Surfers: Miami",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/Miami2019Icon.webp",
+    "description": "Surf through the sun-soaked streets of Miami! Dodge palm trees and pink flamingos in this classic world tour stop.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/subwaysurfersmiami.html",
+    "category": "Action",
+    "iframe": true
+  },
+  
+  {
+    "title": "Subway Surfers: Havana",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/subway%20surfers%20havana.webp",
+    "description": "Explore the colorful and historic streets of Havana! Keep the run going through this beautiful Caribbean city.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/subwaysurfershavana.html",
+    "category": "Action",
+    "iframe": true
+  },
+
+
   {
     "title": "Temple Run 2",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/master/assets/game%20images/temple%20run%202.jpg",
@@ -1143,6 +1181,17 @@
     "category": "Adventure",
     "iframe": true
   },
+
+  {
+  "title": "Red Ball 4",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/redball4.webp",
+  "description": "Roll, jump, and bounce through 75 exciting levels full of adventure. Make your way through tricky traps and defeat all monsters!",
+  "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/Games/standalone/redball4.html",
+  "category": "Adventure",
+  "iframe": true
+},
+
+
   {
     "title": "Vex",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/vex.jpg",
@@ -1511,6 +1560,16 @@
     "category": "Adventure",
     "iframe": true
   },
+
+  {
+    "title": "Dadish 3",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/dadish%203.png",
+    "description": "Dadish is back for his most personal adventure yet! Help him find his kids in this challenging 2D platformer.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/dadish3.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+
   {
     "title": "Territory War",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/territorywar.jpg",
@@ -1863,6 +1922,17 @@
     "category": "Arcade",
     "iframe": true
   },
+
+ {
+    "title": "Burrito Bison",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/burrito%20bison.jpg",
+    "description": "Launch yourself into the air and crush gummy bears to escape Candy Land!",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/Games/ruffle/burritobisonoriginal.html",
+    "category": "Action",
+    "iframe": true
+  },
+
+
   {
     "title": "Burrito Bison Revenge",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/burritobisonrevenge.jpg",
@@ -2037,6 +2107,15 @@
     "description": "Get into the spooky spirit with Angry Birds Halloween!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/angrybirdshalloween.html",
     "category": "Arcade",
+    "iframe": true
+  },
+
+  {
+    "title": "Angry Birds Space",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/angrybirdsspace.webp",
+    "description": "The classic bird-slinging action, now with zero-gravity mechanics in outer space!",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/Games/ruffle/angrybirdsspace.html",
+    "category": "Action",
     "iframe": true
   },
   {
@@ -2492,7 +2571,7 @@
     "title": "B-Cubed",
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/b-cubed.webp",
     "description": "Rotate the block to pass through every tile and reach the finish square in this tricky puzzle game.",
-    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/bcubed.html",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/Ruffle/bcubed.html",
     "category": "Puzzle",
     "iframe": true
   },
@@ -2517,8 +2596,8 @@
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/hobo.webp",
     "description": "The original Flash classic! Fight your way through the streets.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/Games/ruffle/hobo.html",
-    "category": "Action",
-    "isFlash": true
+    "category": "Fighting",
+    "iframe": true
   },
   {
     "title": "Mario Kart Super Circuit",
@@ -2537,16 +2616,32 @@
     "iframe": true
   },
 
-   {
-  "title": "Super Tennis",
-  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/super%20tennis.jpg", 
-  "description": "The classic SNES sports title. Experience high-speed tennis action!",
-  "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/SNES/supertennis.html",
+  {
+    "title": "There Is No Game",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/there%20is%20no%20game.jpg",
+    "description": "There is no game. Or is there?",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/thereisnogame.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+
+  {
+    "title": "Banjo-Kazooie",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/banjo.webp",
+    "description": "The ultimate 3D platforming adventure! Join Banjo and Kazooie to stop the witch Gruntilda.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/N64/banjo.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+
+  {
+  "title": "Escape Road",
+  "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/escape%20road.avif",
+  "description": "An adrenaline-pumping driving game where you play a bank robber evading a relentless police pursuit. How long can you survive?",
+  "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/escaperoad.html",
   "category": "Arcade",
   "iframe": true
 },
-
-
 
   {
     "title": "Soundboard",
