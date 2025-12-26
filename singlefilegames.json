@@ -2643,6 +2643,124 @@
   "iframe": true
 },
 
+
+
+  {
+    "title": "Wheely 1",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/wheely.jpg",
+    "description": "The original adventure! Help Wheely, a small red car, fulfill his dream of joining a big race.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/wheely.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Wheely 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/wheely%202.jpg",
+    "description": "Love is in the air! Guide Wheely as he tracks down his love, Jolie, after they meet at a car show.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/wheely2.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Wheely 3",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/wheely%203.webp",
+    "description": "Wheely needs a gift for Jolie, but a gas shortage in the city leads him on a quest to catch a thief.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/wheely3.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Wheely 4: Time Travel",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/wheely%204.jpg",
+    "description": "A trip to the repair shop goes wrong, launching Wheely through different historical eras.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/wheely4.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Wheely 5: Armageddon",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/wheely%205.webp",
+    "description": "Meteorites are falling! Help Wheely save the planet while he tries to fix his broken lawnmower.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/wheely5.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Wheely 6: Fairytale",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/wheely%206.jpg",
+    "description": "Wheely gets pulled into a movie world! Navigate a kingdom of magic, knights, and dragons.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/wheely6.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Wheely 7: Detective",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/wheely%207.jpg",
+    "description": "Put on your detective hat! Wheely must solve clues and catch sneaky burglars across the city.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/wheely7.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Wheely 8: Aliens",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/wheely%208.jpg",
+    "description": "An extraterrestrial visit! Help Wheely repair a crashed UFO and interact with alien visitors.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/wheely8.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+
+
+  
+  {
+    "title": "Parking Fury",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/parking%20fury.png",
+    "description": "Test your driving and parking skills in this challenging top-down car game.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/parkingfury.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Parking Fury 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/parking%20fury%202.jpg",
+    "description": "The sequel with even more difficult parking maneuvers and new vehicles.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/parkingfury2.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Parking Fury 3",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/parking%20fury%203.webp",
+    "description": "Master the art of night-time parking in the third installment of the series.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/parkingfury3.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Zombocalypse 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/zombocalypse%202.webp",
+    "description": "Fight off endless waves of zombies with an arsenal of weapons in this action-packed survival game.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/zombocalypse2.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Subway Surfers: Houston",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/subway%20surfers%20houston.webp",
+    "description": "Dash through the space-themed subways of Houston in this world tour stop.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/subwaysurfershouston.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Subway Surfers: Winter Holiday",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/subway%20surfers%20winter%20holiday.webp",
+    "description": "Celebrate the season by surfing through a snowy wonderland in this holiday special.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/subwaysurferswinterholiday.html",
+    "category": "Runner",
+    "iframe": true
+  },
+
   {
     "title": "Soundboard",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/soundboard.png",
@@ -2682,5 +2800,14 @@
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Apps/codeeditor.html",
     "category": "Apps",
     "iframe": true
-  }
+  },
+
+   {
+    "title": "AI Chatbot",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/ai.jpeg",
+    "description": "AI chatbot app which can answer any question to your needs. App made by EDUrocks",
+    "path": "Apps/ai.html",
+    "category": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Apps/ai.html",
+    "iframe": true
+ }
 ]
