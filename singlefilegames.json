@@ -1504,6 +1504,23 @@
     "category": "Horror",
     "iframe": true
   },
+
+  {
+    "title": "Five Nights At Freddy's 4 Halloween Edition",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnaf4halloween.jpg",
+    "description": "The Halloween Edition of Five Nights At Freddy's 4!",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fnaf4halloween.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "FNAF: Ultimate Custom Night",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/ultimatecustomnight.webp",
+    "description": "Ultimate Custom Night is a horror game where you are able to customize how the night plays out.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/ultimatecustomnight.html",
+    "category": "Horror",
+    "iframe": true
+  },
   {
     "title": "Idle Breakout",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/idle%20breakout.png",
