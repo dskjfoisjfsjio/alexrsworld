@@ -2800,5 +2800,118 @@
     "path": "Games/ruffle/zombocalypse2.html",
     "category": "Arcade",
     "iframe": true
+  },
+
+  {
+    "title": "Bob the Robber 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/bobtherobber2.jpg",
+    "description": "The world's favorite thief is back! Sneak through high-security buildings and stay out of sight in this stealthy adventure.",
+    "path": "Games/ruffle/bobtherobber2.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Minecraft 1.8.8",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/Minecraft.webp",
+    "description": "Experience the classic world of Minecraft directly in your browser. Build, explore, and survive!",
+    "path": "Games/standalone/minecraft.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "OVO",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/ovo.jpg",
+    "description": "A fast-paced platformer where you must jump, slide, and dive through challenging levels to reach the end.",
+    "path": "Games/standalone/ovo.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "OVO 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/ovo%202.avif",
+    "description": "The sequel to the hit platformer with even more complex levels and obstacles to master.",
+    "path": "Games/standalone/ovo2.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "OVO 3 Dimensions",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/ovodimensions.png",
+    "description": "Take your platforming skills into a new dimension with OVO 3.",
+    "path": "Games/standalone/ovodimensions.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Vex Challenges",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/vexchallenges.jpeg",
+    "description": "Race against the clock in this intense stickman parkour challenge.",
+    "path": "Games/standalone/vexchallenges.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Vex X3M",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/vexx3m.jpg",
+    "description": "A high-octane crossover between the Vex series and bike games. Speed through dangerous tracks!",
+    "path": "Games/standalone/vexx3m.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Vex X3M 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/vexx3m2.webp",
+    "description": "More bikes, more traps, and more speed! The sequel to the intense Vex X3M experience.",
+    "path": "Games/standalone/vexx3m2.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Soccer Random",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/soccerrandom.jpg",
+    "description": "Physics-based soccer mayhem where every goal is a surprise!",
+    "path": "Games/standalone/soccerrandom.html",
+    "category": "Sports",
+    "iframe": true
+  },
+  {
+    "title": "Volley Random",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/volley%20random.webp",
+    "description": "Wacky volleyball action with unpredictable physics.",
+    "path": "Games/standalone/volleyrandom.html",
+    "category": "Sports",
+    "iframe": true
+  },
+  {
+    "title": "Fifa 10",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fifa10.png",
+    "description": "Classic football action from the NDS era.",
+    "path": "Games/emulated/NDS/fifa10.html",
+    "category": "Sports",
+    "iframe": true
+  },
+  {
+    "title": "Fifa 11",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fifa%2011.jpg",
+    "description": "The refined handheld football experience with updated rosters.",
+    "path": "Games/emulated/NDS/fifa11.html",
+    "category": "Sports",
+    "iframe": true
+  },
+  {
+    "title": "Mario Kart DS",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/mariokartds.jpg",
+    "description": "The legendary kart racer on your browser.",
+    "path": "Games/emulated/NDS/mariokartds.html",
+    "category": "Driving",
+    "iframe": true
+  },
+  {
+    "title": "Sonic Colors",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/soniccolors.jpg",
+    "description": "Harness the power of Wisps to speed through the Interstellar Amusement Park.",
+    "path": "Games/emulated/NDS/soniccolors.html",
+    "category": "Adventure",
+    "iframe": true
   }
 ]
