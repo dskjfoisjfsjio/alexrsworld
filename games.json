@@ -276,7 +276,7 @@
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/basket%20random.jpg",
     "description": "Basket Random is a 2-player retro pixel game with ragdoll physics.",
     "path": "Games/standalone/basketrandom.html",
-    "category": "Arcade",
+    "category": "Sports",
     "iframe": true
   },
   {
@@ -461,7 +461,7 @@
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/boxing%20random.png",
     "description": "Boxing Random is a 2-player retro pixel boxing game with ragdoll physics.",
     "path": "Games/standalone/boxingrandom.html",
-    "category": "Arcade",
+    "category": "Sports",
     "iframe": true
   },
   {
@@ -861,7 +861,7 @@
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/earthbound.webp",
     "description": "Embark on a unique RPG adventure in the quirky world of Earthbound.",
     "path": "Games/emulated/SNES/earthbound.html",
-    "category": "Adventure",
+    "category": "RPG",
     "iframe": true
   },
   {
@@ -981,7 +981,7 @@
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/fnaf.jpg",
     "description": "Play the classic horror game now!",
     "path": "Games/standalone/fnaf.html",
-    "category": "Challenging",
+    "category": "Horror",
     "iframe": true
   },
   {
@@ -989,7 +989,7 @@
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/fnaf2.jpg",
     "description": "The sequel to Five Nights At Freddys!",
     "path": "Games/standalone/fnaf2.html",
-    "category": "Challenging",
+    "category": "Horror",
     "iframe": true
   },
   {
@@ -997,7 +997,7 @@
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/fnaf3.jpg",
     "description": "The third installment in the Five Nights At Freddy's series!",
     "path": "Games/standalone/fnaf3.html",
-    "category": "Challenging",
+    "category": "Horror",
     "iframe": true
   },
   {
@@ -1005,7 +1005,7 @@
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/fnaf-4/thumb.png",
     "description": "The fourth installment in the Five Nights At Freddy's series!",
     "path": "Games/standalone/fnaf4.html",
-    "category": "Challenging",
+    "category": "Horror",
     "iframe": true
   },
   {
@@ -1013,7 +1013,7 @@
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/fnaf4halloween.jpg",
     "description": "The Halloween Edition of Five Nights At Freddy's 4!",
     "path": "Games/standalone/fnaf4halloween.html",
-    "category": "Challenging",
+    "category": "Horror",
     "iframe": true
   },
   {
@@ -1053,7 +1053,7 @@
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/ultimatecustomnight.webp",
     "description": "Ultimate Custom Night is a horror game where you are able to customize how the night plays out.",
     "path": "Games/standalone/ultimatecustomnight.html",
-    "category": "Challenging",
+    "category": "Horror",
     "iframe": true
   },
   {
@@ -1149,7 +1149,7 @@
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/granny.jpg",
     "description": "Granny is a horror game where you need to escape from a creepy house and on top of that, a crazy grandma.",
     "path": "Games/standalone/granny.html",
-    "category": "Challenging",
+    "category": "Horror",
     "iframe": true
   },
   {
@@ -1157,7 +1157,7 @@
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/granny%202.jpg",
     "description": "The sequel to Granny where its even more difficult than before. You must evade both granny and grandpa and escape the house.",
     "path": "Games/standalone/Granny 2.html",
-    "category": "Challenging",
+    "category": "Horror",
     "iframe": true
   },
   {
@@ -1477,7 +1477,7 @@
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/mother%203.jpg",
     "description": "Experience the emotional final chapter of the Mother trilogy.",
     "path": "Games/emulated/GBA/mother3.html",
-    "category": "Adventure",
+    "category": "RPG",
     "iframe": true
   },
   {
@@ -1765,7 +1765,7 @@
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/emerald.avif",
     "description": "Play the classic Pokemon Emerald Version game now!",
     "path": "Games/emulated/GBA/emeraldversion.html",
-    "category": "Strategy",
+    "category": "RPG",
     "iframe": true
   },
   {
@@ -1773,7 +1773,7 @@
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/firered.jpg",
     "description": "Play the classic Pokemon Fire Red Version game now!",
     "path": "Games/emulated/GBA/fireredversion.html",
-    "category": "Strategy",
+    "category": "RPG",
     "iframe": true
   },
   {
@@ -1781,7 +1781,7 @@
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/leafgreen.jpg",
     "description": "Play the classic Pokemon Leaf Green Version game now!",
     "path": "Games/emulated/GBA/leafgreenversion.html",
-    "category": "Strategy",
+    "category": "RPG",
     "iframe": true
   },
   {
@@ -1789,7 +1789,7 @@
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/ruby.jpg",
     "description": "Play the classic Pokemon Ruby Version game now!",
     "path": "Games/emulated/GBA/rubyversion.html",
-    "category": "Strategy",
+    "category": "RPG",
     "iframe": true
   },
   {
@@ -1797,7 +1797,7 @@
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/sapphire.webp",
     "description": "Play the classic Pokemon Sapphire Version game now!",
     "path": "Games/emulated/GBA/sapphireversion.html",
-    "category": "Strategy",
+    "category": "RPG",
     "iframe": true
   },
   {
@@ -2053,7 +2053,7 @@
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/Slender_Logo.jpg",
     "description": "Slender the Eight Pages is a horror game where you must collect eight pages while avoiding the terrifying Slender Man.",
     "path": "Games/standalone/slender.html",
-    "category": "Challenging",
+    "category": "Horror",
     "iframe": true
   },
   {
