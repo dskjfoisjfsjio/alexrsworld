@@ -349,7 +349,7 @@
     "description": "Bloons is a fun arcade game in which you need to pop as many bloons as possible.",
     "path": "Games/ruffle/bloons.html",
     "category": "Strategy",
-    "iframe": true,
+    "iframe": true
   },
   {
     "title": "Bloons Player Pack 2",
@@ -2269,7 +2269,7 @@
     "description": "Play one of the best mobile games ever made right in your browser.",
     "path": "Games/standalone/subwaysurfers.html",
     "category": "Runner",
-    "iframe": true,
+    "iframe": true
   },
   {
     "title": "Subway Surfers: Havana",
