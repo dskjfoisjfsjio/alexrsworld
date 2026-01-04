@@ -1013,9 +1013,7 @@ let draggedLibTitle = null;
         const gameSuggestionsDatalist = document.getElementById('game-suggestions');
         const subContent = document.querySelector('.sub-content'); 
 
-        // Play select sound when interacting with the library/favorites search input
         if (libSearchInput) {
-            // Use focus and Enter; avoid click to prevent double-trigger (focus + click) on some browsers
             libSearchInput.addEventListener('focus', () => playSound('select'));
             libSearchInput.addEventListener('keydown', (e) => {
                 if (e.key === 'Enter') {
@@ -1059,7 +1057,7 @@ let draggedLibTitle = null;
             description: "Suggest a game via Google Form.",
             systemType: "suggest",
             icon: "fa-lightbulb",
-            path: "https://docs.google.com/forms/d/e/1FAIpQLSeOUOd7fAVrAdD4u3IWdyAVCnkcvGkgkVIf-pd0bhOBGcrC1g/viewform?usp=sf_link" // Placeholder URL
+            path: "https://docs.google.com/forms/d/e/1FAIpQLSeOUOd7fAVrAdD4u3IWdyAVCnkcvGkgkVIf-pd0bhOBGcrC1g/viewform?usp=sf_link" 
         };
         
         const reportItem = {
@@ -1068,7 +1066,7 @@ let draggedLibTitle = null;
             description: "Report a bug via Google Form.",
             systemType: "report",
             icon: "fa-bug",
-            path: "https://docs.google.com/forms/d/e/1FAIpQLSerfTd9MM5NwszaG1CNMSZjNoNtF4VF51_twn18E-XW6MDLew/viewform?usp=sf_link" // Placeholder URL
+            path: "https://docs.google.com/forms/d/e/1FAIpQLSerfTd9MM5NwszaG1CNMSZjNoNtF4VF51_twn18E-XW6MDLew/viewform?usp=sf_link" 
         };
 
         const libraryItem = {
@@ -2101,7 +2099,7 @@ function launchGame(game) {
                     } else if (isOtherOpen) {
                         toggleOther(false);
                     } else if (modalOpen) {
-                        // Close the modal via its close button if present, otherwise remove it
+                        
                         const modalEl = document.querySelector('.game-modal');
                         if (modalEl) {
                             const closeBtn = modalEl.querySelector('.close-btn');
@@ -2342,6 +2340,7 @@ body.theme-red {
 
 </body>
 </html>
+
 
 
 
