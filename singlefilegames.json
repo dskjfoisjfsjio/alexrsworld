@@ -3057,5 +3057,96 @@
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/timeshooter3.html",
     "category": "Arcade",
     "iframe": true
+  },
+
+  [
+  {
+    "title": "A Koopa's Revenge",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/akoopasrevenge.jpg",
+    "description": "The tables are turned! Play as a Koopa on a quest to rescue your friends from Mario.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/akoopasrevenge.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "A Koopa's Revenge 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/akoopasrevenge2.webp",
+    "description": "The epic sequel with more power-ups, levels, and bosses to defeat.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/akoopasrevenge2.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Bloons Player Pack 4",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/playerpack4.jpg",
+    "description": "More challenging levels and puzzles in the classic dart-throwing series.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/bloonsplayerpack4.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Bloons Player Pack 5",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/playerpack5.jpg",
+    "description": "The ultimate test of your balloon-popping skills with new layouts.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/bloonsplayerpack5.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Flash Tennis",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/flashtennis.png",
+    "description": "Fast-paced tennis action. Master your serve and climb the rankings.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/flashtennis.html",
+    "category": "Sports",
+    "iframe": true
+  },
+  {
+    "title": "Super Mario 63",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/supermario63.webp",
+    "description": "A massive fan-made tribute to Mario's 3D adventures in a 2D world.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/supermario63.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "3Dash",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/3dash.jpg",
+    "description": "Experience the rhythm-based platforming of Geometry Dash in a 3D perspective.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/3Dash.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Slime Rancher",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/slimerancher.jpg",
+    "description": "Explore a distant planet and collect adorable slimes for your ranch.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/slimerancher.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Basket Bros",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/basketbros.png",
+    "description": "One-on-one basketball with crazy dunks and fast gameplay.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/basketbros.html",
+    "category": "Sports",
+    "iframe": true
+  },
+  {
+    "title": "Blaze Drifter",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/blaze%20drifter.png",
+    "description": "High-octane drifting action. Push your car to the limit.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/blazedrifter.html",
+    "category": "Racing",
+    "iframe": true
+  },
+  {
+    "title": "Blocky Demolition Derby",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/derby.jpg",
+    "description": "Crash and smash into your opponents in this blocky arena battle.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/blockydemolitionderby.html",
+    "category": "Racing",
+    "iframe": true
   }
+]
 ]
