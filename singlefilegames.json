@@ -2424,7 +2424,7 @@
     "iframe": true
   },
   {
-    "title": "Subway Surfers: Havana",
+    "title": "Subway Surfers Havana",
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/subway%20surfers%20havana.webp",
     "description": "Explore the colorful and historic streets of Havana! Keep the run going through this beautiful Caribbean city.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/subwaysurfershavana.html",
@@ -2432,7 +2432,7 @@
     "iframe": true
   },
   {
-    "title": "Subway Surfers: Houston",
+    "title": "Subway Surfers Houston",
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/subway%20surfers%20houston.webp",
     "description": "Dash through the space-themed subways of Houston in this world tour stop.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/subwaysurfershouston.html",
@@ -2440,7 +2440,7 @@
     "iframe": true
   },
   {
-    "title": "Subway Surfers: Miami",
+    "title": "Subway Surfers Miami",
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/Miami2019Icon.webp",
     "description": "Surf through the sun-soaked streets of Miami! Dodge palm trees and pink flamingos in this classic world tour stop.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/subwaysurfersmiami.html",
@@ -2448,13 +2448,55 @@
     "iframe": true
   },
   {
-    "title": "Subway Surfers: Winter Holiday",
+    "title": "Subway Surfers Winter Holiday",
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/subway%20surfers%20winter%20holiday.webp",
     "description": "Celebrate the season by surfing through a snowy wonderland in this holiday special.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/subwaysurferswinterholiday.html",
     "category": "Runner",
     "iframe": true
   },
+
+   {
+    "title": "Subway Surfers London",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/subwaysurferslondon.webp",
+    "description": "Dash through the tracks of London in this world tour edition.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/subwaysurferslondon.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Subway Surfers Mexico",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/subwaysurfersmexico.webp",
+    "description": "Experience the vibrant streets of Mexico City in your endless run.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/subwaysurfersmexico.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Subway Surfers Monaco",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/subwaysurfersmonoco.jpg",
+    "description": "Run through the luxurious streets of Monaco in this classic runner.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/subwaysurfersmonoco.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Subway Surfers New Orleans",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/subwaysurfersneworleans.webp",
+    "description": "Dash through the spooky and festive tracks of New Orleans.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/subwaysurfersneworleans.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Subway Surfers Zurich",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/subwaysurferszurich.webp",
+    "description": "Explore the snowy and scenic tracks of Zurich in this world tour stop.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/subwaysurferszurich.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  
   {
     "title": "Sugar Sugar",
     "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/sugar%20sugar.png",
