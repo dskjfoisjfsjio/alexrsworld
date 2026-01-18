@@ -2631,6 +2631,233 @@ body.theme-red {
 })();
 </script>
 
+  <script>
+(function() {
+    let isTransitioning = false;
+    const style = document.createElement('style');
+    style.id = 'ps4-v43-transitions';
+    style.innerHTML = `
+        .library-overlay.ps4-active-mode {
+            background: var(--bg-color, #003791) !important;
+            background-image: inherit !important;
+            background-size: cover !important;
+            display: flex !important;
+            flex-direction: row !important;
+            padding: 0 !important;
+            /* Transition for closing */
+            transition: opacity 0.4s ease, transform 0.4s ease !important;
+            opacity: 1;
+            transform: scale(1);
+        }
+
+        /* The "Closing" state */
+        .library-overlay.ps4-active-mode.ps4-exit {
+            opacity: 0 !important;
+            transform: scale(1.05) !important; /* Slight zoom out effect on close */
+            pointer-events: none !important;
+        }
+
+        .library-overlay:not(.show):not(.ps4-active-mode) {
+            display: none !important;
+            pointer-events: none !important;
+        }
+
+        .ps4-sidebar-fixed {
+            width: 280px; height: 100%;
+            background: rgba(0, 0, 0, 0.65);
+            backdrop-filter: blur(30px);
+            padding: 40px 20px; display: flex; flex-direction: column;
+            border-right: 1px solid rgba(255, 255, 255, 0.05);
+            flex-shrink: 0; z-index: 100;
+            transition: transform 0.4s ease;
+        }
+
+        .ps4-exit .ps4-sidebar-fixed { transform: translateX(-100%); }
+
+        .ps4-nav-item {
+            padding: 12px 15px; color: rgba(255,255,255,0.4);
+            cursor: pointer; font-size: 17px; transition: 0.2s; border-radius: 4px;
+            margin-bottom: 4px;
+        }
+        
+        .ps4-nav-item.active { 
+            color: white; 
+            background: rgba(255,255,255,0.1);
+            box-shadow: inset 4px 0 0 var(--ps-light-blue); 
+        }
+
+        .ps4-main-container { flex: 1; padding: 30px 50px; overflow-y: auto; z-index: 90; display: flex; flex-direction: column; }
+        
+        /* CARD STYLES & ENHANCED ANIMATION */
+        .ps4-active-mode #libraryGrid, .ps4-active-mode #favoritesGrid {
+            display: grid !important; 
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)) !important; 
+            gap: 25px !important;
+            animation: ps4-fade-up 0.5s cubic-bezier(0.2, 0.8, 0.2, 1);
+        }
+
+        .ps4-active-mode .lib-card, .ps4-active-mode .fav-card { 
+            aspect-ratio: 16/9 !important; 
+            transition: transform 0.2s cubic-bezier(0.18, 0.89, 0.32, 1.28) !important; 
+            cursor: pointer !important;
+            border-radius: 4px !important;
+        }
+
+        .ps4-active-mode .lib-card:hover, .ps4-active-mode .fav-card:hover { 
+            transform: scale(1.06) !important; 
+            outline: 3px solid white !important; 
+            z-index: 10 !important; 
+        }
+
+        @keyframes ps4-fade-up {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .ps4-active-mode .lib-header, .ps4-active-mode #libCategories, .ps4-active-mode .favorites-header {
+            display: none !important;
+        }
+    `;
+    document.head.appendChild(style);
+
+    const cleanupPS4 = () => {
+        if (isTransitioning) return;
+        isTransitioning = true;
+
+        const overlay = document.getElementById('libraryOverlay') || document.getElementById('favoritesOverlay');
+        if (!overlay) { isTransitioning = false; return; }
+
+        overlay.classList.add('ps4-exit');
+
+        setTimeout(() => {
+            const grid = document.getElementById('libraryGrid') || document.getElementById('favoritesGrid');
+            const search = document.getElementById('libSearchInput') || document.getElementById('favSearchInput');
+            const gPlace = document.getElementById('ps4-grid-placeholder');
+            const sPlace = document.getElementById('ps4-search-placeholder');
+
+            if (grid && gPlace) gPlace.replaceWith(grid);
+            if (search && sPlace) sPlace.replaceWith(search);
+
+            overlay.classList.remove('ps4-active-mode', 'ps4-exit');
+            overlay.querySelectorAll('.ps4-sidebar-fixed, .ps4-main-container').forEach(el => el.remove());
+            document.querySelectorAll('[id*="-placeholder"]').forEach(p => p.remove());
+            
+            overlay.style.display = ''; 
+            isTransitioning = false;
+        }, 400);
+    };
+
+    const initLogic = () => {
+        if (isTransitioning) return;
+        const overlay = document.getElementById('libraryOverlay') || document.getElementById('favoritesOverlay');
+        if (!overlay) return;
+
+        const isVisible = overlay.classList.contains('show');
+        const userPref = localStorage.getItem('ps4-ui-enabled');
+
+        if (userPref === 'true' && isVisible) {
+            if (!overlay.classList.contains('ps4-active-mode')) activatePS4(overlay);
+        } else if (!isVisible && overlay.classList.contains('ps4-active-mode')) {
+            cleanupPS4();
+        }
+
+        const header = overlay.querySelector('.lib-header') || overlay.querySelector('.favorites-header');
+        if (header && !document.getElementById('ps4-toggle-btn')) {
+            const btn = document.createElement('button');
+            btn.id = 'ps4-toggle-btn';
+            btn.className = 'close-btn';
+            btn.style.marginRight = '10px';
+            btn.innerText = 'Switch UI';
+            btn.onclick = (e) => {
+                e.preventDefault();
+                localStorage.setItem('ps4-ui-enabled', 'true');
+                activatePS4(overlay);
+            };
+            const closeBtn = header.querySelector('.close-btn');
+            if (closeBtn) header.insertBefore(btn, closeBtn);
+        }
+    };
+
+    function activatePS4(overlay) {
+        if (isTransitioning || overlay.classList.contains('ps4-active-mode')) return;
+
+        const grid = document.getElementById('libraryGrid') || document.getElementById('favoritesGrid');
+        const search = document.getElementById('libSearchInput') || document.getElementById('favSearchInput');
+        if (!grid) return;
+
+        if (!document.getElementById('ps4-grid-placeholder')) {
+            const gp = document.createElement('div'); gp.id = 'ps4-grid-placeholder';
+            grid.replaceWith(gp);
+        }
+        if (search && !document.getElementById('ps4-search-placeholder')) {
+            const sp = document.createElement('div'); sp.id = 'ps4-search-placeholder';
+            search.replaceWith(sp);
+        }
+
+        overlay.classList.remove('ps4-exit');
+        overlay.classList.add('ps4-active-mode');
+        
+        const sidebar = document.createElement('div');
+        sidebar.className = 'ps4-sidebar-fixed';
+        sidebar.innerHTML = `<h1 style="font-weight:300; color:white; margin-bottom:20px; font-size:28px;">${overlay.id.includes('favorites') ? 'Favorites' : 'Library'}</h1><div id="ps4-nav-mount"></div>`;
+
+        const main = document.createElement('div');
+        main.className = 'ps4-main-container';
+        main.innerHTML = `
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:25px; border-bottom:1px solid rgba(255,255,255,0.1); padding-bottom:15px;">
+                <div id="ps4-title-text" style="font-size:22px; color:white; font-weight:300;">All Items</div>
+                <div id="ps4-search-mount" class="ps4-search-wrapper" style="flex:1; margin:0 40px;"></div>
+                <div style="display:flex; gap:8px;">
+                    <button class="close-btn" id="ps4-revert-btn" style="font-size:12px;">Old UI</button>
+                    <button class="close-btn" id="ps4-exit-btn">Close</button>
+                </div>
+            </div>
+            <div id="ps4-grid-mount"></div>
+        `;
+
+        overlay.appendChild(sidebar);
+        overlay.appendChild(main);
+        main.querySelector('#ps4-grid-mount').appendChild(grid);
+        if (search) main.querySelector('#ps4-search-mount').appendChild(search);
+
+        const cats = document.getElementById('libCategories') || document.getElementById('favCategories');
+        const nav = sidebar.querySelector('#ps4-nav-mount');
+        if (cats) {
+            cats.querySelectorAll('button').forEach(btn => {
+                const item = document.createElement('div');
+                item.className = `ps4-nav-item ${btn.classList.contains('active') ? 'active' : ''}`;
+                item.innerText = btn.innerText;
+                item.onclick = () => {
+                    nav.querySelectorAll('.ps4-nav-item').forEach(i => i.classList.remove('active'));
+                    item.classList.add('active');
+                    btn.click();
+                    main.querySelector('#ps4-title-text').innerText = btn.innerText;
+                };
+                nav.appendChild(item);
+            });
+        }
+
+        main.querySelector('#ps4-revert-btn').onclick = () => {
+            localStorage.setItem('ps4-ui-enabled', 'false');
+            cleanupPS4();
+        };
+
+        const closeLibrary = (isLaunch = false) => {
+            overlay.classList.remove('show');
+            if (!isLaunch && window.closeOverlay) window.closeOverlay();
+            cleanupPS4();
+        };
+
+        main.querySelector('#ps4-exit-btn').onclick = () => closeLibrary(false);
+        grid.onclick = (e) => { if (e.target.closest('.lib-card, .fav-card')) setTimeout(() => closeLibrary(true), 50); };
+    }
+
+    const observer = new MutationObserver(() => initLogic());
+    observer.observe(document.body, { attributes: true, subtree: true, attributeFilter: ['class'] });
+    setInterval(initLogic, 150);
+})();
+</script>
+
 
 
 
