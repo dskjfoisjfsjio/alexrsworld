@@ -3377,5 +3377,78 @@
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/GBA/tetris.html",
     "category": "Arcade",
     "iframe": true
+  },
+  {
+    "title": "Astra",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/astra.png",
+    "description": "An app by DragonX which lets you play Clash Royale, Roblox, & more!",
+    "path": "Apps/astra.html",
+    "category": "Apps",
+    "iframe": true
+  },
+  {
+    "title": "Hobo 2",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/hobo2.png",
+    "description": "The brawling adventure continues as Hobo takes his unique fighting style to the city streets.",
+    "path": "Games/ruffle/hobo2.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Hobo 3",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/hobo3.png",
+    "description": "Hobo is now a wanted man. Fight off the police and maintain your freedom in this classic sequel.",
+    "path": "Games/ruffle/hobo3.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Hobo 4",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/hobo4.png",
+    "description": "Hobo faces off against the military in an all-out war featuring explosive brawling action.",
+    "path": "Games/ruffle/hobo4.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Hobo 5",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/hobo5.png",
+    "description": "An extraterrestrial encounter takes Hobo into deep space to fight off alien invaders.",
+    "path": "Games/ruffle/hobo5.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Hobo 6",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/hobo6.png",
+    "description": "Hobo descends into the depths of hell to face off against demonic forces in this gritty chapter.",
+    "path": "Games/ruffle/hobo6.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Hobo 7",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/hobo7.png",
+    "description": "The final showdown. Hobo reaches the pearly gates for his most outrageous battle yet.",
+    "path": "Games/ruffle/hobo7.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Madden NFL 09",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/maddennfl09.webp",
+    "description": "Authentic handheld football action featuring updated rosters",
+    "path": "Games/emulated/NDS/maddennfl09.html",
+    "category": "Sports",
+    "iframe": true
+  },
+  {
+    "title": "The Immortal",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/theimmortal.png",
+    "description": "A challenging adventure filled to the brim with deadly traps and ancient sorcery.",
+    "path": "Games/emulated/NES/theimmortal.html",
+    "category": "Challenging",
+    "iframe": true
   }
+
 ]
