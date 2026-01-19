@@ -1,7 +1,7 @@
 [
   {
     "title": "10 Minutes Till Dawn",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/10%20minutes.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/10%20minutes.jpg",
     "description": "10 Minutes Till Dawn is an action bullet-hell roguelite game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/10minutestilldawn.html",
     "category": "Arcade",
@@ -9,7 +9,7 @@
   },
   {
     "title": "1v1 LOL",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/1v1lol.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/1v1lol.jpg",
     "description": "Fight to survive in this epic multiplayer Battle Royale",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/1v1lol.html",
     "category": "Arcade",
@@ -17,7 +17,7 @@
   },
   {
     "title": "2048",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/2048.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/2048.png",
     "description": "Join the tiles and reach 2048!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/2048.html",
     "category": "Puzzle",
@@ -33,7 +33,7 @@
   },
   {
     "title": "30 Dollar Website",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/moal.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/moal.jpg",
     "description": "A simple website that looks like it was made for 30 dollars (a soundboard).",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Apps/30dollarwebsite.html",
     "category": "Apps",
@@ -81,7 +81,7 @@
   },
   {
     "title": "Adventure Capitalist",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/adventure.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/adventure.png",
     "description": "Adventure Capitalist is an idle clicker game where you invest in various businesses to earn money and grow your empire.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/adventure.html",
     "category": "Idle",
@@ -89,7 +89,7 @@
   },
   {
     "title": "Adventure Time Jumping Finn",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/jumpingfinn.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/jumpingfinn.jpg",
     "description": "Join the Adventure Time crew in a new mission in the Jumping Finn game!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/jumpingfinn.html",
     "category": "Arcade",
@@ -105,7 +105,7 @@
   },
   {
     "title": "Age of War",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/age%20of%20war.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/age%20of%20war.jpg",
     "description": "The classic Age of War game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/ageofwar.html",
     "category": "Arcade",
@@ -113,7 +113,7 @@
   },
   {
     "title": "Age of War 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/age%20of%20war%202.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/age%20of%20war%202.jpg",
     "description": "The sequel to the classic Age of War game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/ageofwar2.html",
     "category": "Arcade",
@@ -129,7 +129,7 @@
   },
   {
     "title": "Alexr Code Editor",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/code.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/code.png",
     "description": "Use our very own code editor where you can create and downloadyour own projects!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Apps/codeeditor.html",
     "category": "Apps",
@@ -137,7 +137,7 @@
   },
   {
     "title": "Alien Hominid",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/alien.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/alien.png",
     "description": "Alien Hominid is a platformer game where you play as an alien trying to navigate through various levels and obstacles.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/alien.html",
     "category": "Adventure",
@@ -145,7 +145,7 @@
   },
   {
     "title": "Among Us (Web Version)",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/among%20us.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/among%20us.webp",
     "description": "Fanmade version of the popular mobile game Among Us.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/amongus.html",
     "category": "Strategy",
@@ -153,7 +153,7 @@
   },
   {
     "title": "Angry Birds",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/angrybirds.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/angrybirds.webp",
     "description": "Play the classic Angry Birds game now!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Angry Birds.html",
     "category": "Arcade",
@@ -161,7 +161,7 @@
   },
   {
     "title": "Angry Birds Halloween",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/angry%20birds%20halloween.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/angry%20birds%20halloween.jpg",
     "description": "Get into the spooky spirit with Angry Birds Halloween!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/angrybirdshalloween.html",
     "category": "Arcade",
@@ -169,7 +169,7 @@
   },
   {
     "title": "Angry Birds Showdown",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/angry%20birds%20showdown.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/angry%20birds%20showdown.webp",
     "description": "Play Angry Birds Showdown, an exciting twist on the classic Angry Birds game!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/angrybirdsshowdown.html",
     "category": "Arcade",
@@ -185,7 +185,7 @@
   },
   {
     "title": "Apple Shooter",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/apple%20shooter.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/apple%20shooter.jpg",
     "description": "Shoot the apple right on top of your friends head but be careful not to hurt your friend.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/appleshooter.html",
     "category": "Arcade",
@@ -193,7 +193,7 @@
   },
   {
     "title": "Archery World Tour",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/world%20tour.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/world%20tour.jpg",
     "description": "Focus... relax... release. Aim your shot carefully and use the wind to hit the bullseye in Archery World Tour.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/worldtour.html",
     "category": "Challenging",
@@ -201,7 +201,7 @@
   },
   {
     "title": "Axis Football League",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/axis%20football.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/axis%20football.webp",
     "description": "Axis Football League is a classic football game where you can create your own team and compete against other teams.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/axisfootballleague.html",
     "category": "Arcade",
@@ -241,7 +241,7 @@
   },
   {
     "title": "Bad Piggies",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/bad%20piggies.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/bad%20piggies.jpg",
     "description": "OiNk! Build makeshift contraptions from a huge collection of parts and make it to the goal without blowing your vehicle to pieces!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/badpiggies.html",
     "category": "Arcade",
@@ -249,7 +249,7 @@
   },
   {
     "title": "Bad Time Simulator",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/bad%20time.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/bad%20time.jpg",
     "description": "Fight sans in this difficult simulator!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/badtime.html",
     "category": "Challenging",
@@ -257,7 +257,7 @@
   },
   {
     "title": "Baldis Basics",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/baldi.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/baldi.jpg",
     "description": "Baldi's Basics is a puzzle horror game which satirizes 1990s educational games.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/baldi.html",
     "category": "Challenging",
@@ -273,7 +273,7 @@
   },
   {
     "title": "Basket Random",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/basket%20random.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/basket%20random.jpg",
     "description": "Basket Random is a 2-player retro pixel game with ragdoll physics.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/basketrandom.html",
     "category": "Sports",
@@ -281,7 +281,7 @@
   },
   {
     "title": "Bejeweled Twist",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/bejewled%20twist.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/bejewled%20twist.jpg",
     "description": "Pin and match explosive gems for shockwaves of fun.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/bejeweledtwist.html",
     "category": "Puzzle",
@@ -289,7 +289,7 @@
   },
   {
     "title": "Bendy & The Ink Machine",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/bendy%20and%20the%20ink%20machine.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/bendy%20and%20the%20ink%20machine.jpg",
     "description": "The classic Bendy is a first person horror game where you uncover the dark secrets about the abandoned factory.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/bendy.html",
     "category": "Horror",
@@ -297,7 +297,7 @@
   },
   {
     "title": "Big Tower Tiny Square",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/big%20tower.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/big%20tower.png",
     "description": "Big Tower Tiny Square is all about fantastic timing and big jumps.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/bigtower.html",
     "category": "Challenging",
@@ -305,7 +305,7 @@
   },
   {
     "title": "Big Tower Tiny Square 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/big%20tower%202.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/big%20tower%202.jpg",
     "description": "The sequel to Big Tower Tiny Square!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/bigtower2.html",
     "category": "Challenging",
@@ -313,7 +313,7 @@
   },
   {
     "title": "Bitlife",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/bitlife.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/bitlife.webp",
     "description": "Start a virtual life and make your own decisions!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/bitlife.html",
     "category": "Arcade",
@@ -321,7 +321,7 @@
   },
   {
     "title": "Block Blast",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/block%20blast.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/block%20blast.jpg",
     "description": "Block Blast is a Tetris-like puzzle game, challenging to eliminate as many blocks as possible in a limited space to get a higher score.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/blockblast.html",
     "category": "Puzzle",
@@ -337,7 +337,7 @@
   },
   {
     "title": "Blockpost",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/blockpost.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/blockpost.jpg",
     "description": "Play this classic 3D shooter now!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/BlockPost.html",
     "category": "Arcade",
@@ -345,7 +345,7 @@
   },
   {
     "title": "Bloons",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/bloons.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/bloons.jpg",
     "description": "Bloons is a fun arcade game in which you need to pop as many bloons as possible.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/bloons.html",
     "category": "Strategy",
@@ -369,7 +369,7 @@
   },
   {
     "title": "Bloons Super Monkey",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/bloons%20super%20monkey.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/bloons%20super%20monkey.jpg",
     "description": "Bloons Super Monkey is an arcade Bloons game and the first game in the Bloons Super Monkey series.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/bloonsupermonkey.html",
     "category": "Arcade",
@@ -377,7 +377,7 @@
   },
   {
     "title": "Bloons Tower Defense",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/btd.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/btd.jpg",
     "description": "Pop those balloons with strategic towers!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/btd.html",
     "category": "Strategy",
@@ -385,7 +385,7 @@
   },
   {
     "title": "Bloons Tower Defense 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/btd2.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/btd2.jpg",
     "description": "The sequel to BTD!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/btd2.html",
     "category": "Strategy",
@@ -393,7 +393,7 @@
   },
   {
     "title": "Bloons Tower Defense 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/btd%203.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/btd%203.jpg",
     "description": "The sequel to BTD 2!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/btd3.html",
     "category": "Strategy",
@@ -401,7 +401,7 @@
   },
   {
     "title": "Bloons Tower Defense 4",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/btd%204.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/btd%204.jpg",
     "description": "Bloons Tower Defense 4 is a classic tower defense game initially released in Flash.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/btd4.html",
     "category": "Strategy",
@@ -409,7 +409,7 @@
   },
   {
     "title": "Bloons Tower Defense 4 Expansion",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/btd%204%20expansion.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/btd%204%20expansion.webp",
     "description": "The expansion to Bloons Tower Defense 4!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/btd4expansion.html",
     "category": "Strategy",
@@ -417,7 +417,7 @@
   },
   {
     "title": "Bloons Tower Defense 5",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/btd5.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/btd5.jpg",
     "description": "Five-star tower defense with unrivaled depth and replayability.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/btd5.html",
     "category": "Strategy",
@@ -425,7 +425,7 @@
   },
   {
     "title": "Bloxorz",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/bloxorz.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/bloxorz.jpg",
     "description": "Bloxorz is a classic web-based puzzle game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/bloxorz.html",
     "category": "Puzzle",
@@ -449,7 +449,7 @@
   },
   {
     "title": "Bowling Flash",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/bowling%20flash.avif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/bowling%20flash.avif",
     "description": "Bowling Flash is a simplistic yet a simple flash game that you can enjoy.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/bowling.html",
     "category": "Arcade",
@@ -457,7 +457,7 @@
   },
   {
     "title": "Bowmasters",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/bowmasters.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/bowmasters.jpg",
     "description": "Play Bowmasters, online for free in your browser.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/bowmasters.html",
     "category": "Arcade",
@@ -465,7 +465,7 @@
   },
   {
     "title": "Boxing Random",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/boxing%20random.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/boxing%20random.png",
     "description": "Boxing Random is a 2-player retro pixel boxing game with ragdoll physics.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/boxingrandom.html",
     "category": "Sports",
@@ -473,7 +473,7 @@
   },
   {
     "title": "Breaking the Bank",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/breaking%20the%20bank.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/breaking%20the%20bank.jpg",
     "description": "Breaking the Bank is a stickman puzzle game made by Puffballs United",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/breakingthebank.html",
     "category": "Puzzle",
@@ -481,7 +481,7 @@
   },
   {
     "title": "Bubble Shooter",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/bubbleshooter.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/bubbleshooter.jpg",
     "description": "Bubble Shooter is a classic puzzle game where you shoot bubbles to create matches of three or more of the same color.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/bubbleshooter.html",
     "category": "Puzzle",
@@ -489,7 +489,7 @@
   },
   {
     "title": "Buildnow GG",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/buildnowgg.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/buildnowgg.webp",
     "description": "BuildNow GG is an exciting online multiplayer building and shooting game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/BuildNow.gg.html",
     "category": "Arcade",
@@ -505,7 +505,7 @@
   },
   {
     "title": "Burrito Bison Revenge",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/burritobisonrevenge.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/burritobisonrevenge.jpg",
     "description": "Burrito Bison Revenge is a fun and addictive game where you play as a luchador who must defeat gummy bears and other enemies to save his beloved burrito.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/burritobisonrevenge.html",
     "category": "Arcade",
@@ -513,7 +513,7 @@
   },
   {
     "title": "Candy Crush",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/candy%20crush.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/candy%20crush.jpg",
     "description": "Play the classic strategy game now!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/candycrush.html",
     "category": "Strategy",
@@ -529,7 +529,7 @@
   },
   {
     "title": "Case Clicker",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/case%20clicker.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/case%20clicker.webp",
     "description": "Case Clicker is a fun and addictive game where you open cases and collect items.",
     "category": "Idle",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/caseclicker.html",
@@ -545,7 +545,7 @@
   },
   {
     "title": "Chess",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/chess.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/chess.png",
     "description": "Play a game of chess against the computer or a friend.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/chess.html",
     "category": "Strategy",
@@ -553,7 +553,7 @@
   },
   {
     "title": "Choppy Orc",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/choppy%20orc.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/choppy%20orc.jpg",
     "description": "Choppy Orc is a simple game about an orc that uses his axe to solve all his problems.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/choppyorc.html",
     "category": "Challenging",
@@ -569,7 +569,7 @@
   },
   {
     "title": "Cluster Rush",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/cluster%20rush.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/cluster%20rush.jpg",
     "description": "Cluster Rush is an addictive arcade game where you navigate through various obstacles and challenges.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/clusterrush.html",
     "category": "Arcade",
@@ -577,7 +577,7 @@
   },
   {
     "title": "Color Switch",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/color%20switch.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/color%20switch.jpg",
     "description": "Color Switch is a fun and addictive arcade game where you must navigate a ball through various obstacles by matching colors.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/colorswitch.html",
     "category": "Arcade",
@@ -585,7 +585,7 @@
   },
   {
     "title": "Color Tunnel",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/colortunnel.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/colortunnel.jpg",
     "description": "Color Tunnel is a fast-paced 3D arcade game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/colortunnel.html",
     "category": "Runner",
@@ -593,7 +593,7 @@
   },
   {
     "title": "Connect 4",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/connect%204.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/connect%204.jpg",
     "description": "Play the board game Connect 4 now!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/connect4.html",
     "category": "Arcade",
@@ -601,7 +601,7 @@
   },
   {
     "title": "Cookie Clicker",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/cookieclicker.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/cookieclicker.jpg",
     "description": "Cookie Clicker is a game about making an absurd amount of cookies.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/cookieclicker.html",
     "category": "Idle",
@@ -609,7 +609,7 @@
   },
   {
     "title": "Crazy Cattle 3D",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/crazycattle.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/crazycattle.jpg",
     "description": "Play Crazy Cattle 3D now!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/crazycattle3d.html",
     "category": "Arcade",
@@ -617,7 +617,7 @@
   },
   {
     "title": "Crimson Room",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/Crimson_Room.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/Crimson_Room.webp",
     "description": "Crimson Room is a classic point-and-click escape game where players must solve puzzles and find hidden objects to escape from a locked room.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/crimsonroom.html",
     "category": "Puzzle",
@@ -625,7 +625,7 @@
   },
   {
     "title": "Crossy Road",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/crossy%20road.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/crossy%20road.jpg",
     "description": "Play the classic Crossy Road game!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/crossyroad.html",
     "category": "Arcade",
@@ -633,7 +633,7 @@
   },
   {
     "title": "Cubefield",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/cube%20field.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/cube%20field.jpg",
     "description": "Cubefield is a fast-paced endless running game that tests your ability to dodge obstacles.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/cubefield.html",
     "category": "Arcade",
@@ -641,7 +641,7 @@
   },
   {
     "title": "Curveball",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/curveball.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/curveball.png",
     "description": "Curveball is an engaging and visually distinctive online game",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/curveball.html",
     "category": "Arcade",
@@ -657,7 +657,7 @@
   },
   {
     "title": "Dadish",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/dadish.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/dadish.jpg",
     "description": "Dadish is a platform game where you're a radish father who's in charge of finding his kids",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/dadish.html",
     "category": "Adventure",
@@ -665,7 +665,7 @@
   },
   {
     "title": "Dadish 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/dadish2.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/dadish2.webp",
     "description": "The sequel to Dadish!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/dadish2.html",
     "category": "Adventure",
@@ -681,7 +681,7 @@
   },
   {
     "title": "Dead Zed 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/deadzed2.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/deadzed2.jpg",
     "description": "Dead Zed 2 is a fun and addictive zombie shooting game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/deadzed2.html",
     "category": "Arcade",
@@ -689,7 +689,7 @@
   },
   {
     "title": "Deal or No Deal",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/deal%20or%20no%20deal.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/deal%20or%20no%20deal.jpg",
     "description": "What's Your Number? Try your luck in finding the $1,000,000 briefcase in this game!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/dealornodeal.html",
     "category": "Arcade",
@@ -697,7 +697,7 @@
   },
   {
     "title": "Death Run 3D",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/deathrun3d.jfif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/deathrun3d.jfif",
     "description": "Fast-paced endless runner!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/deathrun3d.html",
     "category": "Runner",
@@ -705,7 +705,7 @@
   },
   {
     "title": "Diner Dash Hometown Hero",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/diner%20dash.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/diner%20dash.jpg",
     "description": "On a visit to her hometown, Flo and her Grandma Florence take a stroll down memory lane.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/dinerdash.html",
     "category": "Cooking",
@@ -721,7 +721,7 @@
   },
   {
     "title": "Donkey Kong Country",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/donkeykongcountry.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/donkeykongcountry.jpg",
     "description": "Join Donkey Kong and Diddy Kong on a jungle adventure in this classic platformer.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/SNES/donkeykongcountry.html",
     "category": "Adventure",
@@ -729,7 +729,7 @@
   },
   {
     "title": "Donkey Kong Country 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/donkeykongcountry2.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/donkeykongcountry2.jpg",
     "description": "Join Diddy Kong and Dixie Kong on a new adventure to rescue Donkey Kong in this classic platformer sequel.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/SNES/donkeykongcountry2.html",
     "category": "Adventure",
@@ -737,7 +737,7 @@
   },
   {
     "title": "Donkey Kong Country 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/donkeykongcountry3.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/donkeykongcountry3.webp",
     "description": "Join Dixie Kong and Kiddy Kong on a new adventure to rescue Donkey Kong and Diddy Kong!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/SNES/donkeykongcountry3.html",
     "category": "Adventure",
@@ -745,7 +745,7 @@
   },
   {
     "title": "Donkey Kong Returns",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/donkeykong.avif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/donkeykong.avif",
     "description": "Donkey Kong Returns is a platform game where you play as Donkey Kong and navigate through challenging levels.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/donkeykong.html",
     "category": "Challenging",
@@ -753,7 +753,7 @@
   },
   {
     "title": "Douchebag Workout",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/douchebagworkout.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/douchebagworkout.png",
     "description": "Douchebag Workout is a game where you play as a douchebag loser who must change his life. ",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/douchebagworkout.html",
     "category": "Arcade",
@@ -761,7 +761,7 @@
   },
   {
     "title": "Douchebag Workout 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/douchebagworkout2.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/douchebagworkout2.jpg",
     "description": "The sequel to Douchebag Workout!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/douchebagworkout2.html",
     "category": "Arcade",
@@ -777,7 +777,7 @@
   },
   {
     "title": "Drift Boss",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/drift%20boss.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/drift%20boss.png",
     "description": "Drift Boss is an exciting racing game where you control a car and drift around corners to earn points and unlock new vehicles.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/driftboss.html",
     "category": "Challenging",
@@ -785,7 +785,7 @@
   },
   {
     "title": "Drift Hunters",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/drift%20hunters.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/drift%20hunters.png",
     "description": "Drift Hunters is a thrilling car drifting game where you can customize your vehicles and perform impressive drifts on various tracks.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/drifthunters.html",
     "category": "Racing",
@@ -793,7 +793,7 @@
   },
   {
     "title": "Drive Mad",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/drive%20mad.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/drive%20mad.png",
     "description": "Drive Mad is a car game where you drive on a track filled with obstacles.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/drivemad.html",
     "category": "Arcade",
@@ -801,7 +801,7 @@
   },
   {
     "title": "Duck Life",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/ducklife.jfif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/ducklife.jfif",
     "description": "The first to a legendary game series Duck Life",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/ducklife.html",
     "category": "Adventure",
@@ -809,7 +809,7 @@
   },
   {
     "title": "Duck Life 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/ducklife2.jfif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/ducklife2.jfif",
     "description": "The sequel to Duck Life",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/ducklife2.html",
     "category": "Adventure",
@@ -817,7 +817,7 @@
   },
   {
     "title": "Duck Life 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/ducklife3.jfif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/ducklife3.jfif",
     "description": "Duck Life but with a twist, evolution!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/ducklife3.html",
     "category": "Adventure",
@@ -825,7 +825,7 @@
   },
   {
     "title": "Duck Life 4",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/ducklife4.jfif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/ducklife4.jfif",
     "description": "The finale to the Duck Life Story!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/ducklife4.html",
     "category": "Adventure",
@@ -849,7 +849,7 @@
   },
   {
     "title": "Duck Life Treasure Hunt",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/duck%20life%20treasure%20hunt.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/duck%20life%20treasure%20hunt.jpg",
     "description": "This time to explore the cave and find legendary treasure.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/treasurehunt.html",
     "category": "Arcade",
@@ -881,7 +881,7 @@
   },
   {
     "title": "Economical",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/economical.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/economical.png",
     "description": "Economical is a tricky but fun puzzle platformer.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/economical.html",
     "category": "Puzzle",
@@ -889,7 +889,7 @@
   },
   {
     "title": "Electric Man",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/electricman.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/electricman.webp",
     "description": "Electric man is a classic fighting flash game",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/electricman.html",
     "category": "Arcade",
@@ -897,7 +897,7 @@
   },
   {
     "title": "Electric Man 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/electricman2.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/electricman2.jpg",
     "description": "The sequel to Electric Man!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/electricman2.html",
     "category": "Arcade",
@@ -905,7 +905,7 @@
   },
   {
     "title": "Emulator JS",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/emulatorjs.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/emulatorjs.png",
     "description": "Emulator JS is a web-based emulator that allows you to play classic console games directly in your browser.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Apps/emulatorjs.html",
     "category": "Apps",
@@ -921,7 +921,7 @@
   },
   {
     "title": "Escaping the Prison",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/escaping%20the%20prison.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/escaping%20the%20prison.png",
     "description": "Escaping The Prison is a fantastically fun stick figure game where you... Well, escape the prison",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/escapingtheprison.html",
     "category": "Puzzle",
@@ -929,7 +929,7 @@
   },
   {
     "title": "Factory Balls",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/factory%20balls.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/factory%20balls.jpg",
     "description": "In this puzzle game, your goal is to get the ball to match with the picture on the box.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/factoryballs.html",
     "category": "Puzzle",
@@ -937,7 +937,7 @@
   },
   {
     "title": "Factory Balls 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/factory%20balls%202.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/factory%20balls%202.jpg",
     "description": "Factory Balls 2 is a puzzle game where your main task is to create balls that should match the ones being requested.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/factoryballs2.html",
     "category": "Puzzle",
@@ -945,7 +945,7 @@
   },
   {
     "title": "Factory Balls 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/factory%20balls%203.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/factory%20balls%203.jpg",
     "description": "Factory Balls 3 challenges you to plan ahead and think sequentially.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/factoryballs3.html",
     "category": "Puzzle",
@@ -953,7 +953,7 @@
   },
   {
     "title": "Factory Balls 4",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/factory%20balls%204.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/factory%20balls%204.jpg",
     "description": "Factory Balls 4 is the last installment in the Factory Balls series.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/factoryballs4.html",
     "category": "Puzzle",
@@ -961,7 +961,7 @@
   },
   {
     "title": "Fancy Pants Adventure",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/fancypants.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/fancypants.png",
     "description": "Players guide Fancy Pants Man through open levels",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/fancypants.html",
     "category": "Adventure",
@@ -969,7 +969,7 @@
   },
   {
     "title": "Fancy Pants Adventure 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/fancy%20pants%202.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/fancy%20pants%202.png",
     "description": "The Fancy Pants Adventures: World 2 is an epic adventure platformer created by Brad Borne.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/fancypants2.html",
     "category": "Adventure",
@@ -977,7 +977,7 @@
   },
   {
     "title": "Fancy Pants Adventure 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/fancy%20pants%203.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/fancy%20pants%203.png",
     "description": "You will embark on an epic adventure to help the king.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/fancypants3.html",
     "category": "Adventure",
@@ -1001,7 +1001,7 @@
   },
   {
     "title": "Fireboy and Watergirl",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/fireboy.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/fireboy.jpg",
     "description": "Team up to solve puzzles!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/foresttemple.html",
     "category": "Puzzle",
@@ -1009,7 +1009,7 @@
   },
   {
     "title": "Five Nights At Freddy's",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/fnaf.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/fnaf.jpg",
     "description": "Play the classic horror game now!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fnaf.html",
     "category": "Horror",
@@ -1017,7 +1017,7 @@
   },
   {
     "title": "Five Nights At Freddy's 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/fnaf2.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/fnaf2.jpg",
     "description": "The sequel to Five Nights At Freddys!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fnaf2.html",
     "category": "Horror",
@@ -1025,7 +1025,7 @@
   },
   {
     "title": "Five Nights At Freddy's 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/fnaf3.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/fnaf3.jpg",
     "description": "The third installment in the Five Nights At Freddy's series!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fnaf3.html",
     "category": "Horror",
@@ -1049,7 +1049,7 @@
   },
   {
     "title": "FL Tron",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/fl%20tron.avif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/fl%20tron.avif",
     "description": "FL Tron is a classic arcade game where you control a light cycle and try to trap your opponent.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/fltron.html",
     "category": "Arcade",
@@ -1057,7 +1057,7 @@
   },
   {
     "title": "Flappy Bird",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/flappybird.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/flappybird.png",
     "description": "Play the classic Flappy Bird mobile game right here on your computer!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/flappybird.html",
     "category": "Arcade",
@@ -1065,7 +1065,7 @@
   },
   {
     "title": "Flappy Dunk",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/flappy%20dunk.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/flappy%20dunk.webp",
     "description": "Flappy Dunk is a fun and addictive arcade game where you control a basketball and try to score points by passing through hoops.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Flappy Dunk.html",
     "category": "Arcade",
@@ -1073,7 +1073,7 @@
   },
   {
     "title": "Fleeing the Complex",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/fleeing%20the%20complex.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/fleeing%20the%20complex.jpg",
     "description": "You are trapped inside a small prison cell, and you have to escape not just your cell, but the whole prison! If you fail, death is awaiting you...",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/fleeingthecomplex.html",
     "category": "Puzzle",
@@ -1097,7 +1097,7 @@
   },
   {
     "title": "Freegear",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/freegear.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/freegear.jpg",
     "description": "Test your agility and reaction in high-speed racing competitions.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/freegear.html",
     "category": "Racing",
@@ -1113,7 +1113,7 @@
   },
   {
     "title": "Frogger",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/frogger.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/frogger.jpg",
     "description": "Frogger is a classic arcade game where you guide a frog across a busy road and a river full of hazards.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/frogger.html",
     "category": "Arcade",
@@ -1121,7 +1121,7 @@
   },
   {
     "title": "Frontline Defense",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/frontline.avif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/frontline.avif",
     "description": "Frontline Defense is a tower defense game where you must defend your base from waves of enemies.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/frontlinedefense.html",
     "category": "Strategy",
@@ -1129,7 +1129,7 @@
   },
   {
     "title": "Fruit Ninja",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/fruit%20ninja.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/fruit%20ninja.jpg",
     "description": "Slice as much fruit as you can and avoid slicing the bombs in this classic mobile game!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fruitninja.html",
     "category": "Arcade",
@@ -1137,7 +1137,7 @@
   },
   {
     "title": "Galaga",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/galaga.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/galaga.jpg",
     "description": "Play the classic Galaga game now!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/galaga.html",
     "category": "Arcade",
@@ -1145,7 +1145,7 @@
   },
   {
     "title": "Galaga Flash",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/galagaf.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/galagaf.jpg",
     "description": "The Robotube Games version of Galaga",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/galagaflash.html",
     "category": "Arcade",
@@ -1153,7 +1153,7 @@
   },
   {
     "title": "Geometry Dash",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/geometrydash.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/geometrydash.jpg",
     "description": "Replication of the classic game Geometry Dash",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/gdlite.html",
     "category": "Challenging",
@@ -1161,7 +1161,7 @@
   },
   {
     "title": "Geometry Dash Remastered",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/geometry%20dash%20remastered.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/geometry%20dash%20remastered.jpg",
     "description": "A remastered version of the classic mobile game Geometry Dash",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/gdremastered.html",
     "category": "Challenging",
@@ -1169,7 +1169,7 @@
   },
   {
     "title": "Gladihoppers",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/gladihoppers.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/gladihoppers.jpg",
     "description": "Gladihoppers is an action game where you fight in different arenas as a gladiator!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/gladihoppers.html",
     "category": "Arcade",
@@ -1177,7 +1177,7 @@
   },
   {
     "title": "Google Feud",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/googlefeud.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/googlefeud.png",
     "description": "Google Feud is a challenging quiz game that's easy to play, but difficult to master.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/googlefeud.html",
     "category": "Strategy",
@@ -1185,7 +1185,7 @@
   },
   {
     "title": "Granny",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/granny.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/granny.jpg",
     "description": "Granny is a horror game where you need to escape from a creepy house and on top of that, a crazy grandma.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/granny.html",
     "category": "Horror",
@@ -1193,7 +1193,7 @@
   },
   {
     "title": "Granny: Chapter 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/granny%202.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/granny%202.jpg",
     "description": "The sequel to Granny where its even more difficult than before. You must evade both granny and grandpa and escape the house.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Granny 2.html",
     "category": "Horror",
@@ -1225,7 +1225,7 @@
   },
   {
     "title": "Grow Cube",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/grow.avif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/grow.avif",
     "description": "Grow Cube is a puzzle game where you need to grow the cube by clicking on the right objects in the right order.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/growcube.html",
     "category": "Puzzle",
@@ -1233,7 +1233,7 @@
   },
   {
     "title": "Grow Island",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/growisland.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/growisland.jpg",
     "description": "Grow Island is a puzzle game where you need to grow the island by clicking on the right objects in the right order.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/growisland.html",
     "category": "Puzzle",
@@ -1241,7 +1241,7 @@
   },
   {
     "title": "Grow Valley",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/grow.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/grow.jpg",
     "description": "Grow Valley is a puzzle game where you need to grow the valley by clicking on the right objects in the right order.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/growvalley.html",
     "category": "Puzzle",
@@ -1249,7 +1249,7 @@
   },
   {
     "title": "Happy Wheels",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/happy%20wheelsa.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/happy%20wheelsa.jpg",
     "description": "Happy Wheels is a side-scrolling ragdoll physics-based platform browser game developed and published by Fancy Force.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/happywheels.html",
     "category": "Arcade",
@@ -1257,7 +1257,7 @@
   },
   {
     "title": "Helix Jump",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/helix%20jump.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/helix%20jump.jpg",
     "description": "Helix Jump is a 3d arcade game",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/helixjump.html",
     "category": "Arcade",
@@ -1265,7 +1265,7 @@
   },
   {
     "title": "Highway Racer 3D",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/highway%20racer%203d.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/highway%20racer%203d.jpg",
     "description": "Highway Racer 3D is a fast-paced, endless arcade driving game where you navigate busy highways and dodge traffic.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/highwayracer3D.html",
     "category": "Racing",
@@ -1281,7 +1281,7 @@
   },
   {
     "title": "Hole IO",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/Hole-Io.avif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/Hole-Io.avif",
     "description": "Play the classic Hole IO game now/1",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/holeio.html",
     "category": "Racing",
@@ -1289,7 +1289,7 @@
   },
   {
     "title": "Idle Breakout",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/idle%20breakout.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/idle%20breakout.png",
     "description": "Build the ultimate brick-busting machine to destroy billions of bricks.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/idlebreakout.html",
     "category": "Idle",
@@ -1297,7 +1297,7 @@
   },
   {
     "title": "Inflitrating the Airship",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/infiltrating%20the%20airship.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/infiltrating%20the%20airship.jpg",
     "description": "Can you choose wisely and help the stickman in this game to accomplish his goals?",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/airship.html",
     "category": "Puzzle",
@@ -1305,7 +1305,7 @@
   },
   {
     "title": "Injustice Gods Among Us",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/Injustice.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/Injustice.webp",
     "description": "Injustice: Gods Among Us is a fighting game featuring characters from DC Comics.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/injustice.html",
     "category": "Fighting",
@@ -1313,7 +1313,7 @@
   },
   {
     "title": "Isoball",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/isoball.gif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/isoball.gif",
     "description": "Isoball is a puzzle game where you need to build a path for the ball to reach the goal.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/isoball.html",
     "category": "Puzzle",
@@ -1321,7 +1321,7 @@
   },
   {
     "title": "Jetpack Joyride",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/jetpack.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/jetpack.jpg",
     "description": "Jetpack Joyride is an endless runner game developed by Halfbrick Studios",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/jetpack.html",
     "category": "Runner",
@@ -1329,7 +1329,7 @@
   },
   {
     "title": "Johnny Upgrade",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/johnny%20upgrade.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/johnny%20upgrade.jpg",
     "description": "Johnny Upgrade is a cartoon super hero with no skills at all! Collect coins in order to afford the upgrades you need.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/johnnyupgrade.html",
     "category": "Arcade",
@@ -1337,7 +1337,7 @@
   },
   {
     "title": "Kaboomz",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/kaboomz.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/kaboomz.jpg",
     "description": "Kaboomz is a fun and addictive puzzle game where you must pop bubbles by matching colors and creating chain reactions.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/kaboomz.html",
     "category": "Puzzle",
@@ -1345,7 +1345,7 @@
   },
   {
     "title": "League Bowling",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/league%20bowling.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/league%20bowling.jpg",
     "description": "League Bowling is a classic flash game where your goal is to win.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/leaguebowling.html",
     "category": "Arcade",
@@ -1353,7 +1353,7 @@
   },
   {
     "title": "Learn to Fly",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/learn%20to%20fly.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/learn%20to%20fly.jpg",
     "description": "This game introduces the protagonist, a penguin that learns how to fly with the use of a glider and a rocket.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/learntofly.html",
     "category": "Adventure",
@@ -1361,7 +1361,7 @@
   },
   {
     "title": "Learn to Fly 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/learn%20to%20fly%202.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/learn%20to%20fly%202.jpg",
     "description": "Learn to Fly 2 is a launcher game where you play as a penguin attempting to fly using a ramp and various gadgets.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/learntofly2.html",
     "category": "Adventure",
@@ -1369,7 +1369,7 @@
   },
   {
     "title": "Learn to Fly 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/learn%20to%20fly%203.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/learn%20to%20fly%203.jpg",
     "description": "In Learn to Fly 3, you build, customize and upgrade a spaceship.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/learntofly3.html",
     "category": "Adventure",
@@ -1377,7 +1377,7 @@
   },
   {
     "title": "Learn to Fly Idle",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/learntoflyidle.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/learntoflyidle.jpg",
     "description": "Learn to Fly Idle is an idle game, as the title suggests. It requires you to go out and destroy Obstacles with a cannon.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/learntoflyidle.html",
     "category": "Arcade",
@@ -1385,7 +1385,7 @@
   },
   {
     "title": "Lemonade Stand",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/lemonadestand.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/lemonadestand.jpg",
     "description": "Lemonade Stand is a classic business simulation game where you manage your own lemonade stand.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/lemonade.html",
     "category": "Strategy",
@@ -1393,7 +1393,7 @@
   },
   {
     "title": "Madness Accelerant",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/Madnessaccelerant.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/Madnessaccelerant.webp",
     "description": "Madness Accelerant is a fast-paced action game set in the Madness universe.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/madnessa.html",
     "category": "Arcade",
@@ -1401,7 +1401,7 @@
   },
   {
     "title": "Madness Project Nexus",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/madness.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/madness.jpg",
     "description": "Defeat Project Nexus and the Nexus Training Program",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/madness.html",
     "category": "Arcade",
@@ -1409,7 +1409,7 @@
   },
   {
     "title": "Magic Tiles 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/magic%20titles%203.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/magic%20titles%203.jpg",
     "description": "Experience the thrill of playing piano like a pro with Magic Tiles 3",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/magictiles3.html",
     "category": "Arcade",
@@ -1417,7 +1417,7 @@
   },
   {
     "title": "Mahjong Gardens",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/mahjong-gardens.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/mahjong-gardens.png",
     "description": "Mahjong Gardens is a classic tile-matching game where you must clear the board by matching pairs of tiles.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/mahjonggardens.html",
     "category": "Puzzle",
@@ -1425,7 +1425,7 @@
   },
   {
     "title": "Mahjong Titans",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/mahjong-titans.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/mahjong-titans.webp",
     "description": "Mahjong Titans is a classic tile-matching game where you must clear the board by matching pairs of tiles.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/mahjongtitans.html",
     "category": "Puzzle",
@@ -1433,7 +1433,7 @@
   },
   {
     "title": "Mahjong Tower",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/mahjong-tower.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/mahjong-tower.webp",
     "description": "Mahjong Tower is a classic tile-matching game where you must clear the board by matching pairs of tiles.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/MahjongTower.html",
     "category": "Puzzle",
@@ -1449,7 +1449,7 @@
   },
   {
     "title": "Mario Combat",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/mariocombat.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/mariocombat.webp",
     "description": "Mario Combat is a fast-paced action game where you control Mario and battle against various enemies.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/mariocombat.html",
     "category": "Fighting",
@@ -1481,7 +1481,7 @@
   },
   {
     "title": "Max Dirt Bike",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/maxdirtbike.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/maxdirtbike.webp",
     "description": "Max Dirt Bike is a fast-paced racing game where you control a dirt bike and navigate through various tracks.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/maxdirtbike.html",
     "category": "Arcade",
@@ -1497,7 +1497,7 @@
   },
   {
     "title": "Minecraft Tower Defense",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/minecrafttower.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/minecrafttower.jpg",
     "description": "Set your path, pick your weapons, and DEFEND.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/minecrafttowerdefense.html",
     "category": "Strategy",
@@ -1505,7 +1505,7 @@
   },
   {
     "title": "Minecraft Tower Defense 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/minecraft%20tower%20defense%202.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/minecraft%20tower%20defense%202.webp",
     "description": "The sequel to Minecraft Tower Defense where your goal is to DEFEND.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/minecrafttowerdefense2.html",
     "category": "Strategy",
@@ -1513,7 +1513,7 @@
   },
   {
     "title": "Monkey Mart",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/monkey%20mart.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/monkey%20mart.jpg",
     "description": "Monkey Mart is a casual, simulation game where players manage and grow their own virtual supermarket.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/monkeymart.html",
     "category": "Arcade",
@@ -1537,7 +1537,7 @@
   },
   {
     "title": "Motherload",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/motherload.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/motherload.jpg",
     "description": "Motherload is a classic mining game ",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/motherload.html",
     "category": "Arcade",
@@ -1577,7 +1577,7 @@
   },
   {
     "title": "Moto-X3M Pool Party",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/moto%20x3m%20pool%20party.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/moto%20x3m%20pool%20party.jpg",
     "description": "Summer Version of Moto-X3M",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/motox3mpoolparty.html",
     "category": "Arcade",
@@ -1585,7 +1585,7 @@
   },
   {
     "title": "Moto-X3M Spooky Land",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/motospooky.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/motospooky.png",
     "description": "Halloween Version of Moto-X3M",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/motox3mspookyland.html",
     "category": "Arcade",
@@ -1593,7 +1593,7 @@
   },
   {
     "title": "Murder",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/murder.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/murder.webp",
     "description": "You wish to assassinate the king and take his place to rule over the kingdom.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/murder.html",
     "category": "Strategy",
@@ -1601,7 +1601,7 @@
   },
   {
     "title": "My Friend Pedro",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/my%20friend%20pedro.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/my%20friend%20pedro.jpg",
     "description": "Your friend Pedro is a banana who is very supportive of your plan to shoot bad guys while flying around the air.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/myfriendpedro.html",
     "category": "Arcade",
@@ -1609,7 +1609,7 @@
   },
   {
     "title": "N-gon",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/ngon.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/ngon.png",
     "description": "N-gon is a challenging and addictive arcade game where you control a shape and navigate through a series of obstacles.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/ngon.html",
     "category": "Challenging",
@@ -1625,7 +1625,7 @@
   },
   {
     "title": "Neon Rider",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/neon%20rider.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/neon%20rider.png",
     "description": "Navigate your sci-fi bike through a series of hand-crafted levels.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/neonrider.html",
     "category": "Arcade",
@@ -1633,7 +1633,7 @@
   },
   {
     "title": "Nyan Cat Lost in Space",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/nyancat.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/nyancat.jpg",
     "description": "Guide Nyan Cat through the galaxy in his never-ending quest for YUMMIES!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/nyancatlostinspace.html",
     "category": "Arcade",
@@ -1681,7 +1681,7 @@
   },
   {
     "title": "Pacman",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/pacman.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/pacman.png",
     "description": "Play the classic arcade game Pacman right here on your computer!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/pacman.html",
     "category": "Arcade",
@@ -1697,7 +1697,7 @@
   },
   {
     "title": "Pacman World",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/pacmanworld.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pacmanworld.jpg",
     "description": "Pacman World is a fun and challenging Pacman game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/GBA/pacmanworld.html",
     "category": "Adventure",
@@ -1705,7 +1705,7 @@
   },
   {
     "title": "Pacxon",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/pacxon.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/pacxon.jpg",
     "description": "Survive as many rounds as possible in this pac man inspired game!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/pacxon.html",
     "category": "Arcade",
@@ -1713,7 +1713,7 @@
   },
   {
     "title": "Pacxon Deluxe",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/pacxondeluxe.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/pacxondeluxe.jpg",
     "description": "The sequel to Pacxon!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/pacxondeluxe.html",
     "category": "Arcade",
@@ -1721,7 +1721,7 @@
   },
   {
     "title": "Pandemic 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/pandemic%202.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/pandemic%202.jpg",
     "description": "In this game your goal is to infect everyone in the world!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/pandemic2.html",
     "category": "Arcade",
@@ -1737,7 +1737,7 @@
   },
   {
     "title": "Papas Bakeria",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/papas%20bake.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/papas%20bake.jpg",
     "description": "Papa’s back with a brand new pie shop - Papa’s Bakeria!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/papasbake.html",
     "category": "Cooking",
@@ -1745,7 +1745,7 @@
   },
   {
     "title": "Papas Burgeria",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/papas%20burgeria.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/papas%20burgeria.jpg",
     "description": "Papa has left you in charge of his prized burger-building establishment.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/papasburgeria.html",
     "category": "Cooking",
@@ -1753,7 +1753,7 @@
   },
   {
     "title": "Papas Cheeseria",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/papas%20cheese.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/papas%20cheese.webp",
     "description": "Papa’s Cheeseria is a restaurant game where you build grilled cheese sandwiches for customers.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/papascheese.html",
     "category": "Cooking",
@@ -1761,7 +1761,7 @@
   },
   {
     "title": "Papas Cupcakeria",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/papascupcake.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/papascupcake.jpg",
     "description": "Papa's Cupcakeria is a casual restaurant game in which you make cupcakes for customers.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/papascupcake.html",
     "category": "Cooking",
@@ -1769,7 +1769,7 @@
   },
   {
     "title": "Papas Donuteria",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/papas%20donut.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/papas%20donut.jpg",
     "description": "Papa’s Donuteria is a casual restaurant game in which you build delicious donuts for customers.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/papasdonut.html",
     "category": "Cooking",
@@ -1777,7 +1777,7 @@
   },
   {
     "title": "Papas Freezeria",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/papas%20freezeria.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/papas%20freezeria.jpg",
     "description": "Build your customer's favorite ice cream sundae to spec, and they'll be happy with the product.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/papasfreezeria.html",
     "category": "Cooking",
@@ -1785,7 +1785,7 @@
   },
   {
     "title": "Papas Hotdoggeria",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/papas%20hotdog.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/papas%20hotdog.jpg",
     "description": "In Papa's Hot Doggeria you'll need to grill up juicy Hot Dogs.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/papashotdog.html",
     "category": "Cooking",
@@ -1793,7 +1793,7 @@
   },
   {
     "title": "Papas Pancakeria",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/papas%20pancake.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/papas%20pancake.jpg",
     "description": "It is up to you to run every single aspect of the restaurant. Take orders, pour the batter, flip the pancakes, and serve the flapjacks hot and ready to hungry customers.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/papaspancake.html",
     "category": "Cooking",
@@ -1801,7 +1801,7 @@
   },
   {
     "title": "Papas Pastaria",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/papas%20pasta.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/papas%20pasta.jpg",
     "description": "Papa's Pastaria is a casual restaurant game where you take charge of an Italian restaurant and serve delectable pasta dishes.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/papaspasta.html",
     "category": "Cooking",
@@ -1809,7 +1809,7 @@
   },
   {
     "title": "Papas Pizzeria",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/papas%20pizza.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/papas%20pizza.jpg",
     "description": "You are playing as Roy, Papa Louie's nephew. It is up to you, Roy, to take control of the pizzeria.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/papaspizza.html",
     "category": "Cooking",
@@ -1817,7 +1817,7 @@
   },
   {
     "title": "Papas Scooperia",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/papas%20scooperia.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/papas%20scooperia.jpg",
     "description": "The last addition to the papas series. Grab your ice cream scooper and get ready to serve up some tasty frozen treats in Papas Scooperia.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/papascoop.html",
     "category": "Cooking",
@@ -1825,7 +1825,7 @@
   },
   {
     "title": "Papas Sushiria",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/sushi.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/sushi.jpg",
     "description": "Papa’s Sushiria is a casual restaurant game in which you create sushi for customers.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/papas sushi.html",
     "category": "Cooking",
@@ -1833,7 +1833,7 @@
   },
   {
     "title": "Papas Taco Mia",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/papas%20taco.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/papas%20taco.jpg",
     "description": "Build tasty tacos in Papa’s Taco Mia!, a casual restaurant game in the Papa Louie series.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/papastaco.html",
     "category": "Cooking",
@@ -1841,7 +1841,7 @@
   },
   {
     "title": "Papas Wingeria",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/papas%20wing.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/papas%20wing.jpg",
     "description": "Welcome to Papa's Wingeria, Here you will have to keep your picky customers happy as they order tons of wings and things.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/papaswingeria.html",
     "category": "Cooking",
@@ -1849,7 +1849,7 @@
   },
   {
     "title": "Paper IO 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/paperio2.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/paperio2.jpg",
     "description": "Enter a colorful and dynamic world where strategy, skill, and cunning are your greatest allies.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/paperio2.html",
     "category": "Arcade",
@@ -1881,7 +1881,7 @@
   },
   {
     "title": "Plants Vs Zombies",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/plantsvszombies.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/plantsvszombies.jpg",
     "description": "Play the demo of this classic game now!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/plantsvszombies.html",
     "category": "Arcade",
@@ -1929,7 +1929,7 @@
   },
   {
     "title": "Polytrack",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/polytrack.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/polytrack.jpg",
     "description": "PolyTrack is a low-poly racing game with loops, jumps and high speeds.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/polytrack.html",
     "category": "Racing",
@@ -1937,7 +1937,7 @@
   },
   {
     "title": "Poppit",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/poppit.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/poppit.jpg",
     "description": "Poppit is an awesome puzzle game in which you must match three or more of the same color balloon together and pop them.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/poppit.html",
     "category": "Puzzle",
@@ -1945,7 +1945,7 @@
   },
   {
     "title": "Portal the Flash Version",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/portal%20the%20flash%20version.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/portal%20the%20flash%20version.jpg",
     "description": "In this game, you use your special physics gun to create inter-dimensional portals in-between walls and objects.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/portaltheflashversion.html",
     "category": "Puzzle",
@@ -1953,7 +1953,7 @@
   },
   {
     "title": "Potty Racers",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/pottyracers.jfif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/pottyracers.jfif",
     "description": "Your goal is to ride your potty down various hills and hurl yourself up ramps",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/pottyracers.html",
     "category": "Arcade",
@@ -1961,7 +1961,7 @@
   },
   {
     "title": "Potty Racers 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/pottyracers2.jfif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/pottyracers2.jfif",
     "description": "You play as a man who has a desire to fly by a porta potty",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/pottyracers2.html",
     "category": "Arcade",
@@ -1969,7 +1969,7 @@
   },
   {
     "title": "Potty Racers 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/potty%20racers.jfif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/potty%20racers.jfif",
     "description": "Potty Racers 3 is the third installment in the Potty Racers series",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/pottyracers3.html",
     "category": "Arcade",
@@ -1977,7 +1977,7 @@
   },
   {
     "title": "Pou",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/pou.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/pou.webp",
     "description": "Pou is a digital pet game featuring various fun mini-games.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/pou.html",
     "category": "Arcade",
@@ -1993,7 +1993,7 @@
   },
   {
     "title": "Raft Wars",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/raft%20wars.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/raft%20wars.jpg",
     "description": "Raft Wars is a level-based shooting game created by Martijn Kunst",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/raftwars.html",
     "category": "Arcade",
@@ -2001,7 +2001,7 @@
   },
   {
     "title": "Raft Wars 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/raft%20wars%202.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/raft%20wars%202.webp",
     "description": "The sequel to Raft Wars where it includes more levels and more obstacles to overcome!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/raftwars2.html",
     "category": "Arcade",
@@ -2009,7 +2009,7 @@
   },
   {
     "title": "Red Ball",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/red%20ball.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/red%20ball.jpg",
     "description": "The original Red Ball game created back in 2008.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/redball.html",
     "category": "Adventure",
@@ -2017,7 +2017,7 @@
   },
   {
     "title": "Red Ball 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/red%20ball%202.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/red%20ball%202.jpg",
     "description": "Red Ball 2 is here, and he has lost his beloved crown.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/redball2.html",
     "category": "Adventure",
@@ -2025,7 +2025,7 @@
   },
   {
     "title": "Red Ball 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/red%20ball%203.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/red%20ball%203.jpg",
     "description": "Red Ball's girlfriend has been captured by his old nemesis.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/redball3.html",
     "category": "Adventure",
@@ -2041,7 +2041,7 @@
   },
   {
     "title": "Retro Bowl",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/retrobowl.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/retrobowl.jpg",
     "description": "Retro Bowl is the perfect game for the armchair quarterback to finally prove a point.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/retrobowl.html",
     "category": "Arcade",
@@ -2057,7 +2057,7 @@
   },
   {
     "title": "Riddle School",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/riddleschool1.jfif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/riddleschool1.jfif",
     "description": "Riddle School is a fun game of mystery and puzzle solving",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/riddleschool.html",
     "category": "Puzzle",
@@ -2065,7 +2065,7 @@
   },
   {
     "title": "Riddle School 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/riddleschool2.jfif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/riddleschool2.jfif",
     "description": "Help Phil to escape the school in this sequel of Riddle School!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/riddleschool2.html",
     "category": "Puzzle",
@@ -2073,7 +2073,7 @@
   },
   {
     "title": "Riddle School 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/riddleschool3.jfif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/riddleschool3.jfif",
     "description": "Escape the school in the third episode of the riddle school series",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/riddleschool3.html",
     "category": "Puzzle",
@@ -2081,7 +2081,7 @@
   },
   {
     "title": "Riddle School 4",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/riddleschool4.jfif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/riddleschool4.jfif",
     "description": "Riddle School 4 is the 4th game in the Riddle School series.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/riddleschool4.html",
     "category": "Puzzle",
@@ -2089,7 +2089,7 @@
   },
   {
     "title": "Riddle School 5",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/riddleschool5.jfif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/riddleschool5.jfif",
     "description": "Take control of Phil once more in his epic quest to escape his captors",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/riddleschool5.html",
     "category": "Puzzle",
@@ -2097,7 +2097,7 @@
   },
   {
     "title": "Riddle Transfer",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/riddletransfer.jfif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/riddletransfer.jfif",
     "description": "Riddle Transfer is another in a long line of fantastic, addicting point and click adventure games where the main goal is to escape!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/riddletransfer.html",
     "category": "Puzzle",
@@ -2105,7 +2105,7 @@
   },
   {
     "title": "Riddle Transfer 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/riddletransfer2.jfif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/riddletransfer2.jfif",
     "description": "Riddle Transfer 2 is the long-awaited solution to the unresolved cliffhanger of 5 years ago...",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/riddletransfer2.html",
     "category": "Puzzle",
@@ -2113,7 +2113,7 @@
   },
   {
     "title": "Rocket Soccer Derby",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/rocket.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/rocket.webp",
     "description": "Rocket Soccer Derby is an exciting car soccer game where you drive rocket-powered cars to score goals against your opponents.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/rocketsoccer.html",
     "category": "Arcade",
@@ -2121,7 +2121,7 @@
   },
   {
     "title": "Rollercoaster Creator",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/roller%20coaster.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/roller%20coaster.png",
     "description": "Rollercoaster Creator is a fun game where you need to build a rollercoaster track.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/rollercoaster.html",
     "category": "Puzzle",
@@ -2129,7 +2129,7 @@
   },
   {
     "title": "Ruffle",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/ruffle.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/ruffle.jpg",
     "description": "Ruffle is an open-source Flash Player emulator that allows you to play Flash content directly in your web browser without the need for the original Flash Player plugin.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Apps/ruffle.html",
     "category": "Apps",
@@ -2137,7 +2137,7 @@
   },
   {
     "title": "Run",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/run%20original.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/run%20original.jpg",
     "description": "Run 1 is a popular game created by a Canadian programmer in 2008 and which has been a resounding success.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/run.html",
     "category": "Runner",
@@ -2145,7 +2145,7 @@
   },
   {
     "title": "Run 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/run%202.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/run%202.jpg",
     "description": "In Run 2, you play as a gray alien running through a series of different levels.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/run2.html",
     "category": "Runner",
@@ -2153,7 +2153,7 @@
   },
   {
     "title": "Run 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/run%203.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/run%203.png",
     "description": "Run 3 is a popular endless runner game set in space.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/run3.html",
     "category": "Runner",
@@ -2161,7 +2161,7 @@
   },
   {
     "title": "Shopping Cart Hero",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/shopping%20cart%20hero.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/shopping%20cart%20hero.jpg",
     "description": "Shopping Cart Hero is an arcade game that lets you run, jump on your cart and perform combined tricks!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/shoppingcarthero.html",
     "category": "Arcade",
@@ -2169,7 +2169,7 @@
   },
   {
     "title": "Shopping Cart Hero 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/shopping%20cart%20hero%202.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/shopping%20cart%20hero%202.png",
     "description": "Shopping Cart Hero 2 is an addictive online game that challenges players to launch a shopping cart down a ramp and perform stunts while in the air",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/shoppingcarthero2.html",
     "category": "Arcade",
@@ -2177,7 +2177,7 @@
   },
   {
     "title": "Slender the Eight Pages",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/Slender_Logo.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/Slender_Logo.jpg",
     "description": "Slender the Eight Pages is a horror game where you must collect eight pages while avoiding the terrifying Slender Man.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/slender.html",
     "category": "Horror",
@@ -2185,7 +2185,7 @@
   },
   {
     "title": "Slope",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/slope.jfif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/slope.jfif",
     "description": "Test your reflexes in this 3D endless runner!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/slope.html",
     "category": "Runner",
@@ -2193,7 +2193,7 @@
   },
   {
     "title": "Slope 2 Player",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/slope%202%20player.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/slope%202%20player.jpg",
     "description": "A different version of slope that supports 2 player mode.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/slope2player.html",
     "category": "Runner",
@@ -2201,7 +2201,7 @@
   },
   {
     "title": "Snow Rider 3D",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/snowrider3d.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/snowrider3d.jpg",
     "description": "Take on the ultimate skateboarding adventure with Snow Rider and conquer icy slopes.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/snowrider3d.html",
     "category": "Arcade",
@@ -2217,7 +2217,7 @@
   },
   {
     "title": "Solitaire",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/solitare.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/solitare.webp",
     "description": "Solitare is a classic card game where you must arrange the cards in a specific order.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/solitaire.html",
     "category": "Arcade",
@@ -2225,7 +2225,7 @@
   },
   {
     "title": "Sonic 3 & Knuckles",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/sonicandknuckles.jpeg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/sonicandknuckles.jpeg",
     "description": "Sonic 3 & Knuckles is a combination of Sonic the Hedgehog 3 and Sonic & Knuckles.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/sonic-games/sonicthehedgehog3.html",
     "category": "Adventure",
@@ -2233,7 +2233,7 @@
   },
   {
     "title": "Sonic Advance",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/sonicadvance.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/sonicadvance.jpg",
     "description": "Sonic Advance is a platform game featuring Sonic the Hedgehog.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/GBA/sonicadvance.html",
     "category": "Adventure",
@@ -2241,7 +2241,7 @@
   },
   {
     "title": "Sonic Advance 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/sonicadvance2.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/sonicadvance2.png",
     "description": "Sonic Advance 2 is the sequel to Sonic Advance, featuring new levels and characters.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/GBA/sonicadvance2.html",
     "category": "Adventure",
@@ -2249,7 +2249,7 @@
   },
   {
     "title": "Sonic Advance 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/sonicadvance3.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/sonicadvance3.jpg",
     "description": "Sonic Advance 3 is the final game in the Sonic Advance series.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/GBA/sonicadvance3.html",
     "category": "Adventure",
@@ -2257,7 +2257,7 @@
   },
   {
     "title": "Sonic CD",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/sonic%20cd.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/sonic%20cd.webp",
     "description": "The original Sonic CD as you remember. With hard levels, bosses, and easter eggs.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/soniccd.html",
     "category": "Adventure",
@@ -2273,7 +2273,7 @@
   },
   {
     "title": "Sonic Flash",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/sonic.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/sonic.jpg",
     "description": "Play the Ultimate Flash Sonic game to join Sonic in a classic platformer adventure!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/sonicultimate.html",
     "category": "Adventure",
@@ -2289,7 +2289,7 @@
   },
   {
     "title": "Sonic the Hedgehog",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/sonicthehedgehog.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/sonicthehedgehog.png",
     "description": "Sonic the Hedgehog is a classic platform game featuring the iconic blue hedgehog.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/sonic-games/sonicthehedgehog.html",
     "category": "Adventure",
@@ -2297,7 +2297,7 @@
   },
   {
     "title": "Sonic the Hedgehog 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/sonicthehedgehog2.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/sonicthehedgehog2.png",
     "description": "Sonic the Hedgehog 2 is the sequel to the original Sonic the Hedgehog game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/sonic-games/sonicthehedgehog2.html",
     "category": "Adventure",
@@ -2305,7 +2305,7 @@
   },
   {
     "title": "Soundboard",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/soundboard.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/soundboard.png",
     "description": "A soundboard with various sound effects and music clips.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Apps/soundboard.html",
     "category": "Apps",
@@ -2313,7 +2313,7 @@
   },
   {
     "title": "Space is Key",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/space%20is%20key.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/space%20is%20key.png",
     "description": "Get through each level of this REALLY HARD obstacle course.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/spaceiskey.html",
     "category": "Challenging",
@@ -2321,7 +2321,7 @@
   },
   {
     "title": "Space is Key 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/space%20is%20key%202.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/space%20is%20key%202.png",
     "description": "The sequel to the challenging game Space is Key!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/spaceiskey2.html",
     "category": "Challenging",
@@ -2329,7 +2329,7 @@
   },
   {
     "title": "Space Waves",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/spacewave.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/spacewave.webp",
     "description": "Control the arrow to avoid obstacles, play through levels, and reach the finish!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/spacewaves.html",
     "category": "Arcade",
@@ -2337,7 +2337,7 @@
   },
   {
     "title": "Sprinter",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/sprinter.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/sprinter.jpg",
     "description": "Sprint with fury to the finish line in this classic Flash game from Gamedesign.jp.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/sprinter.html",
     "category": "Racing",
@@ -2345,7 +2345,7 @@
   },
   {
     "title": "Stack",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/stack.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/stack.jpg",
     "description": "Your goal is to build the highest tower you can.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/stack.html",
     "category": "Arcade",
@@ -2361,7 +2361,7 @@
   },
   {
     "title": "Stealing the Diamond",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/stealing%20the%20diamond.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/stealing%20the%20diamond.jpg",
     "description": "Stealing The Diamond is another in a series of amazing stick figure adventure games.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/stealingthediamond.html",
     "category": "Puzzle",
@@ -2369,7 +2369,7 @@
   },
   {
     "title": "Stick War",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/Stick_War_1_Menu.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/Stick_War_1_Menu.webp",
     "description": "Stick War is a popular strategy game where players control an army of stick figures to conquer territories and defeat enemies.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/stickwar.html",
     "category": "Strategy",
@@ -2377,7 +2377,7 @@
   },
   {
     "title": "Stickman Golf",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/stickman%20golf.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/stickman%20golf.jpg",
     "description": "Stickman Golf is a fun and addictive golf game where you control a stickman and try to get the ball into the hole in as few strokes as possible.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/stickmangolf.html",
     "category": "Arcade",
@@ -2393,7 +2393,7 @@
   },
   {
     "title": "Strike Force Heros",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/Strike%20Force%20Heros.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/Strike%20Force%20Heros.jpg",
     "description": "The original version of the classic Strike Force Heros game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/strikeforceheros.html",
     "category": "Arcade",
@@ -2401,7 +2401,7 @@
   },
   {
     "title": "Strike Force Heros 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/heros%202.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/heros%202.jpg",
     "description": "The sequel to Strike Force Heros.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/strikeforceheros2.html",
     "category": "Arcade",
@@ -2417,7 +2417,7 @@
   },
   {
     "title": "Subway Surfers",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/subway%20surfers.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/subway%20surfers.jpg",
     "description": "Play one of the best mobile games ever made right in your browser.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/subwaysurfers.html",
     "category": "Runner",
@@ -2499,7 +2499,7 @@
   
   {
     "title": "Sugar Sugar",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/sugar%20sugar.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/sugar%20sugar.png",
     "description": "Sugar, Sugar is very much a strategic puzzle game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/sugarsugar.html",
     "category": "Puzzle",
@@ -2507,7 +2507,7 @@
   },
   {
     "title": "Sugar Sugar 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/sugar%20sugar%202.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/sugar%20sugar%202.png",
     "description": "The sequel to Sugar Sugar",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/sugarsugar2.html",
     "category": "Puzzle",
@@ -2515,7 +2515,7 @@
   },
   {
     "title": "Super Liquid Soccer",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/liquid.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/liquid.jpg",
     "description": "Experience endless fun with Super Liquid Soccer Game!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/superliquidsoccer.html",
     "category": "Arcade",
@@ -2531,7 +2531,7 @@
   },
   {
     "title": "Super Mario Flash",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/super%20mario%20flash.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/super%20mario%20flash.jpg",
     "description": "Super Mario Flash is based on the Nintendo game Super Mario Bros.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/supermarioflash.html",
     "category": "Adventure",
@@ -2539,7 +2539,7 @@
   },
   {
     "title": "Super Mario Flash 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/supermarioflash2.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/supermarioflash2.png",
     "description": "The sequel to Super Mario Flash",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/supermarioflash2.html",
     "category": "Adventure",
@@ -2547,7 +2547,7 @@
   },
   {
     "title": "Super Mario Flash 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/super%20mario%20flash%203.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/super%20mario%20flash%203.webp",
     "description": "The finale to the Super Mario Flash series!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/supermarioflash3.html",
     "category": "Adventure",
@@ -2555,7 +2555,7 @@
   },
   {
     "title": "Super Smash Flash",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/super%20smash%20flash.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/super%20smash%20flash.jpg",
     "description": "Super Smash Flash is based on the awesome Super Mario Bros series.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/supersmashflash.html",
     "category": "Fighting",
@@ -2563,7 +2563,7 @@
   },
   {
     "title": "Superfighters",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/superfighters.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/superfighters.jpg",
     "description": "Superfighters is an action-packed martial arts fighting game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/superfighters.html",
     "category": "Fighting",
@@ -2571,7 +2571,7 @@
   },
   {
     "title": "Superhot",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/superhot.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/superhot.jpg",
     "description": "SUPERHOT is the first person shooter where time moves only when you move.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/superhot/index.html",
     "category": "Arcade",
@@ -2595,7 +2595,7 @@
   },
   {
     "title": "Tactical Assassin 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/assassin%203.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/assassin%203.jpg",
     "description": "Step into the shoes of a skilled assassin in Tactical Assassin 3, a thrilling sniper game where precision and strategy are key to completing your missions.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/tactical.html",
     "category": "Arcade",
@@ -2603,7 +2603,7 @@
   },
   {
     "title": "Tanuki Sunset",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/tanuki%20sunset.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/tanuki%20sunset.png",
     "description": "Tanuki Sunset Classic is a third-person longboard-skating game where players play as a raccoon skating downhill.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/tanukisunset.html",
     "category": "Arcade",
@@ -2611,7 +2611,7 @@
   },
   {
     "title": "Temple Run 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/master/assets/game%20images/temple%20run%202.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@master/assets/game%20images/temple%20run%202.jpg",
     "description": "Temple Run 2, developed by Imangi, is an infinite runner.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/templerun2.html",
     "category": "Runner",
@@ -2619,7 +2619,7 @@
   },
   {
     "title": "Territory War",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/territorywar.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/territorywar.jpg",
     "description": "Territory War is a fun and exciting turn-based strategy game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/territorywar.html",
     "category": "Arcade",
@@ -2627,7 +2627,7 @@
   },
   {
     "title": "Tetrix 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/tetrix%202.avif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/tetrix%202.avif",
     "description": "Play this flash like Tetris game now!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/tetrix2.html",
     "category": "Puzzle",
@@ -2635,7 +2635,7 @@
   },
   {
     "title": "The Blinding of Isaac",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/the%20blinding%20of%20issac.gif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/the%20blinding%20of%20issac.gif",
     "description": "Play the Blinding of Isaac now! (May take awhile to load)",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/blinding.html",
     "category": "Adventure",
@@ -2643,7 +2643,7 @@
   },
   {
     "title": "The Fight for Glorton",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/thefightforglorton.jfif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/thefightforglorton.jfif",
     "description": "The Fight for Glorton is a very popular fighting game Lock Legion game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/thefightforglorton.html",
     "category": "Fighting",
@@ -2651,7 +2651,7 @@
   },
   {
     "title": "The Impossible Quiz",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/impossiblequiz.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/impossiblequiz.png",
     "description": "The Impossible Quiz is a 2007 Flash game created by a DeviantArt user known as Splapp-me-do.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/impossiblequiz.html",
     "category": "Challenging",
@@ -2659,7 +2659,7 @@
   },
   {
     "title": "The Impossible Quiz 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/impossiblequiz2.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/impossiblequiz2.png",
     "description": "The sequel to The Impossible Quiz!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/impossiblequiz2.html",
     "category": "Challenging",
@@ -2667,7 +2667,7 @@
   },
   {
     "title": "The Legend Of Zelda Link To The Past",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/link%20to%20the%20past.avif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/link%20to%20the%20past.avif",
     "description": "The Legend of Zelda: A Link to the Past is a classic action-adventure game where Link journeys through the parallel worlds of Hyrule.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/SNES/linktothepast.html",
     "category": "Adventure",
@@ -2675,7 +2675,7 @@
   },
   {
     "title": "The Legend Of Zelda Majoras Mask",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/majorasmask.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/majorasmask.jpg",
     "description": "The Legend of Zelda: Majora's Mask is a darker Zelda adventure where Link, after Ocarina of Time, gets trapped in the parallel world of Termina.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/N64/majorasmask.html",
     "category": "Adventure",
@@ -2683,7 +2683,7 @@
   },
   {
     "title": "The Legend Of Zelda Ocarina Of Time",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/ocarinaoftime.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/ocarinaoftime.jpg",
     "description": "The Legend of Zelda: Ocarina of Time is a landmark 3D action-adventure game where young Link journeys through Hyrule to stop the evil Ganondorf.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/N64/ocarinaoftime.html",
     "category": "Adventure",
@@ -2699,7 +2699,7 @@
   },
   {
     "title": "Thin Ice",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/thin%20ice.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/thin%20ice.jpg",
     "description": "Thin Ice is an arcade game where you play as a Puffle that is on fire to go through an ice maze.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/thinice.html",
     "category": "Arcade",
@@ -2707,7 +2707,7 @@
   },
   {
     "title": "Time Shooter",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/timeshooter.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/timeshooter.jpg",
     "description": "Time Shooter is an action-packed shooting game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/timeshooter.html",
     "category": "Arcade",
@@ -2715,7 +2715,7 @@
   },
   {
     "title": "Time Shooter 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/time%20shooter%202.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/time%20shooter%202.png",
     "description": "The sequel to Time Shooter!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Time Shooter 2.html",
     "category": "Arcade",
@@ -2723,7 +2723,7 @@
   },
   {
     "title": "Tiny Fishing",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/tiny%20fishing.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/tiny%20fishing.jpg",
     "description": "The goal of the game is to catch fish and sell them for money.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/tinyfishing.html",
     "category": "Arcade",
@@ -2731,7 +2731,7 @@
   },
   {
     "title": "Tomb of the Mask",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/tombofthemask.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/tombofthemask.png",
     "description": "Tomb of the Mask is a fun game where you need to go through exciting mazes!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/tombofthemask.html",
     "category": "Arcade",
@@ -2739,7 +2739,7 @@
   },
   {
     "title": "Trivia Crack",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/trivia-crack.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/trivia-crack.jpg",
     "description": "Trivia Crack is a fun and addictive trivia game where you can challenge your friends and test your knowledge in various categories.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/triviacrack.html",
     "category": "Arcade",
@@ -2755,7 +2755,7 @@
   },
   {
     "title": "Ultrakill",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/ultrakill.avif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/ultrakill.avif",
     "description": "ULTRAKILL is a fast-paced, ultraviolent, retro-inspired first-person shooter (FPS) where you play as a blood-fueled robot, V1, fighting through Hell after humanity's extinction.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/ultrakill.html",
     "category": "Arcade",
@@ -2763,7 +2763,7 @@
   },
   {
     "title": "Under the Red Sky",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/redsky.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/redsky.jpg",
     "description": "Under the Red Sky is a 3D parkour game!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/undertheredsky.html",
     "category": "Runner",
@@ -2771,7 +2771,7 @@
   },
   {
     "title": "Unfair Mario",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/unfairmario.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/unfairmario.jpg",
     "description": "Unfair Mario is a challenging platformer game that will test your skills and patience.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/unfairmario.html",
     "category": "Challenging",
@@ -2779,7 +2779,7 @@
   },
   {
     "title": "Use Boxmen",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/useboxmen.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/useboxmen.jpg",
     "description": "You must work with boxmen to solve various levels and challenge your brain in this complex puzzle game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/useboxmen.html",
     "category": "Puzzle",
@@ -2787,7 +2787,7 @@
   },
   {
     "title": "Vex",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/vex.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/vex.jpg",
     "description": "Vex is a jumping game in which you will face many difficult obstacles.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/vex.html",
     "category": "Runner",
@@ -2795,7 +2795,7 @@
   },
   {
     "title": "Vex 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/vex%202.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/vex%202.jpg",
     "description": "The Vex 2 game is the first sequel to the popular Vex series.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/vex2.html",
     "category": "Runner",
@@ -2803,7 +2803,7 @@
   },
   {
     "title": "Vex 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/vex%203.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/vex%203.jpg",
     "description": "Vex 3 is the third platform game in the Vex series.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/vex3.html",
     "category": "Runner",
@@ -2811,7 +2811,7 @@
   },
   {
     "title": "Vex 4",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/vex%204.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/vex%204.jpg",
     "description": "Vex 4 is a fast-paced, challenging platform adventure game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/vex4.html",
     "category": "Runner",
@@ -2819,7 +2819,7 @@
   },
   {
     "title": "Vex 5",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/vex%205.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/vex%205.jpg",
     "description": "Vex 5 is the fifth installment in the Vex series!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/vex5.html",
     "category": "Runner",
@@ -2827,7 +2827,7 @@
   },
   {
     "title": "Vex 6",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/vex%206.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/vex%206.jpg",
     "description": "Vex 6 is the sixth game in the Vex runner series!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/vex6.html",
     "category": "Runner",
@@ -2835,7 +2835,7 @@
   },
   {
     "title": "Vex 7",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/vex%207.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/vex%207.jpg",
     "description": "Vex 7 is the seventh installment in the Vex series!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/vex7.html",
     "category": "Runner",
@@ -2843,7 +2843,7 @@
   },
   {
     "title": "Vex 8",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/vex%208.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/vex%208.webp",
     "description": "Vex 8 is the eighth installment in the Vex series!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/vex8.html",
     "category": "Runner",
@@ -2883,7 +2883,7 @@
   },
   {
     "title": "Whack Your Boss",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/whack%20your%20boss.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/whack%20your%20boss.jpg",
     "description": "You've finally had enough of your atrocious job. Choose your bosses fatality.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/whackyourboss.html",
     "category": "Arcade",
@@ -2891,7 +2891,7 @@
   },
   {
     "title": "Whack Your Ex",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/whack%20your%20ex.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/whack%20your%20ex.jpg",
     "description": "You're tired of your ex. You must choose her fate in this crazy game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/whackyourex.html",
     "category": "Arcade",
@@ -2971,7 +2971,7 @@
   },
   {
     "title": "Worlds Hardest Game",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/worlds%20hardest%20game.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/worlds%20hardest%20game.jpg",
     "description": "Use the arrow keys to move the red square to the end zone. Collect the yellow coins while avoiding the blue balls.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/whg.html",
     "category": "Challenging",
@@ -2979,7 +2979,7 @@
   },
   {
     "title": "Worlds Hardest Game 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/worlds%20hardest%20game%202.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/worlds%20hardest%20game%202.png",
     "description": "The sequel to the infamous Worlds Hardest Game",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/whg2.html",
     "category": "Challenging",
@@ -2987,7 +2987,7 @@
   },
   {
     "title": "Worlds Hardest Game 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/world-s-hardest-game-3.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/world-s-hardest-game-3.png",
     "description": "The third game in the series of the Worlds Hardest Game",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/WAflash/worldshardestgame3.html",
     "category": "Challenging",
@@ -2995,7 +2995,7 @@
   },
   {
     "title": "Worlds Hardest Game 4",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/worldshardestgame4.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/worldshardestgame4.jpg",
     "description": "The last game in the series of Worlds Hardest Game",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/whg4.html",
     "category": "Challenging",
@@ -3003,7 +3003,7 @@
   },
   {
     "title": "Yahoo Tennis",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/tennis.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/tennis.jpg",
     "description": "Yahoo Tennis is a fun tennis game where you can play against the computer or a friend.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/yahootennis.html",
     "category": "Arcade",
@@ -3012,7 +3012,7 @@
 
     {
     "title": "Super Tennis",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/super%20tennis.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/super%20tennis.jpg",
     "description": "Play the classic SNES Super Tennis Game Now!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/SNES/supertennis.html",
     "category": "Sports",
@@ -3020,7 +3020,7 @@
   },
   {
     "title": "Zombocalypse",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/zombocalypse.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/dskjfoisjfsjio.github.io@main/assets/game%20images/zombocalypse.jpg",
     "description": "Zombocalypse is a zombie game. It's you vs. a horde of hungry, hungry zombies.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/zombocalypse.html",
     "category": "Arcade",
@@ -3201,7 +3201,7 @@
 
    {
     "title": "Baseball Bros",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/baseball%20bros.avif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/baseball%20bros.avif",
     "description": "Step up to the plate in this fast-paced, competitive baseball sim featuring smooth arcade mechanics and high-score challenges.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/baseballbros.html",
     "category": "Sports",
@@ -3209,7 +3209,7 @@
   },
   {
     "title": "Doom",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/doom.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/doom.jpg",
     "description": "Relive the legendary FPS that defined a genre. Fight through hordes of demons in a relentless battle for survival on Mars.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/doom.html",
     "category": "Arcade",
@@ -3217,7 +3217,7 @@
   },
   {
     "title": "Fallout",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/fallout.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fallout.jpg",
     "description": "Navigate a desolate, post-nuclear wasteland where every choice matters. Master survival and tactical combat in a world gone mad.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fallout.html",
     "category": "RPG",
@@ -3225,7 +3225,7 @@
   },
   {
     "title": "FNAF Pizzeria Simulator",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/pizzasimulator.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pizzasimulator.webp",
     "description": "Balance business management with bone-chilling horror as you design your own pizzeria while surviving the animatronic night shift.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fnafpizzeriasimulator.html",
     "category": "Horror",
@@ -3233,7 +3233,7 @@
   },
   {
     "title": "Football Bros",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/football%20bros.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/football%20bros.jpg",
     "description": "Experience big-head football action with easy-to-learn controls and explosive plays in this high-energy sports arcade game.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/footballbros.html",
     "category": "Sports",
@@ -3241,7 +3241,7 @@
   },
   {
     "title": "Mario Party",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/mario%20party.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/mario%20party.jpg",
     "description": "The original N64 party starter. Compete in diverse minigames and race across interactive boards to become the Super Star.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/N64/marioparty.html",
     "category": "Arcade",
@@ -3249,7 +3249,7 @@
   },
   {
     "title": "Mario Party 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/mario%20party%202.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/mario%20party%202.png",
     "description": "The fan-favorite sequel featuring themed costumes, expanded items, and classic boards for the ultimate competitive board game experience.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/N64/marioparty2.html",
     "category": "Arcade",
@@ -3257,7 +3257,7 @@
   },
   {
     "title": "Scary Teacher 3D",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/scaryteacher3d.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/scaryteacher3d.jpg",
     "description": "Execute clever pranks and solve puzzles to outsmart the creepy Miss T in this stealth-based 3D adventure.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/scaryteacher3d.html",
     "category": "Horror",
@@ -3265,7 +3265,7 @@
   },
   {
     "title": "FNAF Sister Location",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/sisterlocation.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/sisterlocation.jpg",
     "description": "Descend into the underground facility of Circus Baby's Pizza World for a narrative-driven horror experience unlike any other FNAF title.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/sisterlocation.html",
     "category": "Horror",
@@ -3273,7 +3273,7 @@
   },
   {
     "title": "Slope 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/slope3.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/slope3.webp",
     "description": "Test your reflexes in this high-speed physics game. Navigate a neon ball through a treacherous, ever-changing 3D obstacle course.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/slope3.html",
     "category": "Arcade",
@@ -3281,7 +3281,7 @@
   },
   {
     "title": "Super Mario Bros",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/supermariobros.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/supermariobros.webp",
     "description": "The quintessential platformer. Run, jump, and power up through the Mushroom Kingdom to rescue Princess Peach from Bowser.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/NES/supermariobros.html",
     "category": "Arcade",
@@ -3289,7 +3289,7 @@
   },
   {
     "title": "Super Mario Bros 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/supermariobros2.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/supermariobros2.png",
     "description": "A unique departure for the series featuring four playable characters with distinct abilities and a world of sub-space secrets.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/NES/supermariobros2.html",
     "category": "Arcade",
@@ -3297,7 +3297,7 @@
   },
   {
     "title": "Super Mario Bros 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/supermariobros3.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/supermariobros3.jpg",
     "description": "Widely regarded as one of the greatest games ever made. Explore massive worlds, fly with the Tanooki suit, and master new power-ups.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/NES/supermariobros3.html",
     "category": "Arcade",
@@ -3306,7 +3306,7 @@
 
   {
     "title": "Basketball Legends",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/basketballlegends.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/basketballlegends.jpg",
     "description": "Show off your skills on the court in this high-energy basketball game featuring legendary players and fast-paced arcade action.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/basketballlegends.html",
     "category": "Sports",
@@ -3314,7 +3314,7 @@
   },
   {
     "title": "Bridge Race",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/bridge%20race.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/bridge%20race.png",
     "description": "Collect blocks of your color and build bridges to outpace your opponents in this competitive racing challenge.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/bridgerace.html",
     "category": "Arcade",
@@ -3322,7 +3322,7 @@
   },
   {
     "title": "Geometry Dash SubZero",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/subzero.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/subzero.webp",
     "description": "Experience the chillingly fast expansion of the rhythm-based platformer series with new levels and frosty obstacles.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/geometrydashsubzero.html",
     "category": "Challenging",
@@ -3330,7 +3330,7 @@
   },
   {
     "title": "Geometry Dash World",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/geometrydashworld.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/geometrydashworld.png",
     "description": "Explore unique worlds and jump through rhythm-filled challenges in this fast-paced platforming adventure.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/geometrydashworld.html",
     "category": "Challenging",
@@ -3338,7 +3338,7 @@
   },
   {
     "title": "Getting Over It",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/gettingoverit.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/gettingoverit.jpg",
     "description": "A punishing climbing game where you navigate a mountain with nothing but a hammer and a pot.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/gettingoverit.html",
     "category": "Challenging",
@@ -3347,7 +3347,7 @@
 
   {
     "title": "Solar Smash",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/solarsmash.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/solarsmash.webp",
     "description": "Wreak havoc on a galactic scale using a variety of weapons to destroy planets in this cosmic destruction simulator.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/solarsmash.html",
     "category": "Arcade",
@@ -3355,7 +3355,7 @@
   },
   {
     "title": "Sonic Battle",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/sonicbattle.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/sonicbattle.jpg",
     "description": "Engage in fast-paced arena combat with Sonic and friends in this classic handheld fighting experience.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/GBA/sonicbattle.html",
     "category": "Adventure",
@@ -3363,7 +3363,7 @@
   },
   {
     "title": "Tall Man Run",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/tallmanrun.avif",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/tallmanrun.avif",
     "description": "Grow taller and wider as you navigate obstacles to reach the finish line in this addictive runner.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/tallmanrun.html",
     "category": "Arcade",
@@ -3372,7 +3372,7 @@
   
   {
     "title": "Tetris",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/tetris.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/tetris.jpg",
     "description": "The timeless puzzle classic. Clear lines and manage the falling blocks to achieve the ultimate high score.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/GBA/tetris.html",
     "category": "Arcade",
@@ -3380,7 +3380,7 @@
   },
  {
     "title": "Astra",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/astra.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/astra.png",
     "description": "An app by DragonX which lets you play Clash Royale, Roblox, & more!",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Apps/astra.html",
     "category": "Apps",
@@ -3388,7 +3388,7 @@
   },
   {
     "title": "Hobo 2",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/hobo2.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/hobo2.png",
     "description": "The brawling adventure continues as Hobo takes his unique fighting style to the city streets.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/hobo2.html",
     "category": "Fighting",
@@ -3396,7 +3396,7 @@
   },
   {
     "title": "Hobo 3",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/hobo3.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/hobo3.png",
     "description": "Hobo is now a wanted man. Fight off the police and maintain your freedom in this classic sequel.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/hobo3.html",
     "category": "Fighting",
@@ -3404,7 +3404,7 @@
   },
   {
     "title": "Hobo 4",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/hobo4.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/hobo4.png",
     "description": "Hobo faces off against the military in an all-out war featuring explosive brawling action.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/hobo4.html",
     "category": "Fighting",
@@ -3412,7 +3412,7 @@
   },
   {
     "title": "Hobo 5",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/hobo5.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/hobo5.png",
     "description": "An extraterrestrial encounter takes Hobo into deep space to fight off alien invaders.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/hobo5.html",
     "category": "Fighting",
@@ -3420,7 +3420,7 @@
   },
   {
     "title": "Hobo 6",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/hobo6.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/hobo6.png",
     "description": "Hobo descends into the depths of hell to face off against demonic forces in this gritty chapter.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/hobo6.html",
     "category": "Fighting",
@@ -3428,7 +3428,7 @@
   },
   {
     "title": "Hobo 7",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/hobo7.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/hobo7.png",
     "description": "The final showdown. Hobo reaches the pearly gates for his most outrageous battle yet.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/hobo7.html",
     "category": "Fighting",
@@ -3436,7 +3436,7 @@
   },
   {
     "title": "Madden NFL 09",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/maddennfl09.webp",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/maddennfl09.webp",
     "description": "Authentic handheld football action featuring updated rosters.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/NDS/maddennfl09.html",
     "category": "Sports",
@@ -3444,7 +3444,7 @@
   },
   {
     "title": "The Immortal",
-    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/theimmortal.png",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/theimmortal.png",
     "description": "A challenging adventure filled to the brim with deadly traps and ancient sorcery.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/NES/theimmortal.html",
     "category": "Challenging",
