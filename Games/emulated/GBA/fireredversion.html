@@ -70,19 +70,22 @@
     </div>
 
     <script>
-        function startGame() {
-            document.getElementById("game").style.display = "block";
-            document.getElementById("startButton").style.display = "none";
-            document.getElementById("logo").style.display = "none"; 
-            
-            EJS_player = "#game";
-            EJS_core = "gba";
-            EJS_color = "#000000";
-            EJS_startOnLoaded = true;
-            EJS_pathtodata = "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data";
-            EJS_gameUrl = "https://cdn.jsdelivr.net/gh/vbaemulator/GBA-Roms@main/Pokemon%20-%20FireRed%20Version%20(USA%2C%20Europe).zip";
-            loadGame(); 
-        }
+       function startGame() {
+    document.getElementById("game").style.display = "block";
+    document.getElementById("startButton").style.display = "none";
+    document.getElementById("logo").style.display = "none"; 
+    
+    const cacheBust = "?v=" + Date.now();
+    
+    EJS_player = "#game";
+    EJS_core = "snes";
+    EJS_color = "#000000";
+    EJS_startOnLoaded = true;
+    EJS_pathtodata = "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data";
+    EJS_gameUrl = "https://cdn.jsdelivr.net/gh/bsnesemulator/SNES-ROMS@main/Super%20Tennis%20(USA).zip" + cacheBust;
+    
+    loadGame(); 
+}
 
         document.getElementById("startButton").addEventListener("click", startGame);
 
@@ -98,3 +101,4 @@
     </script>
 </body>
 </html>
+
