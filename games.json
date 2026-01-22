@@ -3454,5 +3454,87 @@
     "path": "Games/emulated/NES/theimmortal.html",
     "category": "Challenging",
     "iframe": true
+  },
+
+  {
+    "title": "Mario Party 3",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/marioparty3.jpg",
+    "description": "The third installment of the classic N64 party game, featuring new boards and dual maps.",
+    "path": "Games/emulated/N64/marioparty3.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Ms. Pac-Man",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/mspacman.jpg",
+    "description": "The classic arcade follow-up featuring the iconic dot-munching heroine in challenging new mazes.",
+    "path": "Games/standalone/mspacman.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Retro Highway",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/retro%20highway.jpg",
+    "description": "A high-speed motorcycle racer with a classic pixel-art aesthetic and challenging traffic weaving.",
+    "path": "Games/standalone/retrohighway.html",
+    "category": "Racing",
+    "iframe": true
+  },
+  {
+    "title": "Rolling Sky",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/rolling%20sky.png",
+    "description": "Test your reflexes in this musical ball-rolling game through dangerous, trap-filled landscapes.",
+    "path": "Games/standalone/rollingsky.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Rooftop Snipers 2",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/rooftopsnipers2.jpg",
+    "description": "The chaotic physics-based duel returns with more characters and even wilder rooftop environments.",
+    "path": "Games/standalone/rooftopsnipers2.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Shift",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/shift.png",
+    "description": "A mind-bending puzzle platformer where you must invert the world to escape each level.",
+    "path": "Games/ruffle/shift.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Shift 2",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/shift%202.png",
+    "description": "The sequel to the hit puzzle game, introducing more complex shifting mechanics and hazards.",
+    "path": "Games/ruffle/shift2.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Shift 3",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/shift%203.gif",
+    "description": "A massive expansion to the Shift universe featuring an open-world hub and intricate room designs.",
+    "path": "Games/ruffle/shift3.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Super Smash Bros.",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/supersmashbros.jpg",
+    "description": "Where it all began. Nintendo's finest characters face off in this classic N64 fighting game.",
+    "path": "Games/emulated/N64/supersmashbros.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Traffic Jam 3D",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/trafficjam3d.jpeg",
+    "description": "Navigate through heavy traffic at high speeds in this intense 3D driving simulator.",
+    "path": "Games/standalone/trafficjam3d.html",
+    "category": "Racing",
+    "iframe": true
   }
+
 ]
