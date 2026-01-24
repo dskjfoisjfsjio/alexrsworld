@@ -3535,6 +3535,62 @@
     "path": "Games/standalone/trafficjam3d.html",
     "category": "Racing",
     "iframe": true
-  }
+  },
 
+    {
+    "title": "Bad Parenting",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/badparenting.jpg",
+    "description": "A psychological horror game that explores unsettling themes through a retro-inspired art style.",
+    "path": "Games/standalone/badparenting.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "Baldi's New Fun School",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/baldisnewfunschool.webp",
+    "description": "Return to the classroom for more educational chaos in this expanded Baldi fan experience.",
+    "path": "Games/standalone/baldisfunnewschoolultimate.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "Blocky Snakes",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/blocky%20snakes.jpg",
+    "description": "A 3D twist on the classic snake game featuring voxel graphics and competitive survival.",
+    "path": "Games/standalone/blockysnakes.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "CircloO 2",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/circloo2.jpeg",
+    "description": "A physics-based platformer set within a growing circle. Collect the dots to expand your world.",
+    "path": "Games/standalone/circloO2.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Newgrounds Rumble",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/newgroundsrumble.jpg",
+    "description": "The ultimate crossover brawler featuring iconic characters from the Newgrounds universe.",
+    "path": "Games/ruffle/newgroundsrumble.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Pac-Man Super Fast",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/pacmansuperfast'.webp",
+    "description": "The classic maze runner tuned up to extreme speeds for an intense arcade challenge.",
+    "path": "Games/standalone/pacmansuperfast.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Vex 3 Xmas",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/vex3xmas.webp",
+    "description": "Navigate through treacherous holiday-themed levels in this festive edition of the Vex series.",
+    "path": "Games/standalone/vex3xmas.html",
+    "category": "Runner",
+    "iframe": true
+  }
 ]
