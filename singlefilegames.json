@@ -3759,5 +3759,119 @@
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/halflife.html",
     "category": "RPG",
     "iframe": true
+  },
+  
+ {
+    "title": "Pet World",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/petworld.png",
+    "description": "Take care of adorable animals and manage your very own pet rescue center.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/petworld.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "We Become What We Behold",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/webecomewhatwebehold.png",
+    "description": "A short game about news cycles, vicious cycles, and how we social engineer ourselves.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/webecomewhatwebehold.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Punch Out",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/punchout.jpg",
+    "description": "Classic NES boxing action. Work your way up the ranks to face the world champion.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/NES/punchout.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Nickelodeon Super Star Brawl 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/superstarbrawl2.jpg",
+    "description": "Battle it out with your favorite Nick characters in this chaotic crossover brawler.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/superstarbrawl2.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Super Mario Bros The Lost Levels",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/thelostlevels.webp",
+    "description": "The true sequel to Mario Bros, featuring much harder levels and new mechanics.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/NES/thelostlevels.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Papa Louie When Burgers Attack",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/whenburgersattack.png",
+    "description": "A platforming adventure where the food fights back! Save your customers from the burger monsters.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/whenburgersattack.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Papa Louie When Sundaes Attack",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/whensundaesattack.jpg",
+    "description": "Journey through a world of sweets to rescue Papa Louie from the ice cream frozen wasteland.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/whensundaesattack.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Quake 3 Arena",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/quake3arena.png",
+    "description": "Fast-paced arena shooter where movement and aim are the only things that matter.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/quakearena.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "A Difficult Game About Climbing",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/adifficultgameaboutclimbing.png",
+    "description": "Test your patience and precision in this brutal physics-based climbing simulator.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/adifficultgameaboutclimbing.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Snake",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/slither.png",
+    "description": "Grow your snake and compete for survival in this slither-style multiplayer arena.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/slitherio.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Speed Per Click",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/speedperclick.jpg",
+    "description": "How fast can you click? Upgrade your speed and race against the clock.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/speedperclick.html",
+    "category": "Idle",
+    "iframe": true
+  },
+  {
+    "title": "Bloodmoney",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/bloodmoney.png",
+    "description": "A high-stakes action game where every decision could be your last.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/bloodmoney.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Mr Racer",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/mrracer.webp",
+    "description": "High-speed racing action through traffic with multiple cars and game modes.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/mrracer.html",
+    "category": "Racing",
+    "iframe": true
+  },
+  {
+    "title": "Half Life Opposing Forces",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/halflifeopposingforce.png",
+    "description": "Return to Black Mesa as a soldier in this legendary expansion to the original Half-Life.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/halflifeopposingforces.html",
+    "category": "RPG",
+    "iframe": true
   }
+
 ]
