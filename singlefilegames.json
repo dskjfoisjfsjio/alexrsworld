@@ -3872,6 +3872,94 @@
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/halflifeopposingforces.html",
     "category": "RPG",
     "iframe": true
+  },
+   {
+    "title": "Fancy Pants Adventure 4 Part 1",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fancypantsadventureworld1.png",
+    "description": "Run, jump, and slide through stylized levels in this legendary platformer adventure.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/fancypantsadventure4pt1.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Fancy Pants Adventure 4 Part 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fancypantsadventureworld2.png",
+    "description": "The journey continues with even more fluid parkour moves and hidden secrets.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/fancypantsadventurept2.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "DOOM 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/doom2.png",
+    "description": "The classic sequel to the groundbreaking FPS. Fight your way through Hell on Earth.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/doom2.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Count Masters Stickman Games",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/countmasters.png",
+    "description": "Multiply your crowd and clash against the rival army in this satisfying runner.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/countmastersstickmangames.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Idle Dice",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/idledice.png",
+    "description": "Roll dice, buy upgrades, and watch the numbers climb in this addictive idle experience.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/idledice.html",
+    "category": "Idle",
+    "iframe": true
+  },
+  {
+    "title": "Kim Jong Un Tile Puzzle",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/kimjungunpuzzle.webp",
+    "description": "A quirky sliding tile puzzle featuring satirical internet memes.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/kimjonguntilepuzzle.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Peggle",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/peggle.png",
+    "description": "Shoot balls to clear orange pegs and achieve Extreme Fever in this arcade classic.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/peggle.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Nubbys Number Factory",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/nubbysnumberfactory.png",
+    "description": "Help Nubby manage the factory line in this fast-paced math and logic challenge.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/nubbysnumberfactory.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Smash Karts",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/smashkartz.png",
+    "description": "Fast-paced 3D kart battle game. Drive fast, pick up weapons, and blow up your rivals.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/smashkarts.html",
+    "category": "Racing",
+    "iframe": true
+  },
+  {
+    "title": "Station Saturn",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/stationsaturn.png",
+    "description": "Navigate a mysterious space station in this atmospheric sci-fi adventure.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/stationsaturn.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Amaze",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/amaze.png",
+    "description": "Paint the maze to unlock the next level in this simple yet satisfying puzzle game.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/amaze.html",
+    "category": "Puzzle",
+    "iframe": true
   }
 
 ]
