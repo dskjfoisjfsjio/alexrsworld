@@ -3960,5 +3960,166 @@
     "path": "Games/standalone/amaze.html",
     "category": "Puzzle",
     "iframe": true
+  },
+
+  {
+    "title": "Osu",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/osu.png",
+    "description": "A rhythm game based on the gameplay of a variety of popular commercial rhythm games.",
+    "path": "Games/standalone/osu.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Tattletail",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/tattletail.png",
+    "description": "A short story-driven horror game about everyone's favorite talking toy from the 90s.",
+    "path": "Games/standalone/tattletail.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "Webfishing",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/webfishing.png",
+    "description": "A chill multiplayer fishing game where you can hang out and catch various fish.",
+    "path": "Games/standalone/webfishing.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Make a Superboat",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/makeasuperboat.png",
+    "description": "Construct and test your very own superboat in this creative building game.",
+    "path": "Games/standalone/makeasuperboat.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Money Rush",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/moneyrush.png",
+    "description": "An addictive runner game where you multiply your coins and reach the end.",
+    "path": "Games/standalone/moneyrush.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "SpongeBob SquarePants SpongeBob Run",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/spongebobrun.png",
+    "description": "Help SpongeBob run through Bikini Bottom in this fast-paced platformer.",
+    "path": "Games/standalone/spongebobrun.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Awesome Tanks",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/awesometanks.png",
+    "description": "Classic top-down tank shooter with upgrades and destructible environments.",
+    "path": "Games/ruffle/awesometanks.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Awesome Tanks 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/awesometanks2.png",
+    "description": "The sequel to the smash hit tank shooter with more levels and weapons.",
+    "path": "Games/ruffle/awesometanks2.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Plants vs Zombies 2 Gardenless",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/plantsvszombiesgardenless.png",
+    "description": "A unique twist on the classic tower defense strategy game.",
+    "path": "Games/standalone/plantsvszombies2gardenless.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Plinko",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/plinko.png",
+    "description": "Drop the ball and hope for the best in this classic game of chance.",
+    "path": "Games/standalone/plinko.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Raft",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/raft.png",
+    "description": "Survive the open sea by expanding your raft and gathering resources.",
+    "path": "Games/standalone/raft.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Ragdoll Hit",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/ragdollhit.png",
+    "description": "A physics-based fighting game where you control a ragdoll to defeat enemies.",
+    "path": "Games/standalone/ragdollhit.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Repo",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/repo.png",
+    "description": "Enter the building and retrieve the items in this suspenseful game.",
+    "path": "Games/standalone/repo.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "Rooftop Snipers",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/rooftopsnipers.jpg",
+    "description": "A chaotic two-player sniper game where you must knock your opponent off the roof.",
+    "path": "Games/standalone/rooftopsnipers.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Spacebar Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/spacebarclicker.png",
+    "description": "How fast can you press the spacebar? A simple yet addictive idle clicker.",
+    "path": "Games/standalone/spacebarclicker.html",
+    "category": "Idle",
+    "iframe": true
+  },
+  {
+    "title": "Speed Stars",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/speedstars.png",
+    "description": "A competitive track racing game focusing on rhythm and speed.",
+    "path": "Games/standalone/speedstars.html",
+    "category": "Sports",
+    "iframe": true
+  },
+  {
+    "title": "Traffic Racer",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/trafficracer.png",
+    "description": "Drive your car through highway traffic and earn cash for upgrades.",
+    "path": "Games/standalone/trafficracer.html",
+    "category": "Racing",
+    "iframe": true
+  },
+  {
+    "title": "Traffic Rider",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/trafficrider.png",
+    "description": "Experience motorcycle racing in a detailed first-person perspective.",
+    "path": "Games/standalone/trafficrider.html",
+    "category": "Racing",
+    "iframe": true
+  },
+  {
+    "title": "Undertale Yellow",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/undertaleyellow.png",
+    "description": "A fan-made prequel to the hit RPG Undertale featuring a new story.",
+    "path": "Games/standalone/undertaleyellow.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Bacon May Die",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/baconmaydie.png",
+    "description": "A fast-paced brawler starring a pig fighting off hordes of enemies.",
+    "path": "Games/standalone/baconmaydie.html",
+    "category": "Fighting",
+    "iframe": true
   }
 ]
