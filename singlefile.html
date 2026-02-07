@@ -3012,8 +3012,152 @@ body.theme-red {
     setInterval(initLogic, 150);
 })();
 </script>
+    
+<script>
+(function () {
+    const canvas = document.createElement('canvas');
+    canvas.id = 'ps-silk-bg';
+    document.body.appendChild(canvas);
+    const ctx = canvas.getContext('2d', { alpha: true });
+
+
+    const THEME_DATA = {
+        'default':   { color: '0, 162, 233', opacity: 0.2 },
+        'dark':      { color: '153, 153, 153', opacity: 0.1 },
+        'red':       { color: '255, 77, 77', opacity: 0.25 },  
+        'blue-dark': { color: '68, 170, 255', opacity: 0.15 }, 
+        'hacker':    { color: '0, 255, 136', opacity: 0.25 },  
+        'tokyo':     { color: '255, 74, 255', opacity: 0.18 }  
+    };
+
+    let w, h, tick = 0;
+
+    const styleTag = document.createElement('style');
+    styleTag.innerHTML = `
+        #ps-silk-bg {
+            position: fixed;
+            inset: 0;
+            z-index: -1;
+            pointer-events: none;
+            background: transparent;
+            transform: translateZ(0);
+        }
+    `;
+    document.head.appendChild(styleTag);
+
+    function resize() {
+        const dpr = window.devicePixelRatio || 1;
+        w = canvas.width = window.innerWidth * dpr;
+        h = canvas.height = window.innerHeight * dpr;
+        ctx.scale(dpr, dpr);
+        canvas.style.width = window.innerWidth + 'px';
+        canvas.style.height = window.innerHeight + 'px';
+    }
+
+    function getWaveStyle() {
+        const customWave = getComputedStyle(document.body).getPropertyValue('--custom-wave-color').trim();
+        if (customWave) return { color: customWave, opacity: 0.25 };
+
+        const psLightBlue = getComputedStyle(document.body).getPropertyValue('--ps-light-blue').trim();
+        
+        const themeKey = localStorage.getItem('alexrGames_theme') || 'default';
+        const themeDefaults = THEME_DATA[themeKey] || THEME_DATA['default'];
+
+       
+        if (psLightBlue) {
+            return { color: psLightBlue, opacity: themeDefaults.opacity };
+        }
+
+        return themeDefaults;
+    }
+
+    function draw() {
+        const renderW = window.innerWidth;
+        const renderH = window.innerHeight;
+        ctx.clearRect(0, 0, renderW, renderH);
+        
+        tick += 0.001; 
+
+        const style = getWaveStyle();
+        const baselineY = renderH * 0.4;
+
+        let baseColor;
+        if (style.color.includes(',') && !style.color.includes('#')) {
+            baseColor = `rgba(${style.color}, ${style.opacity})`;
+        } else {
+            ctx.globalAlpha = style.opacity;
+            baseColor = style.color;
+        }
+
+        for (let i = 0; i < 3; i++) {
+            const globalY = Math.sin(tick * 0.5 + i) * (renderH * 0.1);
+            const driftX = Math.cos(tick * 0.2 + i) * 40;
+            
+            ctx.beginPath();
+            ctx.fillStyle = baseColor;
+
+            let points = [];
+            for (let x = -100; x <= renderW + 100; x += 40) {
+                const wave = Math.sin(x * 0.001 + tick + i) * 80 +
+                             Math.cos(x * 0.0005 - tick * 0.3) * 40;
+                points.push({ x: x + driftX, y: baselineY + globalY + wave });
+            }
+
+            ctx.moveTo(points[0].x, points[0].y);
+            for (let j = 0; j < points.length - 1; j++) {
+                const xc = (points[j].x + points[j + 1].x) / 2;
+                const yc = (points[j].y + points[j + 1].y) / 2;
+                ctx.quadraticCurveTo(points[j].x, points[j].y, xc, yc);
+            }
+
+            for (let j = points.length - 1; j >= 0; j--) {
+                const thickness = 80 + Math.sin(points[j].x * 0.002 + tick) * 50;
+                points[j].y += thickness;
+            }
+
+            for (let j = points.length - 1; j > 0; j--) {
+                const xc = (points[j].x + points[j - 1].x) / 2;
+                const yc = (points[j].y + points[j - 1].y) / 2;
+                ctx.quadraticCurveTo(points[j].x, points[j].y, xc, yc);
+            }
+
+            ctx.closePath();
+            ctx.fill();
+
+            ctx.beginPath();
+            ctx.strokeStyle = baseColor;
+            ctx.lineWidth = 2.5;
+            ctx.shadowBlur = 20;
+            ctx.shadowColor = baseColor;
+            
+            const topPoints = points.map(p => ({ 
+                x: p.x, 
+                y: p.y - (80 + Math.sin(p.x * 0.002 + tick) * 50) 
+            }));
+
+            ctx.moveTo(topPoints[0].x, topPoints[0].y);
+            for (let j = 0; j < topPoints.length - 1; j++) {
+                const xc = (topPoints[j].x + topPoints[j + 1].x) / 2;
+                const yc = (topPoints[j].y + topPoints[j + 1].y) / 2;
+                ctx.quadraticCurveTo(topPoints[j].x, topPoints[j].y, xc, yc);
+            }
+            ctx.stroke();
+            ctx.shadowBlur = 0;
+        }
+        
+        ctx.globalAlpha = 1.0;
+        requestAnimationFrame(draw);
+    }
+
+    window.addEventListener('resize', resize);
+    resize();
+    draw();
+})();
+</script>
+
 </body>
 </html>
+
 
 
 
