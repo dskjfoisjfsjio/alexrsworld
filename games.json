@@ -4121,5 +4121,127 @@
     "path": "Games/standalone/baconmaydie.html",
     "category": "Fighting",
     "iframe": true
+  },
+
+  {
+    "title": "Celeste",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/celeste.png",
+    "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain.",
+    "path": "Games/standalone/celeste.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Cuphead",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/cuphead.png",
+    "description": "A classic run and gun action game heavily focused on boss battles.",
+    "path": "Games/standalone/cuphead.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Terraria",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/terraria.png",
+    "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
+    "path": "Games/standalone/terraria.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Thats Not My Neighbor",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/thatsnotmyneighbor.png",
+    "description": "A job as a doorman has never been so stressful. Spot the doppelgangers!",
+    "path": "Games/standalone/thatsnotmyneighbor.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "City Defense",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/citydefense.png",
+    "description": "Protect your city from the oncoming rioters and maintain order.",
+    "path": "Games/standalone/citydefense.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Dadish 3d",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/dadish3d.png",
+    "description": "He's a dad, and he's a radish. Help him find his kids in a 3D environment!",
+    "path": "Games/standalone/dadish3d.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Daily Dadish",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/dailydadish.png",
+    "description": "A new Dadish level every single day of the year!",
+    "path": "Games/standalone/dailydadish.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Going Balls",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/goingballs.png",
+    "description": "Navigate a rolling ball through a world of obstacles and high-speed tracks.",
+    "path": "Games/standalone/goingballs.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Jelly Drift",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/jellydrift.png",
+    "description": "A physics-based drifting game with wobbly cars and challenging tracks.",
+    "path": "Games/standalone/jellydrift.html",
+    "category": "Racing",
+    "iframe": true
+  },
+  {
+    "title": "Slime io",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/slimeio.png",
+    "description": "Compete against other slimes to become the biggest one in the arena.",
+    "path": "Games/standalone/slimeio.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Bad Monday Simulator",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/badmondaysimulator.png",
+    "description": "Face off against a grumpy cat in this intense fan-made battle simulator.",
+    "path": "Games/standalone/badmondaysimulator.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Paper Mario (N64)",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/papermarion64.jpg",
+    "description": "Mario's first paper-themed RPG adventure on the Nintendo 64.",
+    "path": "Games/emulated/N64/papermario.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Push Your Luck",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/push your luck.png",
+    "description": "A game of chance and strategy where you decide when to stop or keep going.",
+    "path": "Games/standalone/pushyourluck.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Pixel gun Survival",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pixelgunsurvival.png",
+    "description": "Battle through waves of enemies in this pixelated survival shooter.",
+    "path": "Games/standalone/pixelgunsurvival.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Iron lung",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/iron lung.png",
+    "description": "Navigate a small submarine through an ocean of blood on an alien moon.",
+    "path": "Games/standalone/ironlung.html",
+    "category": "Horror",
+    "iframe": true
   }
+
 ]
