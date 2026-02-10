@@ -4242,6 +4242,150 @@
     "path": "Games/standalone/ironlung.html",
     "category": "Horror",
     "iframe": true
-  }
+  },
 
+  {
+    "title": "Duck Life Adventure",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/ducklifeadventure.png",
+    "description": "Embark on an epic adventure, customize your duck, and train to become the ultimate champion.",
+    "path": "Games/standalone/ducklifeadventure.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "People Playground",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/peopleplayground.png",
+    "description": "A physics-based sandbox game where you can experiment with various tools and contraptions.",
+    "path": "Games/standalone/peopleplayground.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "The Man In The Window",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/themaninthewindow.png",
+    "description": "A short, tense horror experience about a mother and son trying to hide from a mysterious visitor.",
+    "path": "Games/standalone/themaninthewindow.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "Fortzone Battle Royale",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fortzone.png",
+    "description": "Drop into the zone, scavenge for weapons, and fight to be the last survivor.",
+    "path": "Games/standalone/fortzone.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "FNF vs Shaggy",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnfshaggy.png",
+    "description": "A high-difficulty rhythm mod where Boyfriend faces off against Shaggy's 0.001% power.",
+    "path": "Games/standalone/fridaynightfunkinvsshaggy.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "FNF Vs Undertale",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnfundertale.png",
+    "description": "A rhythm battle crossover featuring iconic characters and tracks from Undertale.",
+    "path": "Games/standalone/fnfundertale.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "FNF vs Neo",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnfneo.png",
+    "description": "A neon-soaked overhaul of FNF with redesigned visuals and brand new electronic remixes.",
+    "path": "Games/standalone/fnfneo.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "FNF vs Sonic Legacy",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnfsoniclegacy.png",
+    "description": "Face off against various iterations of Sonic in this fast-paced rhythm challenge.",
+    "path": "Games/standalone/fnfsoniclegacy.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "FNF vs Tricky",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnftricky.png",
+    "description": "Survive the chaotic rhythm battle against the unstoppable clown from Madness Combat.",
+    "path": "Games/standalone/fnftricky.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Gta Vice City",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/vicecity.jpg",
+    "description": "Build your criminal empire in the sun-soaked streets of 1980s Vice City.",
+    "path": "Games/standalone/gtavicecity.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Kindergarten",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/kindergarten.png",
+    "description": "A darkly humorous puzzle game where surviving a single day at school is a challenge.",
+    "path": "Games/standalone/kindergarten.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Kindergarten 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/kindergarten2.png",
+    "description": "The sequel to the original school survival simulator with more characters and deadly tasks.",
+    "path": "Games/standalone/kindergarten2.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Kindergarten 3",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/kindergarten3.png",
+    "description": "The third installment of the series featuring new puzzles and schoolyard secrets.",
+    "path": "Games/standalone/kindergarten3.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Metal Gear Solid",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/metalgearsolid.png",
+    "description": "Experience the classic tactical espionage action as Solid Snake.",
+    "path": "Games/standalone/metalgearsolid.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Mob Control",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/mobcontrol.png",
+    "description": "Launch people through multipliers and grow your crowd to take over enemy bases.",
+    "path": "Games/standalone/mobcontrol.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Pac Man World 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pacmanworld2.png",
+    "description": "Help Pac-Man recover the Golden Fruit and save Pac-Land from the Ghost Gang.",
+    "path": "Games/standalone/pacmanworld2.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Parappa The Rapper",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/paraappatherapper.png",
+    "description": "The original rhythm game—just gotta believe and keep the flow!",
+    "path": "Games/standalone/parappatherapper.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "FNAF World Refreshed",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnafworldrefreshed.png",
+    "description": "A polished take on the RPG spinoff featuring your favorite animatronic characters.",
+    "path": "Games/standalone/fnafworldrefreshed.html",
+    "category": "RPG",
+    "iframe": true
+  }
 ]
