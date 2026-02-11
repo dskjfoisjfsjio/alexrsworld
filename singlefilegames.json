@@ -4387,5 +4387,110 @@
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fnafworldrefreshed.html",
     "category": "RPG",
     "iframe": true
+  },
+    
+  {
+    "title": "Evolving Bombs 3D",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/evolvingbombs3d.png",
+    "description": "Drop and evolve your bombs to cause maximum destruction in this 3D physics game.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Evolving Bombs 3D.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Doodle Jump",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/doodlejump.png",
+    "description": "Jump from platform to platform as high as you can in this classic endless climber.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/doodlejump.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Human Expenditure Program",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/humanprogram.png",
+    "description": "A mysterious and challenging program where human life is the primary currency.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Human Expenditure Program.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Gun Runner",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/gunrunner.png",
+    "description": "A fast-paced action game where you must run, gun, and survive the onslaught.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Gun Runner.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Karlson",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/karlson.png",
+    "description": "A milk-infused action platformer with physics-based movement and fast combat.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Karlson.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Minecraft 1.5.2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/minecraft152.png",
+    "description": "Play the classic 1.5.2 version of the ultimate block-building sandbox.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Minecraft 1.5.2.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Minecraft 1.12.2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/minecraft 1122.png",
+    "description": "The definitive 1.12.2 experience for block-building and exploration fans.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Minecraft 1.12.2.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Minecraft 1.21.4",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/minecraft 1214.png",
+    "description": "Jump into one of the most modern versions of Minecraft directly in your browser.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Minecraft 1.21.4.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Minecraft Indev",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/minecraftindev.png",
+    "description": "Experience the early days of Minecraft with the In-Development version.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Minecraft Indev.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Omori",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/omori.png",
+    "description": "Explore a strange world full of colorful friends and foes in this psychological horror RPG.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/OMORI.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Rolling Vortex",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/rollyvortex.png",
+    "description": "Navigate through a spinning tunnel and avoid obstacles in this high-speed reflex game.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Rolly Vortex.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Sonic Mania",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/sonicmania.png",
+    "description": "A celebration of the past and future, featuring classic zones and new surprises.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Sonic Mania.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Melon Playground",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/melonplayground.png",
+    "description": "A creative sandbox where you can experiment with various objects on ragdoll melons.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Melon Playground.html",
+    "category": "Arcade",
+    "iframe": true
   }
 ]
