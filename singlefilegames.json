@@ -4492,5 +4492,134 @@
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/Melon Playground.html",
     "category": "Arcade",
     "iframe": true
+  },
+  
+  {
+    "title": "Baldis Basics Plus",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/baldisbasicsplus.png",
+    "description": "An expanded survival horror experience where you must collect notebooks while avoiding Baldi.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/baldisbasicsplus.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "Bank Robbery",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/bankrobbery.png",
+    "description": "Plan and execute the perfect heist in this action-packed robbery simulator.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/bankrobbery.html",
+    "category": "Action",
+    "iframe": true
+  },
+  {
+    "title": "Bank Robbery 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/bankrobbery2.png",
+    "description": "The stakes are higher in this sequel with tougher security and bigger scores.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/bankrobbery2.html",
+    "category": "Action",
+    "iframe": true
+  },
+  {
+    "title": "Bank Robbery 3",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/bankrobbery3.png",
+    "description": "Complete the trilogy with the most advanced bank security systems yet.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/bankrobbery3.html",
+    "category": "Action",
+    "iframe": true
+  },
+  {
+    "title": "Crazy Chicken 3D",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/crazychicken3d.png",
+    "description": "A 3D shooting gallery where you aim for the highest score against fast-moving targets.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/crazychicken3d.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Crazy Kitten 3D",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/crazykitty3d.png",
+    "description": "Control a mischievous kitten in a 3D world full of chaos and fun.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/crazykitty3d.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Shooting Master",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/shootingmaster.png",
+    "description": "Test your precision and timing in various target-practice challenges.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/shootingmaster.html",
+    "category": "Sports",
+    "iframe": true
+  },
+  {
+    "title": "Giant Wanted",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/giantwanted.png",
+    "description": "Take down massive giants threatening the city in this sniper-style action game.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/giantwanted.html",
+    "category": "Action",
+    "iframe": true
+  },
+  {
+    "title": "Slice It All",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/sliceitall.png",
+    "description": "Flip your knife and slice through everything in your path to reach the finish line.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/sliceitall.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Toss the Turtle",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/tosstheturtle.png",
+    "description": "Blast your turtle as far as possible using cannons, bombs, and jetpacks.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/tosstheturtle.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Yandere Simulator",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/yanderesimulator.png",
+    "description": "A stealth game about a girl who will do anything to eliminate her rivals.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/yanderesimulator.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Kirby Super Star Ultra",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/kirbysuperstarultra.png",
+    "description": "The classic NDS remake featuring multiple game modes and iconic copy abilities.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/NDS/kirbysuperstarultra.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Build a Big Army",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/buildabigarmy.png",
+    "description": "Gather troops and grow your forces to overwhelm enemy defenses.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/buildabigarmy.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Arthurs Nightmare",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/arthursnightmare.png",
+    "description": "A fan-made horror game where you must survive a twisted version of Elwood City.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/arthursnightmare.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "3D Bowling",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/3dbowling.png",
+    "description": "Hit the lanes and go for a strike in this realistic 3D bowling simulation.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/3dbowling.html",
+    "category": "Sports",
+    "iframe": true
+  },
+  {
+    "title": "Crush Cars 3D",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/crushcars3d.png",
+    "description": "High-octane vehicular combat where the goal is to be the last car standing.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/crushcars3d.html",
+    "category": "Racing",
+    "iframe": true
   }
 ]
