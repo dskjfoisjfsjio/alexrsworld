@@ -4621,5 +4621,103 @@
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/crushcars3d.html",
     "category": "Racing",
     "iframe": true
+  },
+
+  
+  {
+    "title": "Deltarune",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/deltarune.webp",
+    "description": "A parallel story to Undertale where you explore a mysterious Dark World.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/deltarune.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Five Night's at BIG E",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fivenightsatep.png",
+    "description": "Survive the night against unique animatronic threats in this fan-made horror title.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fivenightsatep.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "Five Nights at Winstons",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fivenightsatwinstons.png",
+    "description": "Monitor the security cameras and manage your power to stay alive until 6 AM.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fivenightsatwinstons.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "Hotline Miami",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/hotlinemiami.png",
+    "description": "A high-octane top-down shooter where speed and brutality are the keys to survival.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/hotlinemiami.html",
+    "category": "Action",
+    "iframe": true
+  },
+  {
+    "title": "Pizza Tower",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pizzatower.png",
+    "description": "A fast-paced 2D platformer inspired by the Wario Land series with a unique art style.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/pizzatower.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Spider Man (GBA)",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/spidermangba.jpg",
+    "description": "Swing through the city and stop crime in this classic GBA handheld adventure.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/GBA/spidermangba.html",
+    "category": "Action",
+    "iframe": true
+  },
+  {
+    "title": "Spider Man 2 (GBA)",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/spiderman2gba.jpg",
+    "description": "The sequel to the handheld hit, featuring new moves and iconic villains.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/GBA/spiderman2gba.html",
+    "category": "Action",
+    "iframe": true
+  },
+  {
+    "title": "Spider Man 3 (GBA)",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/spiderman3gba.jpg",
+    "description": "Experience the black suit and face off against New York's toughest enemies.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/GBA/spiderman3gba.html",
+    "category": "Action",
+    "iframe": true
+  },
+  {
+    "title": "Super Mario World (SNES)",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/supermarioworld.jpg",
+    "description": "The legendary SNES platformer that introduced Yoshi and a massive world map.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/SNES/supermarioworld.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Super Mario All Stars (SNES)",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/supermarioallstars.webp",
+    "description": "A collection of remastered classic Mario titles with updated 16-bit graphics.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/SNES/supermarioallstars.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Sandboxels",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/sandboxels.png",
+    "description": "A falling-sand simulation game where you can experiment with hundreds of elements.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/sandboxels.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Pokemon Unbound",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pokemonunbound.jpeg",
+    "description": "A feature-rich fan game set in the Borrius region with a custom engine.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/pokemonunbound.html",
+    "category": "RPG",
+    "iframe": true
   }
 ]
