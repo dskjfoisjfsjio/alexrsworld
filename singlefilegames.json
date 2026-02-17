@@ -4719,5 +4719,127 @@
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/pokemonunbound.html",
     "category": "RPG",
     "iframe": true
+  },
+
+  
+  {
+    "title": "Swords and Souls",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/swordsandsouls.png",
+    "description": "Train your soul, hero! Battle through the arena and become the ultimate warrior.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/swordsandsouls.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Steal a Brainrot",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/stealabrainbot.jpeg",
+    "description": "A quirky challenge where you navigate through chaotic obstacles.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/stealabrainrot.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Amanda the Adventurer",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/amanda.jpeg",
+    "description": "A seemingly innocent show hides a dark and unsettling secret.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/amandatheadventurer.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "Grow a Garden",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/growagarden.webp",
+    "description": "Nurture your plants and build the ultimate green sanctuary.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/growagarden.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Escape Road 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/escaperoad2.jpeg",
+    "description": "Put the pedal to the metal in this high-stakes driving escape game.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/escaperoad2.html",
+    "category": "Racing",
+    "iframe": true
+  },
+  {
+    "title": "Bomb Slingers",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/boomslingers.jpeg",
+    "description": "Battle opponents with explosive projectiles in this physics-based brawler.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/boomslingers.html",
+    "category": "Action",
+    "iframe": true
+  },
+  {
+    "title": "Achilles",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/achilles.jpeg",
+    "description": "The legendary warrior returns in this classic side-scrolling combat game.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/achilles.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Achilles 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/achilles2.jpeg",
+    "description": "More enemies, more weapons, and more ancient Greek combat action.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/achilles2.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Elastic Man",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/elasticman.png",
+    "description": "A satisfying physics playground where you stretch a very flexible face.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/elasticman.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Sniper Shot",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/snipershot.jpeg",
+    "description": "Precision is key. Take the shot and eliminate the targets from a distance.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/snipershot.html",
+    "category": "Action",
+    "iframe": true
+  },
+  {
+    "title": "Into Space",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/intospace.jpeg",
+    "description": "Launch your rocket and upgrade your way into the outer reaches of the atmosphere.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/intospace.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Into Space 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/intospace2.jpeg",
+    "description": "Reach even further heights with new upgrades and missions.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/intospace2.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Into Space 3",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/intospace3.png",
+    "description": "The ultimate space journey. Build the best rocket to conquer the stars.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/intospace3.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Fears to Fathom Home Alone",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fearstofathomhomealone.png",
+    "description": "An episodic horror game where you survive chilling home-invasion scenarios.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fearstofathomhomealone.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "Zuma",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/zuma.jpeg",
+    "description": "Match colored spheres to clear the path before they reach the skull.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/ruffle/zuma.html",
+    "category": "Puzzle",
+    "iframe": true
   }
 ]
