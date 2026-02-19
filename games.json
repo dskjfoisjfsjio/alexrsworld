@@ -4841,5 +4841,183 @@
     "path": "Games/ruffle/zuma.html",
     "category": "Puzzle",
     "iframe": true
+  },
+
+  
+  {
+    "title": "99 Nights in the Forest",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/99nights.webp",
+    "description": "Survive the dark mysteries of the forest for 99 grueling nights.",
+    "path": "Games/standalone/99nights.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "A Small World Cup",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/asmallworldcup.png",
+    "description": "A fast-paced, physics-based soccer game with tiny players.",
+    "path": "Games/standalone/asmallworldcup.html",
+    "category": "Sports",
+    "iframe": true
+  },
+  {
+    "title": "Buster Jam",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/busterjam.png",
+    "description": "Jump into the rhythm and blast through the obstacles.",
+    "path": "Games/standalone/busterjam.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "CloverPit",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/cloverpit.png",
+    "description": "Test your luck and skill in the depths of the CloverPit.",
+    "path": "Games/standalone/cloverpit.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Cooking Mama",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/cookingmama.png",
+    "description": "Better than Mama! Master the art of the kitchen.",
+    "path": "Games/standalone/cookingmama.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Cooking Mama 2: Dinner with Friends",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/cookingmama2.png",
+    "description": "Serve up delicious meals for your favorite friends.",
+    "path": "Games/standalone/cookingmama2.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Cooking Mama 3: Shop & Chop",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/cookingmama3.png",
+    "description": "Shop for the best ingredients and chop your way to victory.",
+    "path": "Games/standalone/cookingmama3.html",
+    "category": "Cooking",
+    "iframe": true
+  },
+  {
+    "title": "Friday Night Funkin' vs. Pibby Corrupted",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnfvspibby.png",
+    "description": "A glitchy, high-stakes musical battle against the corruption.",
+    "path": "Games/standalone/fnvspibbycorrupted.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Friday Night Funkin' vs. Impostor B-Sides",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnfbsides.png",
+    "description": "The B-Side remixes of the legendary Impostor showdown.",
+    "path": "Games/standalone/fridaynightfunkinvsimpostorbsides.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Friday Night Funkin' vs. Sunday",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnfsunday.png",
+    "description": "Keep the rhythm going in this battle against Sunday.",
+    "path": "Games/standalone/fridaynightfunkinvssunday.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Friday Night Funkin' vs. Hex",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnfhex.png",
+    "description": "Go head-to-head with the robotic basketball pro, Hex.",
+    "path": "Games/standalone/fridaynightfunkinvshex.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Johnny Trigger",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/johnnytrigger.png",
+    "description": "Time your shots perfectly in this stylized slow-motion shooter.",
+    "path": "Games/standalone/johnnytrigger.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Scrap Metal 3",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/scrapmetal3.png",
+    "description": "Drive, crash, and destroy in this ultimate car playground.",
+    "path": "Games/standalone/scrapmetal3.html",
+    "category": "Racing",
+    "iframe": true
+  },
+  {
+    "title": "Silent Hill",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/silenthill.png",
+    "description": "Face your fears in the foggy, monster-filled town.",
+    "path": "Games/standalone/silenthill.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "Stickman and Guns",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/stickmanandguns.png",
+    "description": "Defend yourself against waves of monsters with a variety of weapons.",
+    "path": "Games/standalone/stickmanandguns.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Stickman Destruction",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/stickmandestruction.png",
+    "description": "The goal is simple: cause as much damage as possible to the stickman.",
+    "path": "Games/standalone/stickmandestruction.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Stickman Fight Ragdoll",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/stickmanfightragdoll.png",
+    "description": "Wacky, ragdoll-physics combat where every hit counts.",
+    "path": "Games/standalone/stickmanfightragdoll.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Tall.io",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/tallio.png",
+    "description": "Grow taller and crush your opponents in this addictive arena game.",
+    "path": "Games/standalone/tallio.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "TileTopia",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/tiletopia.png",
+    "description": "A serene yet challenging tile-matching puzzle experience.",
+    "path": "Games/standalone/tiletopia.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Undertale",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/undertale.jpg",
+    "description": "The RPG where you don't have to kill anyone.",
+    "path": "Games/standalone/undertale.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Untitled Goose Game",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/untitledgoosegame.png",
+    "description": "It's a lovely morning in the village, and you are a horrible goose.",
+    "path": "Games/standalone/untitledgoosegame.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "WorldBox",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/worldbox.png",
+    "description": "The ultimate god simulator and sandbox game.",
+    "path": "Games/ruffle/worldbox.html",
+    "category": "Strategy",
+    "iframe": true
   }
 ]
