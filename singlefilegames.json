@@ -5146,7 +5146,7 @@
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/prismclient.png",
     "description": "A powerful Minecraft mod client for performance and customization.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/prisim.html",
-    "category": "Apps",
+    "category": "Adventure",
     "iframe": true
   },
   {
@@ -5154,7 +5154,7 @@
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/nebula.webp",
     "description": "A sleek Minecraft client designed for optimized gameplay.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/nebulaclient.html",
-    "category": "Apps",
+    "category": "Adventure",
     "iframe": true
   },
   {
@@ -5162,7 +5162,7 @@
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/astraclient.webp",
     "description": "An all-in-one Minecraft client for the best experience.",
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/astraclient.html",
-    "category": "Apps",
+    "category": "Adventure",
     "iframe": true
   },
   {
