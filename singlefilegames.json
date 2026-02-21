@@ -5019,56 +5019,6 @@
     "category": "Strategy",
     "iframe": true
   },
-
-  
-  {
-    "title": "Friday Night Funkin vs Zardy",
-    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnfvszardy.png",
-    "description": "A high-intensity musical battle against the living scarecrow, Zardy.",
-    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fnvszardy.html",
-    "category": "Arcade",
-    "iframe": true
-  },
-  {
-    "title": "Friday Night Funkin vs Tabi",
-    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnvstabi.png",
-    "description": "Face off against Ex-Rockstar Tabi in this explosive rhythm showdown.",
-    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fnvstabi.html",
-    "category": "Arcade",
-    "iframe": true
-  },
-  {
-    "title": "Friday Night Funkin vs Sonic.exe",
-    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnvssonicexe.png",
-    "description": "Survive the rhythm battle against the creepy, corrupted version of Sonic.",
-    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fnvssonicexe.html",
-    "category": "Arcade",
-    "iframe": true
-  },
-  {
-    "title": "Friday Night Funkin vs Imposter",
-    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnvsimposter.png",
-    "description": "Don't get ejected! Keep the beat against the suspicious crewmates.",
-    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fnvsimposter.html",
-    "category": "Arcade",
-    "iframe": true
-  },
-  {
-    "title": "Friday Night Funkin vs Bob",
-    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnvsbob.png",
-    "description": "A chaotic battle against the deceptively simple Bob.",
-    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fnvsbob.html",
-    "category": "Arcade",
-    "iframe": true
-  },
-  {
-    "title": "Friday Night Funkin D-Sides",
-    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnfdsides.png",
-    "description": "Experience remixed tracks and fresh designs in this popular FNF overhaul.",
-    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fnfdsides.html",
-    "category": "Arcade",
-    "iframe": true
-  },
   {
     "title": "Pokemon Odyssey",
     "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pokemonodyssey.png",
