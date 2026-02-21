@@ -5040,6 +5040,161 @@
     "path": "Games/ruffle/worldbox.html",
     "category": "Strategy",
     "iframe": true
+  },
+
+  
+  {
+    "title": "Friday Night Funkin vs Zardy",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnfvszardy.png",
+    "description": "A high-intensity musical battle against the living scarecrow, Zardy.",
+    "path": "Games/standalone/fnvszardy.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Friday Night Funkin vs Tabi",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnvstabi.png",
+    "description": "Face off against Ex-Rockstar Tabi in this explosive rhythm showdown.",
+    "path": "Games/standalone/fnvstabi.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Friday Night Funkin vs Sonic.exe",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnvssonicexe.png",
+    "description": "Survive the rhythm battle against the creepy, corrupted version of Sonic.",
+    "path": "Games/standalone/fnvssonicexe.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Friday Night Funkin vs Imposter",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnvsimposter.png",
+    "description": "Don't get ejected! Keep the beat against the suspicious crewmates.",
+    "path": "Games/standalone/fnvsimposter.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Friday Night Funkin vs Bob",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnvsbob.png",
+    "description": "A chaotic battle against the deceptively simple Bob.",
+    "path": "Games/standalone/fnvsbob.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Friday Night Funkin D-Sides",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fnfdsides.png",
+    "description": "Experience remixed tracks and fresh designs in this popular FNF overhaul.",
+    "path": "Games/standalone/fnfdsides.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Pokemon Odyssey",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pokemonodyssey.png",
+    "description": "An adventurous GBA rom hack featuring a new world to explore.",
+    "path": "Games/emulated/GBA/pokeodyssey.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Pokemon Renegade Platinum",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pokemonrenegadeplatinum.jpg",
+    "description": "An enhanced and more difficult version of the Sinnoh classic.",
+    "path": "Games/emulated/NDS/pokerenegadeplat.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Pokemon Platinum",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pokemonplatinum.jpg",
+    "description": "The definitive Sinnoh experience with the legendary Giratina.",
+    "path": "Games/emulated/NDS/pokeplatinum.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Pokemon Pearl",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pokemonpearl.jpg",
+    "description": "Explore the Sinnoh region and capture the space-controlling Palkia.",
+    "path": "Games/emulated/NDS/pokepearl.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Pokemon Peach",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pokemonpeach.jpg",
+    "description": "A unique GBA adventure with custom maps and trainers.",
+    "path": "Games/emulated/GBA/pokemonpeach.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Pokemon Lucid",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pokemonlucid.jpg",
+    "description": "Dive into the vivid world of Pokemon Lucid in this GBA classic.",
+    "path": "Games/emulated/GBA/pokemonlucid.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Pokemon HeartGold",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pokemonheartgold.jpg",
+    "description": "Journey back to Johto and Kanto in this beloved NDS remake.",
+    "path": "Games/emulated/NDS/pokeheartgold.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Pokemon Diamond",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pokemondiamond.jpg",
+    "description": "Begin your journey in Sinnoh to seek out the time-lord Dialga.",
+    "path": "Games/emulated/NDS/pokediamond.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Pokemon SoulSilver",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pokemonsoulsilver.webp",
+    "description": "Explore two regions and face Red in this iconic Johto remake.",
+    "path": "Games/emulated/NDS/pokesoulsilver.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Prism Client",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/prismclient.png",
+    "description": "A powerful Minecraft mod client for performance and customization.",
+    "path": "Games/standalone/prisim.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Nebula",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/nebula.webp",
+    "description": "A sleek Minecraft client designed for optimized gameplay.",
+    "path": "Games/standalone/nebulaclient.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "Astra Client (Minecraft)",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/astraclient.webp",
+    "description": "An all-in-one Minecraft client for the best experience.",
+    "path": "Games/standalone/astraclient.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "New Super Mario Bros.",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/newsupermariobros.jpg",
+    "description": "The classic side-scrolling NDS adventure that revitalized Mario.",
+    "path": "Games/emulated/NDS/newsupermariobros.html",
+    "category": "Adventure",
+    "iframe": true
   }
+
 
 ]
