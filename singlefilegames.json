@@ -5122,6 +5122,151 @@
     "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/NDS/newsupermariobros.html",
     "category": "Adventure",
     "iframe": true
-  }
+  },
 
+  
+  {
+    "title": "64 in one NES",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/64inonenes.png",
+    "description": "A massive collection of classic 8-bit NES games in one package.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/NES/64in1nes.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Anton Blast",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/antonblast.png",
+    "description": "An explosive, fast-paced action platformer with a retro aesthetic.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/antonblast.html",
+    "category": "Adventure",
+    "iframe": true
+  },
+  {
+    "title": "The Legend of Zelda Breath of the Wild NDS",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/breathofthewildnds.png",
+    "description": "A unique de-make of the open-world masterpiece for handheld play.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/NDS/breathofthewildnds.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "A Game About Feeding A Black Hole",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/agameaboutfeedingablackhole.png",
+    "description": "An experimental game where you must satisfy an endless cosmic hunger.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/agameaboutfeedingablackhole.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Backrooms",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/backrooms.png",
+    "description": "Explore the eerie, infinite yellow halls in this survival horror experience.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/backrooms.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "Deltatraveler",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/deltatraveler.png",
+    "description": "Join Kris and Susie as they travel through different game worlds.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/deltatraveler.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Dig Deep",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/digdeep.png",
+    "description": "Mine resources and upgrade your gear in this addictive digging game.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/digdeep.html",
+    "category": "Idle",
+    "iframe": true
+  },
+  {
+    "title": "Famidash",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/famidash.png",
+    "description": "A challenging rhythm-based platformer inspired by 8-bit classics.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/emulated/NES/famidash.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Fused 240",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/fused240.png",
+    "description": "A high-stakes fusion of retro arcade mechanics and modern visuals.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/fused240.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Hypper Sandbox",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/hyppersandbox.png",
+    "description": "Unleash your creativity in this physics-based playground.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/hyppersandbox.html",
+    "category": "Apps",
+    "iframe": true
+  },
+  {
+    "title": "Midnight Shift",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/midnightshift.png",
+    "description": "Survive the spooky mysteries of a late-night work shift.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/midnightshift.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "Radlis Crackhouse",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/raldiscrackhouse.png",
+    "description": "A chaotic and surreal parody of classic educational games.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/raldiscrackhouse.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Pixel Shooter",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/pixelshooter.jpg",
+    "description": "Engage in fast-paced 2D combat in this vibrant pixelated world.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/pixelshooter.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Re:run",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/rerun.png",
+    "description": "A time-warping parkour platformer that tests your reflexes.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/rerun.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Rouge Sergeant the Final Operation",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/roguesergeantthefinaloperation.png",
+    "description": "Take command in this intense final tactical mission.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/rougesergeantthefinaloperation.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Shift at Midnight",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/shiftatmidnight.png",
+    "description": "Can you handle the pressure of the midnight hour?",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/shiftatmidnight.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "Stick With It",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/stickwithit.png",
+    "description": "A physics platformer where staying attached is the key to victory.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/stickwithit.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Undertale Last Breath",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/undertalelastbreath.png",
+    "description": "An intense fan-made expansion to the classic Undertale experience.",
+    "path": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/alexrsworld@main/Games/standalone/undertalelastbreath.html",
+    "category": "RPG",
+    "iframe": true
+  }
 ]
