@@ -5292,6 +5292,168 @@
     "path": "Games/standalone/undertalelastbreath.html",
     "category": "RPG",
     "iframe": true
+  },
+  
+  {
+    "title": "Spiral Roll",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/spiralroll.png",
+    "description": "Chisel away at wood to create spirals and clear obstacles.",
+    "path": "Games/standalone/spiralroll.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Space Funeral",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/spacefuneral.png",
+    "description": "A surreal and uniquely styled RPG adventure.",
+    "path": "Games/standalone/spacefuneral.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Seat Jam 3D",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/seatjam3d.png",
+    "description": "Solve the puzzle of getting everyone into their correct seats.",
+    "path": "Games/standalone/seatjam3d.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Mad Runner 2048",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/manrunner2048.png",
+    "description": "A fast-paced runner that blends math and reflexes.",
+    "path": "Games/standalone/manrunner2048.html",
+    "category": "Runner",
+    "iframe": true
+  },
+  {
+    "title": "Final Fantasy VII",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/finalfantasyvii.png",
+    "description": "The legendary RPG journey of Cloud Strife against Sephiroth.",
+    "path": "Games/standalone/finalfantasyvii.html",
+    "category": "RPG",
+    "iframe": true
+  },
+  {
+    "title": "Evil Glitch",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/evilglitch.png",
+    "description": "Battle through a corrupted digital world in this retro shooter.",
+    "path": "Games/standalone/evilglitch.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Endoparasitic",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/endoparasitic.png",
+    "description": "A tactical horror game where you must survive with only one limb.",
+    "path": "Games/standalone/endoparaisitic.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "Endoparasitic 2",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/endoparasitic 2.png",
+    "description": "The intense sequel with more limbs to lose and more horrors to face.",
+    "path": "Games/standalone/endoparaisitic2.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "Dumb Ways to Die",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/dumbwaystodie.png",
+    "description": "A collection of hilarious and fast-paced mini-games.",
+    "path": "Games/standalone/dumbwaystodie.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Driven Wild",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/drivenwild.png",
+    "description": "High-octane racing through wild and dangerous tracks.",
+    "path": "Games/standalone/drivenwild.html",
+    "category": "Racing",
+    "iframe": true
+  },
+  {
+    "title": "Do NOT Take This Cat Home",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/donottakethiscathome.png",
+    "description": "A creepy psychological horror story about a stray cat.",
+    "path": "Games/standalone/donottakethiscathome.html",
+    "category": "Horror",
+    "iframe": true
+  },
+  {
+    "title": "Cut the Rope Time Travel",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/cuttheropetimetravel.png",
+    "description": "Join Om Nom's ancestors in this time-hopping puzzle adventure.",
+    "path": "Games/standalone/cuttheropetimetravel.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "Cut the Rope Holiday Gift",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/cuttheropeholidaygift.png",
+    "description": "A festive version of the classic physics puzzle game.",
+    "path": "Games/standalone/cuttheropeholidaygift.html",
+    "category": "Puzzle",
+    "iframe": true
+  },
+  {
+    "title": "CG FC 25",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/cgfc25.png",
+    "description": "Experience the latest in mobile-style soccer simulation.",
+    "path": "Games/standalone/cgfc25.html",
+    "category": "Sports",
+    "iframe": true
+  },
+  {
+    "title": "Celeste PICO",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/celestepico.png",
+    "description": "The original PICO-8 version of the beloved platformer.",
+    "path": "Games/standalone/celestepico.html",
+    "category": "Challenging",
+    "iframe": true
+  },
+  {
+    "title": "Cat Gunner Super Zombie Shoot",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/catgunnersuperzombieshoot.png",
+    "description": "Blast through waves of zombies as a heavily armed feline.",
+    "path": "Games/standalone/catgunnersuperzombieshoot.html",
+    "category": "Fighting",
+    "iframe": true
+  },
+  {
+    "title": "Blackjack",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/blackjack.png",
+    "description": "Try your luck and aim for 21 in this classic card game.",
+    "path": "Games/standalone/blackjack.html",
+    "category": "Strategy",
+    "iframe": true
+  },
+  {
+    "title": "Bitplanes",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/bitplanes.png",
+    "description": "Engage in retro-style dogfights and aerial maneuvers.",
+    "path": "Games/standalone/bitplanes.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Bart Blast",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/bartblast.png",
+    "description": "A fast-paced shooting game featuring familiar characters.",
+    "path": "Games/standalone/bartblast.html",
+    "category": "Arcade",
+    "iframe": true
+  },
+  {
+    "title": "Horror Tale",
+    "img": "https://cdn.jsdelivr.net/gh/dskjfoisjfsjio/Standalone-games@main/assets/horrortale.jpg",
+    "description": "Survive the dark secrets of a mysterious and scary village.",
+    "path": "Games/standalone/horrortale.html",
+    "category": "Horror",
+    "iframe": true
   }
+
 
 ]
